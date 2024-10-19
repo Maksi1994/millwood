@@ -4,7 +4,7 @@
     -->
 
     <div class="mt-[10px] w-full lato">
-        <div class="h-[450px] w-full bg-[url(/assets/img/bg.png)] bg-no-repeat bg-center relative lg:mb-[110px] mb-[14px] bg-cover">
+        <div class="lg:h-[450px] h-[320px] w-full bg-[url(/assets/img/bg.png)] bg-no-repeat bg-center relative lg:mb-[110px] mb-[14px] bg-cover">
           <div class="absolute lg:table hidden left-0 top-0 bottom-0 m-auto table p-[24px] bg-white w-[540px]">
             <h1 class="text-[#419B44] uppercase text-[30px] font-extrabold mb-[14px]">
               Зелене будівництво — вибір <br> для відновлення України
@@ -17,7 +17,7 @@
         </div>
 
       <div class="lg:hidden block w-full mb-[62px]">
-        <h1 class="text-[#419B44] uppercase text-[30px] font-extrabold mb-[14px] text-[22px]">
+        <h1 class="text-[#419B44] uppercase text-[22px] font-extrabold mb-[14px] text-[22px]">
           Зелене будівництво — вибір для відновлення України
         </h1>
 
