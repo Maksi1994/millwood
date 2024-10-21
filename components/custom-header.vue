@@ -9,16 +9,16 @@
 
 
     <div class="gap-[20px] lg:flex hidden">
-      <a class="text-[#464B57] text-[16px] font-semibold lato">
+      <a class="text-[#464B57] text-[16px] lato-s lato">
         Про Мілвуд
       </a>
-      <a class="px-[14px] lato font-semibold">
+      <a class="px-[14px] lato lato-s">
         Продукти і рішення
       </a>
-      <a class="text-[#464B57] text-[16px] font-semibold lato">
+      <a class="text-[#464B57] text-[16px] lato-s lato">
         Стійкість
       </a>
-      <a class="text-[#464B57] text-[16px] font-semibold lato">
+      <a class="text-[#464B57] text-[16px] lato-s lato">
         Новини
       </a>
     </div>

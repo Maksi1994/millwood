@@ -4,35 +4,35 @@
   <div class="mt-[20px] w-full lato">
     <div class="lg:h-[450px] h-[320px] w-full bg-[url(/assets/img/about.png)] bg-[40%_top] bg-no-repeat bg-center relative lg:mb-[62px] mb-[14px] bg-cover">
       <div class="absolute lg:table hidden left-0 top-0 bottom-0 m-auto table p-[24px] bg-white w-[490px]">
-        <h1 class="text-[#419B44] uppercase text-[30px] font-extrabold mb-[14px]">
+        <h1 class="text-[#419B44] uppercase text-[30px] lato-e mb-[14px]">
           Ми - спеціалісти у галузі <br> дерев'яних конструкцій
         </h1>
 
-        <p class="text-[#464B57] text-[16px] font-semibold leading-[24px]">
+        <p class="text-[#464B57] text-[16px] lato-s leading-[24px]">
           Впроваджуємо сучасні, екологічно чисті рішення <br> для будівництва, створюючи міцні та стійкі <br> конструкції для кращого майбутнього
         </p>
       </div>
     </div>
 
     <div class="lg:hidden block w-full mb-[62px]">
-      <h1 class="text-[#419B44] uppercase text-[22px] font-extrabold mb-[14px] text-[22px]">
+      <h1 class="text-[#419B44] uppercase text-[22px] lato-e mb-[14px] text-[22px]">
         Ми - спеціалісти у галузі дерев'яних конструкцій
       </h1>
 
-      <p class="text-[#464B57] text-[16px] font-semibold leading-[24px]">
+      <p class="text-[#464B57] text-[16px] lato-s leading-[24px]">
         Впроваджуємо сучасні, екологічно чисті рішення для будівництва, створюючи міцні та стійкі конструкції для кращого майбутнього
       </p>
     </div>
 
     <div class="mb-[48px]">
       <div>
-        <p class="text-[#61656F] lg:text-[18px] text-[16px] font-semibold lg:leading-[28px] leading-[22px] lg:mb-[24px] mb-[18px]">
+        <p class="text-[#61656F] lg:text-[18px] text-[16px] lato-s lg:leading-[28px] leading-[22px] lg:mb-[24px] mb-[18px]">
           Мілвуд — це підприємство, що спеціалізується на виготовленні сучасних дерев'яних конструкційних матеріалів і каркасних будівель і споруд, яке активно впроваджує інновації та новітні технології. Компанія прагне розвивати ринок екологічних будівель в Україні, створюючи рішення відповідно до європейських стандартів. Ми – сімейна компанія, яка з 2011 року успішно працює в деревообробній галузі, розташована в мальовничих українських Карпатах. За цей час ми зарекомендували себе як надійний виробник дерев'яних конструкційних матеріалів, який поєднує традиції з сучасними технологіями.
         </p>
-        <p class="text-[#61656F] lg:text-[18px] text-[16px] font-semibold lg:leading-[28px] leading-[22px] lg:mb-[24px] mb-[18px]">
+        <p class="text-[#61656F] lg:text-[18px] text-[16px] lato-s lg:leading-[28px] leading-[22px] lg:mb-[24px] mb-[18px]">
           Важливим напрямком нашої роботи є постійне впровадження інновацій та технологій, що дозволяє нам покращувати якість продукції та підвищувати ефективність виробничих процесів. Ми завжди прагнемо відповідати найсучаснішим вимогам ринку та наших клієнтів, пропонуючи індивідуальні рішення, які задовольняють потреби кожного замовника. Наша гнучкість та уважність до деталей дозволяють нам будувати довготривалі відносини з партнерами та клієнтами.
         </p>
-        <p class="text-[#61656F] lg:text-[18px] text-[16px] font-semibold lg:leading-[28px] leading-[22px]">
+        <p class="text-[#61656F] lg:text-[18px] text-[16px] lato-s lg:leading-[28px] leading-[22px]">
           Ми дбаємо про навколишнє середовище та дотримуємося принципів сталого розвитку. Зниження екологічного сліду нашої продукції та впровадження підходів циркулярної економіки – ключові елементи нашої стратегії, що дозволяють нам виробляти екологічно безпечні конструкційні матеріали.
         </p>
       </div>

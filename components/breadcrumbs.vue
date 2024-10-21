@@ -1,5 +1,5 @@
 <template>
-  <div class="py-[12px] border-b border-solid border-[#ECEDEE] text-[#60656D] lato text-[12px] font-medium">
+  <div class="py-[12px] border-b border-solid border-[#ECEDEE] text-[#60656D] lato text-[12px] lato-m">
     <h1 class="flex items-center leading-[12px]">
       <a href="/">
         Домашня сторінка

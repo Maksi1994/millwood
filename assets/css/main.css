@@ -1,9 +1,46 @@
-@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
-
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
-.lato {
-    font-family: Lato, sans-serif;
+@font-face {
+    font-family: "LatoH";
+    src: url("/assets/fonts/Lato-Heavy.ttf");
+    font-weight: 800;
 }
+
+@font-face {
+    font-family: "LatoBold";
+    src: url("/assets/fonts/Lato-Bold.ttf");
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: "LatoSemibold";
+    src: url("/assets/fonts/Lato-Semibold.ttf");
+    font-weight: 600;
+}
+
+@font-face {
+    font-family: "LatoMedium";
+    src: url("/assets/fonts/Lato-Medium.ttf");
+    font-weight: 500;
+}
+
+.lato-m {
+    font-family: 'LatoMedium', sans-serif;
+}
+
+.lato-s {
+    font-family: 'LatoSemibold', sans-serif;
+}
+
+.lato-b {
+    font-family: 'LatoBold', sans-serif;
+}
+
+.lato-e {
+    font-family: 'LatoH', sans-serif;
+}
+
+
+

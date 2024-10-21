@@ -4,8 +4,8 @@
     <div>
       <NuxtPage />
     </div>
-    <custom-footer/>
   </NuxtLayout>
+  <custom-footer/>
 </template>
 <script setup lang="ts">
 import CustomHeader from '~/components/custom-header.vue';
