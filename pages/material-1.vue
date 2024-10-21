@@ -34,7 +34,7 @@
 
     <div class="mb-[24px]">
       <h1 class="lg:text-[24px] text-[18px] text-[#464B57] lato-b mb-[24px]">
-        Використання конструкційної деревини C24:
+        Асортимент та характеристики
       </h1>
 
       <div class="flex flex-col gap-[2px]">
@@ -128,11 +128,11 @@
     </div>
 
     <h1 class="lg:text-[30px] text-[18px] text-[#464B57] lato-e mb-[24px]">
-      Опис продукту
+      Приклад блоку
     </h1>
 
     <p class="text-[#61656F] lato-s lg:text-[18px] text-[16px] lg:leading-[28px] leading-[22px] lg:mb-[24px] mb-[18px]">
-      Конструкційна деревина C24 — це будівельний матеріал, який використовується у конструкціях і виготовляється зі спеціально відібраної деревини. Клас C24 вказує на міцність і якість деревини, яка відповідає стандарту ДСТУ EN 14081.
+      Naše čtyři evropské výrobní jednotky jsou spojeny s našimi pilami, což nám umožňuje udržet si kontrolu nad celým dodavatelským řetězcem od surovin až po hotovou komponentu na míru. To znamená minimální přepravu mezi závody, čímž se snižují emise uhlíku, ale také spolehlivé zásobování s lepšími službami a včasnými dodávkami.
     </p>
 
     <div class="pb-[42px] w-full border-[#ECEDEE] border-solid border-b mb-[56px]">
