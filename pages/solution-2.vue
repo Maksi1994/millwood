@@ -30,33 +30,33 @@
       </p>
     </div>
 
-    <div class="mb-[48px]">
-      <div class="lg:mb-[24px] mb-[34px]">
-        <h1 class="lg:text-[30px] lg:text-[22px] text-[18px] text-[#464B57] lato-e mb-[24px] mb-[18px]">
+    <div class="mb-[30px]">
+      <div class="lg:mb-[11px] mb-[27px]">
+        <h1 class="lg:text-[24px] text-[18px] text-[#464B57] lato-e lg:mb-[24px] mb-[20px]">
           1. Виробництво з високою точністю:
         </h1>
 
-        <p class="text-[#61656F] lg:text-[18px] text-[16px] lato-s lg:leading-[28px] leading-[22px] lg:mb-[24px] mb-[18px]">
+        <p class="text-[#61656F] lg:text-[18px] text-[16px] lato-s lg:leading-[28px] leading-[22px">
           Інженерні вироби з деревини, такі як каркасні елементи, стіни, панелі перекриття, зовнішні фасадні панелі (які можуть бути замінені на готові фасадні рішення) виготовляються в заводських умовах із високою точністю, що призводить до якісного процесу монтажу на будівельному майданчику.
         </p>
       </div>
 
-      <div class="lg:mb-[24px] mb-[34px]">
-        <h1 class="lg:text-[30px] lg:text-[22px] text-[18px] text-[#464B57] lato-e mb-[24px] mb-[18px]">
+      <div class="lg:mb-[11px] mb-[27px]">
+        <h1 class="lg:text-[24px]  text-[18px] text-[#464B57] lato-e lg:mb-[24px] mb-[20px]">
           2.	Скорочення часу будівництва, та швидша окупність інвестицій:
         </h1>
 
-        <p class="text-[#61656F] lg:text-[18px] text-[16px] lato-s lg:leading-[28px] leading-[22px] lg:mb-[24px] mb-[18px]">
+        <p class="text-[#61656F] lg:text-[18px] text-[16px] lato-s lg:leading-[28px] leading-[22px]">
           Термін будівництва значно скорочується за рахунок збирання каркасу будівлі на місці з готових елементів. Швидший час будівництва призводить до зниження витрат на проект. Дерев'яно-гібридні будівлі є енергоефективними завдяки відмінним теплоізоляційним властивостям деревини. Це призводить до зменшення витрат на енергію під час експлуатації.
         </p>
       </div>
 
-      <div class="lg:mb-[24px] mb-[34px]">
-        <h1 class="lg:text-[30px] lg:text-[22px] text-[18px] text-[#464B57] lato-e lg:mb-[24px] mb-[18px]">
+      <div class="lg:mb-[11px] mb-[27px]">
+        <h1 class="lg:text-[24px] text-[18px] text-[#464B57] lato-e lg:mb-[24px] mb-[20px]">
           3.  Екологічність:
         </h1>
 
-        <p class="text-[#61656F] lg:text-[18px] text-[16px] lato-s lg:leading-[28px] leading-[22px] lg:mb-[24px] mb-[18px]">
+        <p class="text-[#61656F] lg:text-[18px] text-[16px] lato-s lg:leading-[28px] leading-[22px]">
           Інженерні дерев'яні вироби, виготовлені з клеєної деревини (Glulam), а також крос-ламінована деревина (CLT), відіграють ключову роль у біоциркулярній економіці. Цей підхід спрямований на зменшення відходів та оптимізацію використання природних ресурсів через циркуляцію матеріалів у виробничих та споживчих циклах.
         </p>
       </div>
@@ -70,7 +70,12 @@
       Скорочення часу будівництва, підвищення ефективності використання ресурсів, менше відходів і шуму, зниження витрат та поліпшення здоров'я і безпеки.  Клеєна конструкційна (інженерна) деревина є відновлювальним ресурсом, яка не тільки зберігає вуглець, а й підтримує біоекономіку, допомагаючи зменшити вуглецевий слід будівництва. Це важливий фактор у контексті глобальних зусиль щодо боротьби з кліматичними змінами.
     </p>
 
-    <ul class="lg:text-[18px] text-[18px] lg:leading-normal leading-[22px] flex flex-col lg:gap-[20px] gap-[4px] text-[#61656F] font-normal list-disc lg:pl-[20px] pl-[15px] mb-[48px]">
+
+    <h1 class="lg:text-[24px] text-[18px] text-[#464B57] lato-e mb-[24px]">
+      Чому варто обрати клеєну конструкційну деревину для вашого наступного проекту?
+    </h1>
+
+    <ul class="lg:text-[18px] text-[18px] lg:leading-normal leading-[22px] flex flex-col gap-[12px] text-[#61656F] font-normal list-disc lg:pl-[20px] pl-[15px] mb-[48px]">
       <li><span class="text-[#61656F] lato-e">Швидше, тихіше та безпечніше:</span> Це забезпечує значну економію часу та коштів.</li>
       <li><span class="text-[#61656F] lato-e">Естетична привабливість:</span> Клеєна конструкційна деревина має природний вигляд і може бути використана для створення вражаючих архітектурних форм і дизайну.</li>
       <li><span class="text-[#61656F] lato-e">Відсутність компромісів:</span> Незважаючи на сучасний і естетичний вигляд, ці конструкційні елементи забезпечують необхідну міцність і стабільність, відповідаючи всім нормативам і стандартам.</li>
@@ -80,13 +85,11 @@
 
     <div class="flex justify-between mb-[56px] lg:flex-nowrap gap-[10 flex-wrap">
       <img draggable="false" class="lg:w-[316px] h-[316px] w-full object-cover" src="/assets/img/solution-sample-1-1.png" alt="">
-      <!--
-      <img draggable="false" class="lg:w-[316px] lg:h-[316px] h-[200px] w-full" src="/assets/img/solution-sample-1-2.png" alt="">
-      <img draggable="false" class="lg:w-[316px] lg:h-[316px] h-[200px] w-full" src="/assets/img/solution-sample-1-3.png" alt="">
-      -->
+      <img draggable="false" class="lg:w-[316px] lg:h-[316px] h-[200px] w-full lg:block hidden" src="/assets/img/solution-sample-1-2.png" alt="">
+      <img draggable="false" class="lg:w-[316px] lg:h-[316px] h-[200px] w-full lg:block hidden" src="/assets/img/solution-sample-1-3.png" alt="">
     </div>
 
-    <div class="lg:w-[100vw] lg:mb-[110px] mb-[48px] lg:-ml-[calc((100vw-996px)/2)] bg-[#F4F9F4] py-[42px] lg:mr-0 -mx-[16px] lg:px-0 px-[16px]">
+    <div class="lg:w-[100vw] lg:mb-[40px] mb-[48px] lg:-ml-[calc((100vw-996px)/2)] bg-[#F4F9F4] py-[42px] lg:mr-0 -mx-[16px] lg:px-0 px-[16px]">
       <h1 class="text-[#419B44] text-center lg:text-[32px] text-[20px] lato-e leading-[35px] mb-[25px]">
         Наша продукція підтверджена сертифікатами
         <br>

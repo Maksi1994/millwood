@@ -13,6 +13,16 @@
       </div>
     </div>
 
+    <div class="lg:hidden block w-full mb-[35px]">
+      <h1 class="text-[#419B44] uppercase text-[22px] lato-e mb-[14px] text-[22px]">
+        Стійкість - ключове значення для компаній
+      </h1>
+
+      <p class="text-[#464B57] text-[16px] lato-s leading-[24px]">
+        Відповідальне використання природних ресурсів та зменшення негативного впливу на навколишнє середовище поліпшує якість нашого життя
+      </p>
+    </div>
+
     <div class="mb-[48px]">
       <h1 class="lg:text-[30px] text-[22px] text-[#464B57] lato-e mb-[18px]">
         Наша філософія

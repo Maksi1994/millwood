@@ -12,7 +12,7 @@
       <img class="lg:w-[477px] lg:h-[225px] w-[328px] mx-auto object-center object-cover lg:ml-[17px]" src="/assets/img/solution-1.png" alt="">
     </div>
 
-    <div class="lg:hidden flex items-center bg-[#419B44] p-[16px] text-white w-full text-[20px] mb-[48px]">
+    <div class="lg:hidden flex items-center bg-[#419B44] p-[16px] text-white w-full text-[20px] mb-[40px]">
       <h1 class="text-white uppercase lato-e">
         Індустріальні будівлі
       </h1>
@@ -27,8 +27,8 @@
       </p>
     </div>
 
-    <div class="mb-[11px]">
-      <h1 class="lg:text-[24px] text-[18px] text-[#464B57] lato-e mb-[24px]">
+    <div class="lg:mb-[11px] mb-[20px]">
+      <h1 class="lg:text-[24px] text-[18px] text-[#464B57] lato-e lg:mb-[24px] mb-[20px]">
         1.	Екологічність та естетика:
       </h1>
 
@@ -37,8 +37,8 @@
       </p>
     </div>
 
-    <div class="mb-[1px]">
-      <h1 class="lg:text-[24px] text-[18px] text-[#464B57] lato-e mb-[24px]">
+    <div class="lg:mb-[11px] mb-[27px]">
+      <h1 class="lg:text-[24px] text-[18px] text-[#464B57] lato-e lg:mb-[24px] mb-[20px]">
         2.	Ціна:
       </h1>
 
@@ -48,8 +48,8 @@
     </div>
 
 
-    <div class="mb-[11px]">
-      <h1 class="lg:text-[24px] text-[18px] text-[#464B57] lato-e mb-[24px]">
+    <div class="lg:mb-[11px] mb-[27px]">
+      <h1 class="lg:text-[24px] text-[18px] text-[#464B57] lato-e lg:mb-[24px] mb-[20px]">
         3.  Легкість і міцність:
       </h1>
 
@@ -59,8 +59,8 @@
     </div>
 
 
-    <div class="mb-[11px]">
-      <h1 class="lg:text-[24px] text-[18px] text-[#464B57] lato-e mb-[24px]">
+    <div class="lg:mb-[11px] mb-[27px]">
+      <h1 class="lg:text-[24px] text-[18px] text-[#464B57] lato-e lg:mb-[24px] mb-[20px]">
         4.  Швидкість монтажу:
       </h1>
 
@@ -69,8 +69,8 @@
       </p>
     </div>
 
-    <div class="mb-[48px]">
-      <h1 class="lg:text-[24px] text-[18px] text-[#464B57] lato-e mb-[24px]">
+    <div class="lg:mb-[11px] mb-[27px]">
+      <h1 class="lg:text-[24px] text-[18px] text-[#464B57] lato-e lg:mb-[24px] mb-[27px]">
         5.	Фасад:
       </h1>
 
@@ -79,23 +79,23 @@
       </p>
     </div>
 
-    <p class="text-[#61656F] lg:text-[18px] text-[16px] lato-s lg:leading-[28px] leading-[22px] my-[48px]">
+    <p class="text-[#61656F] lg:text-[18px] text-[16px] lato-s lg:leading-[28px] leading-[22px] my-[48px] mt-[27px]">
       Загалом, правильно спроектовані дерев'яні каркасні будівлі можуть мати термін служби від 50 до 100 років. У деяких випадках, з використанням сучасних технологій і матеріалів, цей термін може бути ще довшим. Наприклад, будівлі з клеєної деревини (Glulam) можуть служити понад 100 років, якщо їх правильно обслуговувати.
     </p>
 
-    <h1 class="lg:text-[30px] text-[22px] text-[#464B57] text-[#000] lato-e mb-[24px]">
+    <h1 class="lg:text-[30px] text-[22px] text-[#464B57] text-[#000] lato-e lg:mb-[24px] mb-[17px]">
       Який результат?
     </h1>
 
-    <p class="text-[#61656F] lg:text-[18px] text-[16px] lato-s lg:leading-[28px] leading-[22px] lg:my-[24px] my-[18px] lg:mb-[17px]">
+    <p class="text-[#61656F] lg:text-[18px] text-[16px] lato-s lg:leading-[28px] leading-[22px] lg:my-[24px] my-[18px] mb-[15px] lg:mb-[17px]">
       Скорочення часу будівництва, підвищення ефективності використання ресурсів, менше відходів і шуму, зниження витрат та поліпшення здоров'я і безпеки.  Клеєна конструкційна (інженерна) деревина є відновлювальним ресурсом, яка не тільки зберігає вуглець, а й підтримує біоекономіку, допомагаючи зменшити вуглецевий слід будівництва. Це важливий фактор у контексті глобальних зусиль щодо боротьби з кліматичними змінами.
     </p>
 
-    <h1 class="lg:text-[24px] text-[18px] text-[#464B57] lato-e mb-[24px]">
+    <h1 class="lg:text-[24px] text-[18px] lg:leading-[24px] leading-[19px] text-[#464B57] lato-e mb-[24px]">
       Чому варто обрати клеєну конструкційну деревину для вашого наступного проекту?
     </h1>
 
-    <ul class="lg:text-[18px] text-[18px] lg:leading-normal leading-[22px] flex flex-col lg:gap-[12px] gap-[8px] text-[#61656F] font-normal list-disc pl-[25px] lg:mb-[48px] mb-[24px]">
+    <ul class="lg:text-[18px] text-[18px] lg:leading-normal leading-[22px] flex flex-col gap-[12px] text-[#61656F] font-normal list-disc pl-[25px] lg:mb-[48px] mb-[24px]">
       <li><span class="text-[#61656F] lato-e">Швидше, тихіше та безпечніше:</span> Це забезпечує значну економію часу та коштів.</li>
       <li><span class="text-[#61656F] lato-e">Естетична привабливість:</span> Клеєна конструкційна деревина має природний вигляд і може бути використана для створення вражаючих архітектурних форм і дизайну.</li>
       <li><span class="text-[#61656F] lato-e">Відсутність компромісів:</span> Незважаючи на сучасний і естетичний вигляд, ці конструкційні елементи забезпечують необхідну міцність і стабільність, відповідаючи всім нормативам і стандартам.</li>
@@ -109,7 +109,7 @@
       <img draggable="false" class="lg:w-[316px] lg:h-[316px] h-[200px] w-full lg:block hidden" src="/assets/img/solution-sample-1-3.png" alt="">
     </div>
 
-    <div class="lg:w-[100vw] lg:mb-[38px] mb-[48px] lg:-ml-[calc((100vw-996px)/2)] bg-[#F4F9F4] py-[42px] lg:mr-0 -mx-[16px] lg:px-0 px-[16px]">
+    <div class="lg:w-[100vw] lg:mb-[40px] mb-[48px] lg:-ml-[calc((100vw-996px)/2)] bg-[#F4F9F4] py-[42px] lg:mr-0 -mx-[16px] lg:px-0 px-[16px]">
       <h1 class="text-[#419B44] text-center lg:text-[32px] text-[20px] lato-e leading-[35px] mb-[25px]">
         Наша продукція підтверджена сертифікатами
         <br>

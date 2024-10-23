@@ -14,7 +14,7 @@
       </div>
     </div>
 
-    <div class="lg:hidden block w-full mb-[62px]">
+    <div class="lg:hidden block w-full mb-[35px]">
       <h1 class="text-[#419B44] uppercase text-[22px] lato-e mb-[14px] text-[22px]">
         Ми - спеціалісти у галузі дерев'яних конструкцій
       </h1>
