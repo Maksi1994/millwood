@@ -575,7 +575,7 @@
       <div class="w-[125px] h-[98px] flex items-center justify-center border-r border-solid border-[#ECEDEE]">
         <img draggable="" src="/assets/img/icons/i.svg" alt="">
       </div>
-      
+
       <div class="flex w-full flex-col lato-b text-[16px] text-[#61656F] leading-[18.5px] justify-center text-center">
         <span>Класи міцності: GL24h, GL28h | Якість: Si/NSi | Термін поставки: 6-8 тижнів</span>
         <span> Максимально можлива висота балки 1200 мм (спец. замовлення), довжина до 13000 мм</span>

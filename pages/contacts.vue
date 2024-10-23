@@ -2,25 +2,25 @@
   <breadcrumbs/>
 
   <div class="lg:px-[48px] px-0 lg:mt-[42px] mt-[28px]">
-    <div class="flex lg:flex-row flex-col lg:gap-[127px] gap-[28px] lg:items-start items-center mb-[48px]">
+    <div class="flex lg:flex-row flex-col lg:gap-[127px] gap-[28px] lg:items-end items-center mb-[48px]">
       <div class="lg:w-[386px] w-full">
         <img draggable="false" class="mx-auto" src="/assets/img/founder.png" alt="">
         <div class="text-[#1F1C25] text-[16px] flex items-center justify-center h-[48px] lato-m border border-solid border-[#ECEDEE] bg-[#FAFAFA]">
-          i.bukhanevych@millwood.com.ua
+          <img draggable="false" class="w-[20px] h-[20px] mr-[8px]" src="/assets/img/icons/mail.svg"> i.bukhanevych@millwood.com.ua
         </div>
       </div>
 
 
       <form class="lg:w-[387px] w-full">
-        <h1 class="text-[#1F1C25] lg:text-[28px] text-[22px] lato-b lg:text-left text-center">
+        <h1 class="text-[#1F1C25] lg:text-[28px] leading-[33px] text-[22px] lato-b lg:text-left text-center">
           У вас є запитання?
         </h1>
-        <p class="text-[#61656F] lg:text-[20px] text-[16px] lato-m mb-[32px] lg:text-left text-center">
+        <p class="text-[#61656F] lg:text-[20px] text-[16px] lato-m mb-[25px] lg:text-left text-center">
           Ми з радістю проконсультуємо!
         </p>
 
 
-        <div class="flex flex-col gap-[14px] mb-[24px]">
+        <div class="flex flex-col gap-[7px] mb-[24px]">
           <input class="p-[10px] border-b border-solid border-[#D9D9D9] lg:text-[18px] text-[16px] text-[#1F1C25] border-b-2	outline-0	focus:border-[#419B44]" placeholder="Ваше Імʼя" type="text"/>
 
           <input class="p-[10px] border-b border-solid border-[#D9D9D9] lg:text-[18px] text-[16px] text-[#1F1C25] border-b-2	outline-0	focus:border-[#419B44]" placeholder="E-mail" type="email"/>

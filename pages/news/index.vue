@@ -3,16 +3,16 @@
 
   <div class="mt-[20px] w-full lato">
     <div>
-      <h1 class="lg:text-[30px] text-[22px] text-[#000] lato-e mb-[24px]">
+      <h1 class="lg:text-[30px] text-[22px] text-[#000] lato-e mb-[24px] tracking-[1.2px]">
         Всі новини
       </h1>
 
       <div class="flex gap-[12px] mb-[48px] flex-wrap">
-        <div class="p-[14px] border-[#ECEDEE] lg:mb-[24px] border border-solid shadow flex flex-col gap-[18px] lg:w-[324px] w-full">
+        <div class="p-[14px] border-[#ECEDEE] lg:mb-[12px] border border-solid shadow flex flex-col gap-[18px] lg:w-[324px] w-full">
           <img class="object-center w-full max-h-[200px] object-contain lg:max-h-auto lg:object-cover" src="/assets/img/news-1.png" alt="">
 
           <div>
-            <h1 class="mb-[12px] text-[#464B57] lato lato-b mb-[12px]">
+            <h1 class="mb-[12px] text-[#464B57] lato lato-b mb-[12px] text-[20px] leading-[25px]">
               Výběr kvalitních materiálů pro konstrukce dřevostavby
             </h1>
 
@@ -27,7 +27,7 @@
             </div>
           </div>
 
-          <div>
+          <div class="-my-[10px]">
             <p class="text-[#61656F] text-[18px] lato-s leading-[24px]">
               V době, kdy se nacházíme na křižovatce mezi ekologickým chováním a ekonomickou efektivitou
             </p>
@@ -41,11 +41,11 @@
 
         </div>
 
-        <div class="p-[14px] border-[#ECEDEE] lg:mb-[24px] border border-solid shadow flex flex-col gap-[18px] lg:w-[324px] w-full">
+        <div class="p-[14px] border-[#ECEDEE] lg:mb-[12px] border border-solid shadow flex flex-col gap-[18px] lg:w-[324px] w-full">
           <img class="object-center w-full max-h-[200px] object-contain lg:max-h-auto lg:object-cover" src="/assets/img/news-2.png" alt="">
 
           <div>
-            <h1 class="mb-[12px] text-[#464B57] lato lato-b mb-[12px]">
+            <h1 class="mb-[12px] text-[#464B57] lato lato-b mb-[12px] text-[20px] leading-[25px]">
               Výběr kvalitních materiálů pro konstrukce dřevostavby
             </h1>
 
@@ -60,8 +60,8 @@
             </div>
           </div>
 
-          <div>
-            <p class="text-[#61656F] text-[18px] lato-s leading-[24px]">
+          <div class="-my-[10px]">
+            <p class="text-[#61656F] text-[18px] lato-s">
               V době, kdy se nacházíme na křižovatce mezi ekologickým chováním a ekonomickou efektivitou
             </p>
 
@@ -74,11 +74,11 @@
 
         </div>
 
-        <div class="p-[14px] border-[#ECEDEE] lg:mb-[24px] border border-solid shadow flex flex-col gap-[18px] lg:w-[324px] w-full">
+        <div class="p-[14px] border-[#ECEDEE] lg:mb-[12px] border border-solid shadow flex flex-col gap-[18px] lg:w-[324px] w-full">
           <img class="object-center w-full max-h-[200px] object-contain lg:max-h-auto lg:object-cover" src="/assets/img/news-3.png" alt="">
 
           <div>
-            <h1 class="mb-[12px] text-[#464B57] lato lato-b mb-[12px]">
+            <h1 class="mb-[12px] text-[#464B57] lato lato-b mb-[12px] text-[20px] leading-[25px]">
               Výběr kvalitních materiálů pro konstrukce dřevostavby
             </h1>
 
@@ -93,8 +93,8 @@
             </div>
           </div>
 
-          <div>
-            <p class="text-[#61656F] text-[18px] lato-s leading-[24px]">
+          <div class="-my-[10px]">
+            <p class="text-[#61656F] text-[18px] lato-s">
               V době, kdy se nacházíme na křižovatce mezi ekologickým chováním a ekonomickou efektivitou
             </p>
 
@@ -107,11 +107,11 @@
 
         </div>
 
-        <div class="p-[14px] border-[#ECEDEE] lg:mb-[24px] border border-solid shadow flex flex-col gap-[18px] lg:w-[324px] w-full">
+        <div class="p-[14px] border-[#ECEDEE] lg:mb-[12px] border border-solid shadow flex flex-col gap-[18px] lg:w-[324px] w-full">
           <img class="object-center w-full max-h-[200px] object-contain lg:max-h-auto lg:object-cover" src="/assets/img/news-2.png" alt="">
 
           <div>
-            <h1 class="mb-[12px] text-[#464B57] lato lato-b mb-[12px]">
+            <h1 class="mb-[12px] text-[#464B57] lato lato-b mb-[12px] text-[20px] leading-[25px]">
               Výběr kvalitních materiálů pro konstrukce dřevostavby
             </h1>
 
@@ -126,8 +126,8 @@
             </div>
           </div>
 
-          <div>
-            <p class="text-[#61656F] text-[18px] lato-s leading-[24px]">
+          <div class="-my-[10px]">
+            <p class="text-[#61656F] text-[18px] lato-s">
               V době, kdy se nacházíme na křižovatce mezi ekologickým chováním a ekonomickou efektivitou
             </p>
 
@@ -140,11 +140,11 @@
 
         </div>
 
-        <div class="p-[14px] border-[#ECEDEE] lg:mb-[24px] border border-solid shadow flex flex-col gap-[18px] lg:w-[324px] w-full">
+        <div class="p-[14px] border-[#ECEDEE] lg:mb-[12px] border border-solid shadow flex flex-col gap-[18px] lg:w-[324px] w-full">
           <img class="object-center w-full max-h-[200px] object-contain lg:max-h-auto lg:object-cover" src="/assets/img/news-3.png" alt="">
 
           <div>
-            <h1 class="mb-[12px] text-[#464B57] lato lato-b mb-[12px]">
+            <h1 class="mb-[12px] text-[#464B57] lato lato-b mb-[12px] text-[20px] leading-[25px]">
               Výběr kvalitních materiálů pro konstrukce dřevostavby
             </h1>
 
@@ -159,7 +159,7 @@
             </div>
           </div>
 
-          <div>
+          <div class="-my-[10px]">
             <p class="text-[#61656F] text-[18px] lato-s leading-[24px]">
               V době, kdy se nacházíme na křižovatce mezi ekologickým chováním a ekonomickou efektivitou
             </p>

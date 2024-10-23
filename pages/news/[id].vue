@@ -1,10 +1,10 @@
 <template>
   <breadcrumbs/>
-  <div class="lg:h-[450px] h-[320px] w-full bg-[url(/assets/img/about.png)] bg-[40%_top] bg-no-repeat bg-center relative lg:mb-[62px] lg:mb-[42px] mb-[14px] bg-cover">
+  <div class="lg:h-[345px] mt-[20px] h-[320px] w-full bg-[url(/assets/img/about.png)] bg-[40%_top] bg-no-repeat bg-center relative lg:mb-[40px] mb-[14px] bg-cover">
   </div>
 
   <div class="pb-[14px] lg:border-b border-[#ECEDEE] border-solid lg:mb-[42px] mb-[24px]">
-    <h1 class="text-[#464B57] lg:text-[28px] text-[22px] lato-b mb-[12px]">Výběr kvalitních materiálů pro konstrukce dřevostavby</h1>
+    <h1 class="text-[#464B57] lg:text-[28px] text-[22px] lato-b mb-[5px]">Výběr kvalitních materiálů pro konstrukce dřevostavby</h1>
 
     <div class="flex items-center lg:flex-nowrap flex-wrap">
       <div class="px-[12px] text-[12px] h-[24] leading-[24px] bg-[#F6F6F6]">
@@ -26,7 +26,7 @@
     </div>
   </div>
 
-  <p class="text-[#61656F] lg:text-[18px] text-[16px] lato-s lg:leading-[28px] leading-[22px] lg:mb-[48px] mb-[18px]">
+  <p class="text-[#61656F] lg:text-[18px] text-[16px] lato-s lg:leading-[28px] leading-[22px] lg:mb-[45px] mb-[18px]">
     Naše společnost klade velký důraz na pohodlí a spokojenost našich zákazníků. Naše služby vám umožňují flexibilně a bezstarostně získat požadované produkty včas a na místo, kde je potřebujete.
   </p>
 
@@ -34,7 +34,7 @@
     Osobní Odběr:
   </h1>
 
-  <p class="text-[#464B57] lg:text-[18px] text-[16px] lato-s lg:leading-[28px] leading-[22px] lg:mb-[48px] mb-[18px]">
+  <p class="text-[#464B57] lg:text-[18px] text-[16px] lato-s lg:leading-[28px] leading-[22px] lg:mb-[25px] mb-[18px]">
     Pro ty, kteří preferují osobní kontakt a zboží si prohlídnout, nabízíme možnost osobního odběru ze skladu. Osobní odběr je možný od pondělí do pátku v čase od 7:00 do 16:00 a v sobotu po předchozí telefonické domluvě. Stačí si přijet pro své zboží do našeho skladu v Palné nad Lužnicí (V).
   </p>
 
@@ -42,7 +42,7 @@
     Doprava na místo:
   </h1>
 
-  <ul class="lg:text-[28px] text-[16px] lg:leading-normal leading-[22px] flex flex-col lg:gap-[20px] gap-[4px] text-[#61656F] font-normal list-disc lg:pl-[25px] pl-[15px] mb-[42px]">
+  <ul class="lg:text-[18px] text-[16px] lg:leading-normal leading-[22px] flex flex-col lg:gap-[13px] gap-[4px] text-[#61656F] font-normal list-disc lg:pl-[25px] pl-[15px] mb-[42px]">
     <li>Při vytváření objednávky si vyberte preferovaný způsob dopravy.</li>
     <li>Uveďte doručovací adresu a sdělte nám, zda máte zájem o vykládku zboží na místě určení.</li>
     <li>Po odeslání objednávky vám náš manažer do 24 hodin zašle kalkulaci ceny za dopravu, která zohledňuje rozměry, hmotnost, vzdálenost a specifika přepravy a vykládky.</li>
@@ -53,8 +53,8 @@
   </ul>
 
   <div class="mb-[24px]">
-    <img class="w-full lg:h-[350px] h-[280px] object-cover object-center" src="/assets/img/article-img.png" alt="">
-    <p class="text-center text-[#666B73] italic lato-m mt-[12px]">
+    <img class="w-full lg:h-[395px] h-[280px] object-cover object-center" src="/assets/img/article-img.png" alt="">
+    <p class="text-center text-[#666B73] italic lato-m mt-[12px] text-[14px]">
       <span class="mr-[5px]">
         Picture 1.
       </span>
@@ -64,16 +64,16 @@
     </p>
   </div>
 
-  <h1 class="lg:text-[30px] text-[22px] text-[#464B57] lato-e mb-[24px]">
+  <h1 class="lg:text-[24px] text-[22px] text-[#464B57] lato-e mb-[14px]">
     Doručení menších kusových zásilek:
   </h1>
 
-  <p class="text-[#464B57] text-[16px] lato-s leading-[28px] lg:mb-[112px] mb-[48px]">
+  <p class="text-[#464B57] text-[16px] lato-s leading-[28px] lg:mb-[105px] mb-[48px]">
     Pro menší kusové zásilky materiálu o délce 3-6 metrů využíváme spolupráci s externími společnostmi Top Trans a FOFR. Cenu dopravy vám sdělíme po dokončení objednávky a domluvíme se s vámi na vhodném termínu. Vaše pohodlí je pro nás prioritou.
   </p>
 
-  <div class="mb-[120px]">
-    <h1 class="lg:text-[30px] text-[22px] text-[#000] lato-e mb-[24px]">
+  <div class="mb-[90px]">
+    <h1 class="lg:text-[30px] text-[22px] text-[#000] lato-e mb-[24px] tracking-[1.5px]">
       Новини
     </h1>
 

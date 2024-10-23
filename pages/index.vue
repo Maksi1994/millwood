@@ -3,15 +3,15 @@
     <navigation-board/>
     -->
 
-    <div class="mt-[10px] w-full">
-      <div class="lg:h-[450px] h-[320px] w-full bg-[url(/assets/img/bg.png)] bg-no-repeat bg-center relative lg:mb-[110px] mb-[14px] bg-cover">
+    <div class="mt-[15px] w-full">
+      <div class="lg:h-[400px] h-[320px] w-full bg-[url(/assets/img/bg.png)] bg-no-repeat bg-center relative lg:mb-[110px] mb-[14px] bg-cover">
           <div class="absolute lg:table hidden left-0 top-0 bottom-0 m-auto table p-[24px] bg-white w-[540px]">
             <h1 class="text-[#419B44] uppercase text-[30px] lato-e mb-[14px]">
               Зелене будівництво — вибір <br> для відновлення України
             </h1>
 
             <p class="text-[#464B57] text-[16px] lato-s leading-[24px]">
-              Наша місія полягає в наданні ефективних, надійних та екологічно сталих рішень для будівництва.
+              Наша місія полягає в наданні ефективних, надійних та <br> екологічно сталих рішень для будівництва.
             </p>
           </div>
         </div>
@@ -26,28 +26,28 @@
         </p>
       </div>
 
-        <div class="mb-[62px]">
+        <div class="mb-[50px]">
           <h1 class="lg:text-[30px] text-[22px] text-[#464B57] lato-e mb-[24px]">
             Будівельні концепції
           </h1>
 
           <div class="flex gap-[24px] md:flex-nowrap flex-wrap">
             <div class="border border-solid border-[#ECEDEE] md:w-[316px] w-full h-[305px] flex flex-col justify-between shadow">
-              <div class="px-[9xp] py-[19px]">
+              <div class="px-[9xp] py-[19px] pt0">
                 <img src="/assets/img/industrial.png" alt="" class="w-full mx-auto max-w-[300px]">
               </div>
 
-              <h1 class="text-[#464B57] text-[20px] lato-b leading-[87px] text-center">
+              <h1 class="text-[#464B57] text-[20px] lato-b leading-[125px] text-center">
                 Індустріальні будівлі
               </h1>
             </div>
 
             <div class="border border-solid border-[#ECEDEE] md:w-[316px] w-full h-[305px] flex flex-col justify-between shadow">
-              <div class="px-[9xp] py-[19px]">
-                <img src="/assets/img/living.png" alt="" class="w-full mx-auto max-w-[300px]">
+              <div class="px-[9xp]">
+                <img src="/assets/img/living.png" alt="" class="w-full mx-auto max-w-[300px] h-[180px]">
               </div>
 
-              <h1 class="text-[#464B57] text-[20px] lato-b leading-[87px] text-center">
+              <h1 class="text-[#464B57] text-[20px] lato-b leading-[125px] text-center">
                 Житлові будівлі
               </h1>
             </div>
@@ -57,7 +57,7 @@
                 <img src="/assets/img/social.png" alt="" class="w-full max-w-[168px] h-[168px] mx-auto">
               </div>
 
-              <h1 class="text-[#464B57] text-[20px] lato-b leading-[87px] text-center">
+              <h1 class="text-[#464B57] text-[20px] lato-b leading-[50px] h-full text-center">
                 Соціальні будівлі
               </h1>
             </div>
@@ -70,9 +70,9 @@
           </h1>
 
           <div class="flex gap-[24px] md:flex-nowrap flex-wrap">
-            <div class="border h-[346px] border-solid border-[#ECEDEE] lg:w-[316px] w-full h-[346px] p-[14px] flex flex-col gap-[24px] shadow">
+            <div class="border h-[346px] border-solid border-[#ECEDEE] lg:w-[316px] w-full h-[346px] p-[14px] flex flex-col gap-[10px] shadow">
               <div>
-                <img src="/assets/img/material-1.png" alt="" class="w-full lg:h-[166px] mx-auto max-w-[300px]">
+                <img src="/assets/img/material-1.png" alt="" class="w-full lg:h-[166px] mx-auto max-w-[300px] object-[20px]">
               </div>
 
               <h1 class="text-[#464B57] text-[20px] lato-m leading-normal">
@@ -80,26 +80,26 @@
                 <br>
                 деревина C24
               </h1>
-              
-              <div class="h-[42px] shrink-0 w-full bg-[#FAFAFA] border-[#ECEDEE] border border-solid text-[#464B57] flex items-center justify-center cursor-pointer">
+
+              <div class="h-[42px] shrink-0 w-full bg-[#FAFAFA] border-[#ECEDEE] lg:mt-[24px] border border-solid text-[#464B57] flex items-center justify-center cursor-pointer">
                 <span class="flex gap-[10px] text-[16px]">
                   Детальніше
-                  
+
                   <img src="/assets/img/icons/button-arrow.png" draggable="false" class="w-[20px] h-[20px]" alt="">
                 </span>
               </div>
             </div>
 
-            <div class="border h-[346px] border-solid border-[#ECEDEE] lg:w-[316px] w-full h-[346px] flex flex-col shadow p-[14px] gap-[24px]">
+            <div class="border h-[346px] border-solid border-[#ECEDEE] lg:w-[316px] w-full h-[346px] flex flex-col shadow p-[14px] gap-[10px]">
               <div>
-                <img src="/assets/img/material-2.png" alt="" class="w-full lg:h-[166px] mx-auto max-w-[300px]">
+                <img src="/assets/img/material-2.png" alt="" class="w-full lg:h-[166px] mx-auto max-w-[300px] object-[20px_-25px]">
               </div>
 
               <h1 class="text-[#464B57] text-[20px] lato-m leading-normal">
-               <span class="break-keep">Клеєна деревина з шиповими</span>  <br> з’єднаннями (kvh с24)
+                <span class="break-keep">Клеєна деревина з шиповими</span>  <br> з’єднаннями (kvh с24)
               </h1>
 
-              <div class="h-[42px] w-full bg-[#FAFAFA] border-[#ECEDEE] border border-solid text-[#464B57] items-center shrink-0 flex justify-center cursor-pointer">
+              <div class="h-[42px] w-full bg-[#FAFAFA] border-[#ECEDEE] border lg:mt-[24px] border-solid text-[#464B57] items-center shrink-0 flex justify-center cursor-pointer">
                 <span class="flex gap-[10px] text-[16px]">
                   Детальніше
 
@@ -108,16 +108,16 @@
               </div>
             </div>
 
-            <div class="border h-[346px] border-solid border-[#ECEDEE] lg:w-[316px] w-full h-[346px] flex flex-col shadow p-[14px] gap-[24px]">
+            <div class="border h-[346px] border-solid border-[#ECEDEE] lg:w-[316px] w-full h-[346px] flex flex-col shadow p-[14px] gap-[10px]">
               <div>
-                <img src="/assets/img/material-3.png" alt="" class="w-full lg:h-[166px] mx-auto max-w-[300px]">
+                <img src="/assets/img/material-3.png" alt="" class="w-full lg:h-[166px] mx-auto max-w-[300px] object-[40px_-10px]">
               </div>
 
               <h1 class="text-[#464B57] text-[20px] lato-m leading-normal">
                 Клеєна багатошарова <br> деревина (GLT/Glulam)
               </h1>
 
-              <div class="h-[42px] w-full bg-[#FAFAFA] border-[#ECEDEE] border border-solid text-[#464B57] items-center shrink-0  flex justify-center cursor-pointer">
+              <div class="h-[42px] w-full bg-[#FAFAFA] border-[#ECEDEE] border lg:mt-[24px] border-solid text-[#464B57] items-center shrink-0  flex justify-center cursor-pointer">
                 <span class="flex gap-[10px] text-[16px]">
                   Детальніше
 
@@ -127,9 +127,10 @@
             </div>
           </div>
 
+
         </div>
 
-        <div class="lg:w-[100vw] mb-[110px] lg:-ml-[calc((100vw-996px)/2)] bg-[#F4F9F4] py-[42px]">
+        <div class="lg:w-[100vw] mb-[110px] lg:-ml-[calc((100vw-996px)/2)] bg-[#F4F9F4] py-[36px] pb-[26px]">
           <h1 class="text-[#419B44] text-center lg:text-[32px] text-[20px] lato-e leading-[35px] mb-[25px]">
             Наша продукція підтверджена сертифікатами
             <br>
@@ -143,21 +144,21 @@
           <div class="flex justify-center lg:gap-[42px] gap-[14px] lg:mt-[42px] mt-[24px]">
               <div class="w-[152px] flex flex-col justify-end">
                   <img src="/assets/img/icons/sirculation.svg" class="mx-auto lg:max-w-[90px] max-w-[60px]" alt="">
-                  <h1 class="text-[#464B57] lato lato-b text-center lg:text-[16px] text-[11px] mt-[14px]">
+                  <h1 class="text-[#464B57] lato lato-b text-center lg:text-[16px] text-[11px] mt-[5px] uppercase">
                     Циркулярність
                   </h1>
               </div>
 
             <div class="w-[152px] flex flex-col justify-end">
               <img src="/assets/img/icons/sertificate.svg" class="mx-auto lg:py-[19px] pb-[5px] lg:max-w-[90px] max-w-[60px]" alt="">
-              <h1 class="text-[#464B57] lato lato-b text-center lg:text-[16px] text-[11px] mt-[14px]">
+              <h1 class="text-[#464B57] lato lato-b text-center lg:text-[16px] text-[11px] mt-[5px] uppercase">
                 Відповідність
               </h1>
             </div>
 
             <div class="w-[152px] flex flex-col justify-end">
               <img src="/assets/img/icons/stabilty.svg" class="mx-auto lg:py-[9px] lg:max-w-[90px] max-w-[60px]" alt="">
-              <h1 class="text-[#464B57] lato lato-b text-center lg:text-[16px] text-[11px] mt-[14px]">
+              <h1 class="text-[#464B57] lato lato-b text-center lg:text-[16px] text-[11px] mt-[5px] uppercase">
                 Сталість
               </h1>
             </div>

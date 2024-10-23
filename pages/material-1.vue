@@ -1,9 +1,9 @@
 <template>
   <breadcrumbs/>
 
-  <div class="mt-[10px] w-full">
-    <div class="h-[250px] w-full top-content-gradient relative lg:mb-[42px] mb-[14px] bg-cover">
-      <div class="absolute lato-e text-[32px] text-[#464B57] uppercase leading-[48px] lg:table hidden left-[32px] top-[32px] bottom-[32px] m-auto table p-[24px] w-[540px]">
+  <div class="mt-[24px] w-full">
+    <div class="h-[245px] w-full top-content-gradient relative lg:mb-[30px] mb-[14px] bg-cover">
+      <div class="absolute lato-e text-[32px] text-[#464B57] uppercase leading-[48px] lg:table hidden left-[32px] top-[32px] bottom-[32px] m-auto table p-[24px] pl-[10px] w-[540px]">
         Конструкційна
         <br>
         деревина C24
@@ -22,10 +22,10 @@
     </div>
 
     <div class="mb-[48px]">
-      <h1 class="lg:text-[24px] text-[18px] text-[#464B57] lato-b mb-[24px]">
+      <h1 class="lg:text-[24px] text-[18px] text-[#464B57] lato-b mb-[18px]">
         Використання конструкційної деревини C24:
       </h1>
-      <ul class="lg:text-[18px] text-[18px] lg:leading-normal leading-[22px] flex flex-col lg:gap-[20px] gap-[4px] text-[#61656F] lato-s list-disc lg:pl-[20px] pl-[15px] lg:mb-[24px] mb-[18px]">
+      <ul class="lg:text-[18px] text-[18px] lg:leading-normal leading-[22px] flex flex-col lg:gap-[12px] gap-[4px] text-[#61656F] lato-s list-disc lg:pl-[25px] pl-[15px] lg:mb-[24px] mb-[18px]">
         <li>Дерев'яні каркасні будинки</li>
         <li>Виробники ферм і стінових панелей</li>
         <li>Роздрібні торговці</li>
@@ -101,7 +101,7 @@
       </div>
 
     </div>
-    
+
     <div class="px-[18px] py-[14px] h-[73px] flex items-center border-[#ECEDEE] border-solid border bg-[#FAFAFA] mb-[48px]">
       <img draggable="false" class="w-[42px] h-[42px] mr-[14px]" src="/assets/img/icons/file-pdf.svg" alt="">
 

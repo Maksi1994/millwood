@@ -1,8 +1,9 @@
 <template>
   <div class="flex lg:py-[20px] py-[14px] items-center">
-
+    <!--
     <img class="w-[16px] h-[16px] cursor-pointer mr-[16px]" draggable="false" src="/assets/img/icons/menu-line.svg" alt="">
     <img class="w-[16px] h-[16px] cursor-pointer mr-[16px] hidden" draggable="false" src="/assets/img/icons/x.svg" alt="">
+    -->
 
     <img src="/assets/img/icons/logo.svg" draggable="false" class="w-[200px] mr-[50px] lg:block hidden">
     <img src="/assets/img/logo-mobile.svg" draggable="false" class="w-[172px] mr-[28px] lg:hidden">

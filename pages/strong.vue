@@ -1,22 +1,21 @@
 <template>
   <breadcrumbs/>
 
-  <div class="mt-[20px] w-full lato">
-    <div class="lg:h-[450px] h-[320px] w-full bg-[url(/assets/img/strong.png)] bg-no-repeat bg-center relative lg:mb-[62px] mb-[14px] bg-cover">
+  <div class="mt-[25px] w-full lato">
+    <div class="lg:h-[395px] h-[320px] w-full bg-[url(/assets/img/strong.png)] bg-no-repeat bg-center relative lg:mb-[55px] mb-[14px] bg-cover">
       <div class="absolute lg:table hidden left-0 top-0 bottom-0 m-auto table p-[24px] bg-white w-[490px]">
-        <h1 class="text-[#419B44] uppercase text-[30px] lato-e mb-[14px]">
+        <h1 class="text-[#419B44] leading-[45px] uppercase text-[30px] lato-e mb-[14px]">
           Стійкість - ключове <br> значення для компаній
         </h1>
 
-        <p class="text-[#464B57] text-[16px] lato-s lg:leading-[28px] leading-[22px]">
-          Відповідальне використання природних ресурсів та зменшення негативного впливу на навколишнє середовище поліпшує якість нашого життя
-        </p>
+        <p class="text-[#464B57] text-[18px] lato-s lg:leading-[28px] leading-[22px]">
+          Відповідальне використання природних ресурсів та <br> зменшення негативного впливу на навколишнє <br> середовище поліпшує якість нашого життя        </p>
       </div>
     </div>
 
     <div class="mb-[48px]">
-      <h1 class="lg:text-[30px] text-[22px] text-[#464B57] lato-e mb-[24px]">
-        Будівельні концепції
+      <h1 class="lg:text-[30px] text-[22px] text-[#464B57] lato-e mb-[18px]">
+        Наша філософія
       </h1>
 
       <div>
@@ -33,15 +32,18 @@
 
     </div>
 
-    <div class="mb-[48px]">
-      <h1 class="lg:text-[30px] text-[22px] text-[#464B57] lato-e mb-[24px]">
+    <div class="mb-[45px]">
+      <h1 class="lg:text-[30px] text-[22px] text-[#464B57] lato-e mb-[18px]">
         Біоциркулярна економіка
       </h1>
 
       <div>
-        <p class="text-[#61656F] lg:text-[18px] text-[16px] lato-s lg:leading-[28px] leading-[22px]">
+        <p class="text-[#61656F] lg:text-[18px] text-[16px] lato-s lg:leading-[28px] leading-[22px] mb-[24px]">
           Ми активно впроваджуємо принципи біоциркулярної економіки у нашу діяльність. Це означає, що ми прагнемо до безвідходного виробництва, де кожен елемент нашої продукції може бути повторно використаний або перероблений. Всі відходи, що виникають у процесі виробництва, переробляються і використовуються для створення нових продуктів або енергії, що зменшує наш екологічний слід.
         </p>
+
+        <p class="text-[#61656F] lg:text-[18px] text-[16px] lato-s lg:leading-[28px] leading-[22px]">
+          Ми вважаємо, що наш внесок у екологічну сталість створює цінність для наших клієнтів, партнерів і суспільства загалом. Обираючи нашу продукцію, ви стаєте частиною цього зусилля, підтримуючи відповідальне використання ресурсів і захист навколишнього середовища для майбутніх поколінь.        </p>
       </div>
 
     </div>
