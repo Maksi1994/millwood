@@ -105,10 +105,8 @@
 
     <div class="flex justify-between mb-[56px] lg:flex-nowrap gap-[10 flex-wrap">
       <img draggable="false" class="lg:w-[316px] h-[316px] w-full object-cover" src="/assets/img/solution-sample-1-1.png" alt="">
-      <!--
-      <img draggable="false" class="lg:w-[316px] lg:h-[316px] h-[200px] w-full" src="/assets/img/solution-sample-1-2.png" alt="">
-      <img draggable="false" class="lg:w-[316px] lg:h-[316px] h-[200px] w-full" src="/assets/img/solution-sample-1-3.png" alt="">
-      -->
+      <img draggable="false" class="lg:w-[316px] lg:h-[316px] h-[200px] w-full lg:block hidden" src="/assets/img/solution-sample-1-2.png" alt="">
+      <img draggable="false" class="lg:w-[316px] lg:h-[316px] h-[200px] w-full lg:block hidden" src="/assets/img/solution-sample-1-3.png" alt="">
     </div>
 
     <div class="lg:w-[100vw] lg:mb-[38px] mb-[48px] lg:-ml-[calc((100vw-996px)/2)] bg-[#F4F9F4] py-[42px] lg:mr-0 -mx-[16px] lg:px-0 px-[16px]">
@@ -125,21 +123,21 @@
       <div class="flex justify-center lg:gap-[42px] gap-[14px] lg:mt-[42px] mt-[24px]">
         <div class="w-[152px] flex flex-col justify-end">
           <img src="/assets/img/icons/sirculation.svg" class="mx-auto lg:max-w-[90px] max-w-[60px]" alt="">
-          <h1 class="text-[#464B57] lato lato-b text-center lg:text-[16px] text-[11px] mt-[14px]">
+          <h1 class="text-[#464B57] lato lato-b text-center lg:text-[16px] text-[11px] mt-[14px] uppercase">
             Циркулярність
           </h1>
         </div>
 
         <div class="w-[152px] flex flex-col justify-end">
           <img src="/assets/img/icons/sertificate.svg" class="mx-auto lg:py-[19px] pb-[5px] lg:max-w-[90px] max-w-[60px]" alt="">
-          <h1 class="text-[#464B57] lato lato-b text-center lg:text-[16px] text-[11px] mt-[14px]">
+          <h1 class="text-[#464B57] lato lato-b text-center lg:text-[16px] text-[11px] mt-[14px] uppercase">
             Відповідність
           </h1>
         </div>
 
         <div class="w-[152px] flex flex-col justify-end">
           <img src="/assets/img/icons/stabilty.svg" class="mx-auto lg:py-[9px] lg:max-w-[90px] max-w-[60px]" alt="">
-          <h1 class="text-[#464B57] lato lato-b text-center lg:text-[16px] text-[11px] mt-[14px]">
+          <h1 class="text-[#464B57] lato lato-b text-center lg:text-[16px] text-[11px] mt-[14px] uppercase">
             Сталість
           </h1>
         </div>

@@ -1,7 +1,5 @@
 <template>
-    <!--
     <navigation-board/>
-    -->
 
     <div class="mt-[15px] w-full">
       <div class="lg:h-[400px] h-[320px] w-full bg-[url(/assets/img/bg.png)] bg-no-repeat bg-center relative lg:mb-[110px] mb-[14px] bg-cover">
@@ -130,10 +128,10 @@
 
         </div>
 
-        <div class="lg:w-[100vw] mb-[110px] lg:-ml-[calc((100vw-996px)/2)] bg-[#F4F9F4] py-[36px] pb-[26px]">
+        <div class="lg:w-[100vw] lg:mb-[38px] mb-[48px] lg:-ml-[calc((100vw-996px)/2)] bg-[#F4F9F4] py-[42px] lg:mr-0 -mx-[16px] lg:px-0 px-[16px]">
           <h1 class="text-[#419B44] text-center lg:text-[32px] text-[20px] lato-e leading-[35px] mb-[25px]">
             Наша продукція підтверджена сертифікатами
-            <br>
+            <br class="lg:block hidden">Наша продукці
             та визнанням у галузі
           </h1>
 
@@ -195,7 +193,7 @@
                 V době, kdy se nacházíme na křižovatce mezi ekologickým chováním a ekonomickou efektivitou
               </p>
 
-              <div class="py-[12px] px-[24px] cursor-pointer lato-m text-[#464B57] text-center mt-[24px] flex items-center justify-center">
+              <div class="py-[12px] px-[24px] cursor-pointer lato-m text-[#464B57] text-center mt-[24px] lg:flex hidden items-center justify-center">
                 Читати більше
 
                 <img draggable="false" src="/assets/img/icons/caret-right.png" class="w-[20px] h-[20px] ml-[10px]" alt="">
@@ -228,7 +226,7 @@
                 V době, kdy se nacházíme na křižovatce mezi ekologickým chováním a ekonomickou efektivitou
               </p>
 
-              <div class="py-[12px] px-[24px] cursor-pointer lato-m text-[#464B57] text-center mt-[24px] flex items-center justify-center">
+              <div class="py-[12px] px-[24px] cursor-pointer lato-m text-[#464B57] text-center mt-[24px] lg:flex hidden items-center justify-center">
                 Читати більше
 
                 <img draggable="false" src="/assets/img/icons/caret-right.png" class="w-[20px] h-[20px] ml-[10px]" alt="">
@@ -261,7 +259,7 @@
                 V době, kdy se nacházíme na křižovatce mezi ekologickým chováním a ekonomickou efektivitou
               </p>
 
-              <div class="py-[12px] px-[24px] cursor-pointer lato-m text-[#464B57] text-center mt-[24px] flex items-center justify-center">
+              <div class="py-[12px] px-[24px] cursor-pointer lato-m text-[#464B57] text-center mt-[24px] lg:flex hidden items-center justify-center">
                 Читати більше
 
                 <img draggable="false" src="/assets/img/icons/caret-right.png" class="w-[20px] h-[20px] ml-[10px]" alt="">
@@ -283,8 +281,6 @@
 </script>
 
 <style scoped>
-.shadow {
-  box-shadow: 0px 54px 15px 0px rgba(0, 0, 0, 0.00), 0px 35px 14px 0px rgba(0, 0, 0, 0.00), 0px 19px 12px 0px rgba(0, 0, 0, 0.01), 0px 9px 9px 0px rgba(0, 0, 0, 0.02), 0px 2px 5px 0px rgba(0, 0, 0, 0.02);
-}
+
 </style>
 

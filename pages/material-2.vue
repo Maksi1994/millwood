@@ -1274,3 +1274,10 @@
     </div>
   </div>
 </template>
+
+
+<style>
+.top-content-gradient {
+  background: linear-gradient(180deg, #F4F4F4 0%, #FBFBFB 100%);
+}
+</style>

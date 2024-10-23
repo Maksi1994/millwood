@@ -42,5 +42,9 @@
     font-family: 'LatoH', sans-serif;
 }
 
+.shadow {
+    box-shadow: 0px 54px 15px 0px rgba(0, 0, 0, 0.00), 0px 35px 14px 0px rgba(0, 0, 0, 0.00), 0px 19px 12px 0px rgba(0, 0, 0, 0.01), 0px 9px 9px 0px rgba(0, 0, 0, 0.02), 0px 2px 5px 0px rgba(0, 0, 0, 0.02);
+}
+
 
 

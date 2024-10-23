@@ -1,18 +1,34 @@
 <template>
   <div class="w-full bg-[#FAFAFA] lato lg:px-0 px-[16px]">
     <div class="py-[24px] lg:w-[996px] mx-auto flex lg:flex-row flex-col lg:gap-[42px] gap-[32px] justify-between">
-      <div class="lg:w-auto w-[270px]">
-        <img src="/assets/img/logo-mobile.svg" draggable="false" class="w-[153px] mb-[5px]"/>
+      <div class="lg:w-auto lg:w-[270px]">
+        <div class="flex w-full">
+          <img src="/assets/img/logo-mobile.svg" draggable="false" class="w-[153px] mb-[5px]"/>
+
+          <div class="flex lg:hidden ml-auto gap-[10px]">
+            <a href="/" class="group">
+              <img class="w-[24px] h-[24px] group-hover:hidden" src="assets/img/icons/in.svg">
+              <img class="w-[24px] h-[24px] hidden group-hover:block" src="assets/img/icons/in-active.svg">
+            </a>
+            <a href="" class="group">
+              <img class="w-[24px] h-[24px] group-hover:hidden" src="assets/img/icons/youtube.svg">
+              <img class="w-[24px] h-[24px] hidden group-hover:block" src="assets/img/icons/youtube-active.svg">
+            </a>
+          </div>
+        </div>
+
         <p class="text-[#61656F] text-[14px] mb-[13px] lato-s">
           Інноваційна компанія на ринку <br>
           екологічних будівель України
         </p>
-        <div class="flex gap-[10px]">
-          <a href="/">
-            <img class="w-[24px] h-[24px]" src="assets/img/icons/in.svg">
+        <div class="lg:flex hidden gap-[10px]">
+          <a href="/" class="group">
+            <img class="w-[24px] h-[24px] group-hover:hidden" src="assets/img/icons/in.svg">
+            <img class="w-[24px] h-[24px] hidden group-hover:block" src="assets/img/icons/in-active.svg">
           </a>
-          <a href="">
-            <img class="w-[24px] h-[24px]" src="assets/img/icons/youtube.svg">
+          <a href="" class="group">
+            <img class="w-[24px] h-[24px] group-hover:hidden" src="assets/img/icons/youtube.svg">
+            <img class="w-[24px] h-[24px] hidden group-hover:block" src="assets/img/icons/youtube-active.svg">
           </a>
         </div>
       </div>

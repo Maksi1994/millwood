@@ -2,7 +2,7 @@
   <breadcrumbs/>
 
   <div class="mt-[10px] w-full">
-    <div class="lg:h-[450px] h-[320px] w-full flex items-center bg-[#F4F9F4] bg-no-repeat bg-center relative lg:mb-[42px] bg-cover">
+    <div class="lg:h-[340px] h-[240px] w-full flex items-center bg-[#F4F9F4] bg-no-repeat bg-center relative lg:mb-[42px] bg-cover">
       <div class="lg:flex items-center hidden bg-[#419B44] p-[24px] text-white w-[421px] p-[24px]">
         <h1 class="text-white uppercase text-[36px] lato-e">
           Соціальні та
@@ -75,21 +75,21 @@
       <div class="flex justify-center lg:gap-[42px] gap-[14px] lg:mt-[42px] mt-[24px]">
         <div class="w-[152px] flex flex-col justify-end">
           <img src="/assets/img/icons/sirculation.svg" class="mx-auto lg:max-w-[90px] max-w-[60px]" alt="">
-          <h1 class="text-[#464B57] lato lato-b text-center lg:text-[16px] text-[11px] mt-[14px]">
+          <h1 class="text-[#464B57] lato lato-b text-center lg:text-[16px] text-[11px] mt-[14px] uppercase">
             Циркулярність
           </h1>
         </div>
 
         <div class="w-[152px] flex flex-col justify-end">
           <img src="/assets/img/icons/sertificate.svg" class="mx-auto lg:py-[19px] pb-[5px] lg:max-w-[90px] max-w-[60px]" alt="">
-          <h1 class="text-[#464B57] lato lato-b text-center lg:text-[16px] text-[11px] mt-[14px]">
+          <h1 class="text-[#464B57] lato lato-b text-center lg:text-[16px] text-[11px] mt-[14px] uppercase">
             Відповідність
           </h1>
         </div>
 
         <div class="w-[152px] flex flex-col justify-end">
           <img src="/assets/img/icons/stabilty.svg" class="mx-auto lg:py-[9px] lg:max-w-[90px] max-w-[60px]" alt="">
-          <h1 class="text-[#464B57] lato lato-b text-center lg:text-[16px] text-[11px] mt-[14px]">
+          <h1 class="text-[#464B57] lato lato-b text-center lg:text-[16px] text-[11px] mt-[14px] uppercase">
             Сталість
           </h1>
         </div>
