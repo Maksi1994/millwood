@@ -1,7 +1,7 @@
 <template>
   <breadcrumbs/>
 
-  <div class="mt-[10px] w-full">
+  <div class="mt-[24px] w-full">
     <div class="lg:h-[340px] h-[240px] h-[240px] w-full flex items-center bg-[#F4F9F4] bg-no-repeat bg-center relative lg:mb-[42px] bg-cover">
       <div class="lg:flex items-center hidden bg-[#419B44] p-[24px] text-white w-[384px] p-[24px]">
         <h1 class="text-white uppercase text-[36px] lato-e">
