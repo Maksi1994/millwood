@@ -66,15 +66,15 @@
           <div class="max-w-[calc(100vw-(32px+76px))] flex flex-col gap-[2px] overflow-auto">
             <div class="flex w-full gap-[2px]">
               <div class="bg-[#419B44] w-[33.3%] shrink-0 lg:w-[85px] h-[54px] text-white flex items-center justify-center">60</div>
-              <div class="bg-[#419B44] w-[33.3%] shrink-0 lg:w-[85px] h-[54px] text-white flex items-center justify-center">60</div>
-              <div class="bg-[#419B44] w-[33.3%] shrink-0 lg:w-[85px] h-[54px] text-white flex items-center justify-center">60</div>
-              <div class="bg-[#419B44] w-[33.3%] shrink-0 lg:w-[85px] h-[54px] text-white flex items-center justify-center">60</div>
-              <div class="bg-[#419B44] w-[33.3%] shrink-0 lg:w-[85px] h-[54px] text-white flex items-center justify-center">60</div>
-              <div class="bg-[#419B44] w-[33.3%] shrink-0 lg:w-[85px] h-[54px] text-white flex items-center justify-center">60</div>
-              <div class="bg-[#419B44] w-[33.3%] shrink-0 lg:w-[85px] h-[54px] text-white flex items-center justify-center">60</div>
-              <div class="bg-[#419B44] w-[33.3%] shrink-0 lg:w-[85px] h-[54px] text-white flex items-center justify-center">60</div>
-              <div class="bg-[#419B44] w-[33.3%] shrink-0 lg:w-[85px] h-[54px] text-white flex items-center justify-center">60</div>
-              <div class="bg-[#419B44] w-[33.3%] shrink-0 lg:w-[85px] h-[54px] text-white flex items-center justify-center">60</div>
+              <div class="bg-[#419B44] w-[33.3%] shrink-0 lg:w-[85px] h-[54px] text-white flex items-center justify-center">80</div>
+              <div class="bg-[#419B44] w-[33.3%] shrink-0 lg:w-[85px] h-[54px] text-white flex items-center justify-center">100</div>
+              <div class="bg-[#419B44] w-[33.3%] shrink-0 lg:w-[85px] h-[54px] text-white flex items-center justify-center">120</div>
+              <div class="bg-[#419B44] w-[33.3%] shrink-0 lg:w-[85px] h-[54px] text-white flex items-center justify-center">140</div>
+              <div class="bg-[#419B44] w-[33.3%] shrink-0 lg:w-[85px] h-[54px] text-white flex items-center justify-center">160</div>
+              <div class="bg-[#419B44] w-[33.3%] shrink-0 lg:w-[85px] h-[54px] text-white flex items-center justify-center">180</div>
+              <div class="bg-[#419B44] w-[33.3%] shrink-0 lg:w-[85px] h-[54px] text-white flex items-center justify-center">200</div>
+              <div class="bg-[#419B44] w-[33.3%] shrink-0 lg:w-[85px] h-[54px] text-white flex items-center justify-center">220</div>
+              <div class="bg-[#419B44] w-[33.3%] shrink-0 lg:w-[85px] h-[54px] text-white flex items-center justify-center">240</div>
             </div>
             <div class="flex w-full gap-[2px]">
               <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
@@ -90,7 +90,7 @@
                   X
                 </div>
                 <div class="mt-[10px]">
-                  180 шт
+                  130 шт
                 </div>
               </div>
               <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
@@ -98,7 +98,7 @@
                   X
                 </div>
                 <div class="mt-[10px]">
-                  180 шт
+                  110 шт
                 </div>
               </div>
               <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
@@ -106,7 +106,7 @@
                   X
                 </div>
                 <div class="mt-[10px]">
-                  180 шт
+                  90 шт
                 </div>
               </div>
               <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
@@ -114,23 +114,17 @@
                   X
                 </div>
                 <div class="mt-[10px]">
-                  180 шт
+                  80 шт
                 </div>
               </div>
               <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
                 <div>
-                  X
-                </div>
-                <div class="mt-[10px]">
-                  180 шт
+                  -
                 </div>
               </div>
               <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
                 <div>
-                  X
-                </div>
-                <div class="mt-[10px]">
-                  180 шт
+                  -
                 </div>
               </div>
               <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
@@ -138,15 +132,12 @@
                   X
                 </div>
                 <div class="mt-[10px]">
-                  180 шт
+                  50 шт
                 </div>
               </div>
               <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
                 <div>
-                  X
-                </div>
-                <div class="mt-[10px]">
-                  180 шт
+                  -
                 </div>
               </div>
               <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
@@ -154,7 +145,7 @@
                   X
                 </div>
                 <div class="mt-[10px]">
-                  180 шт
+                  40 шт
                 </div>
               </div>
 
@@ -173,7 +164,7 @@
                   X
                 </div>
                 <div class="mt-[10px]">
-                  180 шт
+                  104 шт
                 </div>
               </div>
               <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
@@ -181,7 +172,7 @@
                   X
                 </div>
                 <div class="mt-[10px]">
-                  180 шт
+                  88 шт
                 </div>
               </div>
               <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
@@ -189,7 +180,7 @@
                   X
                 </div>
                 <div class="mt-[10px]">
-                  180 шт
+                  72 шт
                 </div>
               </div>
               <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
@@ -197,7 +188,7 @@
                   X
                 </div>
                 <div class="mt-[10px]">
-                  180 шт
+                  64 шт
                 </div>
               </div>
               <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
@@ -205,7 +196,7 @@
                   X
                 </div>
                 <div class="mt-[10px]">
-                  180 шт
+                  56 шт
                 </div>
               </div>
               <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
@@ -213,7 +204,7 @@
                   X
                 </div>
                 <div class="mt-[10px]">
-                  180 шт
+                  48 шт
                 </div>
               </div>
               <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
@@ -221,7 +212,39 @@
                   X
                 </div>
                 <div class="mt-[10px]">
-                  180 шт
+                  40 шт
+                </div>
+              </div>
+              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
+                <div>
+                  -
+                </div>
+              </div>
+              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
+                <div>
+                  X
+                </div>
+                <div class="mt-[10px]">
+                  32 шт
+                </div>
+              </div>
+
+            </div>
+            <div class="flex w-full gap-[2px]">
+              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
+                <div>
+                  X
+                </div>
+                <div class="mt-[10px]">
+                  126 шт
+                </div>
+              </div>
+              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
+                <div>
+                  X
+                </div>
+                <div class="mt-[10px]">
+                  91 шт
                 </div>
               </div>
               <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
@@ -229,7 +252,7 @@
                   X
                 </div>
                 <div class="mt-[10px]">
-                  180 шт
+                  77 шт
                 </div>
               </div>
               <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
@@ -237,7 +260,55 @@
                   X
                 </div>
                 <div class="mt-[10px]">
-                  180 шт
+                  63 шт
+                </div>
+              </div>
+              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
+                <div>
+                  X
+                </div>
+                <div class="mt-[10px]">
+                  56 шт
+                </div>
+              </div>
+              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
+                <div>
+                  X
+                </div>
+                <div class="mt-[10px]">
+                  49 шт
+                </div>
+              </div>
+              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
+                <div>
+                  X
+                </div>
+                <div class="mt-[10px]">
+                  42 шт
+                </div>
+              </div>
+              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
+                <div>
+                  X
+                </div>
+                <div class="mt-[10px]">
+                  35 шт
+                </div>
+              </div>
+              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
+                <div>
+                  X
+                </div>
+                <div class="mt-[10px]">
+                  35 шт
+                </div>
+              </div>
+              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
+                <div>
+                  X
+                </div>
+                <div class="mt-[10px]">
+                  28 шт
                 </div>
               </div>
 
@@ -256,7 +327,7 @@
                   X
                 </div>
                 <div class="mt-[10px]">
-                  180 шт
+                  65 шт
                 </div>
               </div>
               <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
@@ -264,7 +335,7 @@
                   X
                 </div>
                 <div class="mt-[10px]">
-                  180 шт
+                  55 шт
                 </div>
               </div>
               <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
@@ -272,7 +343,7 @@
                   X
                 </div>
                 <div class="mt-[10px]">
-                  180 шт
+                  45 шт
                 </div>
               </div>
               <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
@@ -280,7 +351,7 @@
                   X
                 </div>
                 <div class="mt-[10px]">
-                  180 шт
+                  40 шт
                 </div>
               </div>
               <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
@@ -288,7 +359,7 @@
                   X
                 </div>
                 <div class="mt-[10px]">
-                  180 шт
+                  35 шт
                 </div>
               </div>
               <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
@@ -296,7 +367,7 @@
                   X
                 </div>
                 <div class="mt-[10px]">
-                  180 шт
+                  30 шт
                 </div>
               </div>
               <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
@@ -304,7 +375,7 @@
                   X
                 </div>
                 <div class="mt-[10px]">
-                  180 шт
+                  25 шт
                 </div>
               </div>
               <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
@@ -312,7 +383,7 @@
                   X
                 </div>
                 <div class="mt-[10px]">
-                  180 шт
+                  25 шт
                 </div>
               </div>
               <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
@@ -320,7 +391,7 @@
                   X
                 </div>
                 <div class="mt-[10px]">
-                  180 шт
+                  20 шт
                 </div>
               </div>
 
@@ -328,18 +399,12 @@
             <div class="flex w-full gap-[2px]">
               <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
                 <div>
-                  X
-                </div>
-                <div class="mt-[10px]">
-                  180 шт
+                  -
                 </div>
               </div>
               <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
                 <div>
-                  X
-                </div>
-                <div class="mt-[10px]">
-                  180 шт
+                  -
                 </div>
               </div>
               <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
@@ -347,7 +412,7 @@
                   X
                 </div>
                 <div class="mt-[10px]">
-                  180 шт
+                  44 шт
                 </div>
               </div>
               <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
@@ -355,7 +420,7 @@
                   X
                 </div>
                 <div class="mt-[10px]">
-                  180 шт
+                  36 шт
                 </div>
               </div>
               <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
@@ -363,7 +428,7 @@
                   X
                 </div>
                 <div class="mt-[10px]">
-                  180 шт
+                  32 шт
                 </div>
               </div>
               <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
@@ -371,7 +436,7 @@
                   X
                 </div>
                 <div class="mt-[10px]">
-                  180 шт
+                  28 шт
                 </div>
               </div>
               <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
@@ -379,7 +444,7 @@
                   X
                 </div>
                 <div class="mt-[10px]">
-                  180 шт
+                  24 шт
                 </div>
               </div>
               <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
@@ -387,7 +452,7 @@
                   X
                 </div>
                 <div class="mt-[10px]">
-                  180 шт
+                  20 шт
                 </div>
               </div>
               <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
@@ -395,7 +460,7 @@
                   X
                 </div>
                 <div class="mt-[10px]">
-                  180 шт
+                  20 шт
                 </div>
               </div>
               <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
@@ -403,7 +468,7 @@
                   X
                 </div>
                 <div class="mt-[10px]">
-                  180 шт
+                  16 шт
                 </div>
               </div>
 
@@ -411,10 +476,17 @@
             <div class="flex w-full gap-[2px]">
               <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
                 <div>
-                  X
+                  -
                 </div>
-                <div class="mt-[10px]">
-                  180 шт
+              </div>
+              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
+                <div>
+                  -
+                </div>
+              </div>
+              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
+                <div>
+                  -
                 </div>
               </div>
               <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
@@ -422,7 +494,7 @@
                   X
                 </div>
                 <div class="mt-[10px]">
-                  180 шт
+                  27 шт
                 </div>
               </div>
               <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
@@ -430,7 +502,7 @@
                   X
                 </div>
                 <div class="mt-[10px]">
-                  180 шт
+                  24 шт
                 </div>
               </div>
               <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
@@ -438,7 +510,7 @@
                   X
                 </div>
                 <div class="mt-[10px]">
-                  180 шт
+                  21 шт
                 </div>
               </div>
               <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
@@ -446,7 +518,7 @@
                   X
                 </div>
                 <div class="mt-[10px]">
-                  180 шт
+                  18 шт
                 </div>
               </div>
               <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
@@ -454,122 +526,17 @@
                   X
                 </div>
                 <div class="mt-[10px]">
-                  180 шт
+                  15 шт
                 </div>
               </div>
               <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
                 <div>
-                  X
-                </div>
-                <div class="mt-[10px]">
-                  180 шт
+                  -
                 </div>
               </div>
               <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
                 <div>
-                  X
-                </div>
-                <div class="mt-[10px]">
-                  180 шт
-                </div>
-              </div>
-              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
-                <div>
-                  X
-                </div>
-                <div class="mt-[10px]">
-                  180 шт
-                </div>
-              </div>
-              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
-                <div>
-                  X
-                </div>
-                <div class="mt-[10px]">
-                  180 шт
-                </div>
-              </div>
-
-            </div>
-            <div class="flex w-full gap-[2px]">
-              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
-                <div>
-                  X
-                </div>
-                <div class="mt-[10px]">
-                  180 шт
-                </div>
-              </div>
-              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
-                <div>
-                  X
-                </div>
-                <div class="mt-[10px]">
-                  180 шт
-                </div>
-              </div>
-              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
-                <div>
-                  X
-                </div>
-                <div class="mt-[10px]">
-                  180 шт
-                </div>
-              </div>
-              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
-                <div>
-                  X
-                </div>
-                <div class="mt-[10px]">
-                  180 шт
-                </div>
-              </div>
-              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
-                <div>
-                  X
-                </div>
-                <div class="mt-[10px]">
-                  180 шт
-                </div>
-              </div>
-              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
-                <div>
-                  X
-                </div>
-                <div class="mt-[10px]">
-                  180 шт
-                </div>
-              </div>
-              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
-                <div>
-                  X
-                </div>
-                <div class="mt-[10px]">
-                  180 шт
-                </div>
-              </div>
-              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
-                <div>
-                  X
-                </div>
-                <div class="mt-[10px]">
-                  180 шт
-                </div>
-              </div>
-              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
-                <div>
-                  X
-                </div>
-                <div class="mt-[10px]">
-                  180 шт
-                </div>
-              </div>
-              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
-                <div>
-                  X
-                </div>
-                <div class="mt-[10px]">
-                  180 шт
+                  -
                 </div>
               </div>
 
@@ -666,12 +633,13 @@
             <img class="mx-auto" src="/assets/img/icons/small-logo.png" alt="">
           </div>
           <div class="bg-[#419B44] h-[54px] lg:w-[125px] w-[70px] text-white lg:text-left text-center flex items-center justify-center">Ширина, мм</div>
-          <div class="bg-[#419B44] h-[74px] lg:w-[125px] w-[70px] text-white flex items-center justify-center">40</div>
-          <div class="bg-[#419B44] h-[74px] lg:w-[125px] w-[70px] text-white flex items-center justify-center">50</div>
-          <div class="bg-[#419B44] h-[74px] lg:w-[125px] w-[70px] text-white flex items-center justify-center">60</div>
           <div class="bg-[#419B44] h-[74px] lg:w-[125px] w-[70px] text-white flex items-center justify-center">80</div>
           <div class="bg-[#419B44] h-[74px] lg:w-[125px] w-[70px] text-white flex items-center justify-center">100</div>
           <div class="bg-[#419B44] h-[74px] lg:w-[125px] w-[70px] text-white flex items-center justify-center">120</div>
+          <div class="bg-[#419B44] h-[74px] lg:w-[125px] w-[70px] text-white flex items-center justify-center">140</div>
+          <div class="bg-[#419B44] h-[74px] lg:w-[125px] w-[70px] text-white flex items-center justify-center">160</div>
+          <div class="bg-[#419B44] h-[74px] lg:w-[125px] w-[70px] text-white flex items-center justify-center">180</div>
+          <div class="bg-[#419B44] h-[74px] lg:w-[125px] w-[70px] text-white flex items-center justify-center">200</div>
         </div>
 
         <div class="w-full flex flex-col gap-[2px] ml-[2px]">
@@ -680,514 +648,421 @@
           </div>
           <div class="max-w-[calc(100vw-(32px+76px))] flex flex-col gap-[2px] overflow-auto">
             <div class="flex w-full gap-[2px]">
-              <div class="bg-[#419B44] w-[33.3%] shrink-0 lg:w-[85px] h-[54px] text-white flex items-center justify-center">60</div>
-              <div class="bg-[#419B44] w-[33.3%] shrink-0 lg:w-[85px] h-[54px] text-white flex items-center justify-center">60</div>
-              <div class="bg-[#419B44] w-[33.3%] shrink-0 lg:w-[85px] h-[54px] text-white flex items-center justify-center">60</div>
-              <div class="bg-[#419B44] w-[33.3%] shrink-0 lg:w-[85px] h-[54px] text-white flex items-center justify-center">60</div>
-              <div class="bg-[#419B44] w-[33.3%] shrink-0 lg:w-[85px] h-[54px] text-white flex items-center justify-center">60</div>
-              <div class="bg-[#419B44] w-[33.3%] shrink-0 lg:w-[85px] h-[54px] text-white flex items-center justify-center">60</div>
-              <div class="bg-[#419B44] w-[33.3%] shrink-0 lg:w-[85px] h-[54px] text-white flex items-center justify-center">60</div>
-              <div class="bg-[#419B44] w-[33.3%] shrink-0 lg:w-[85px] h-[54px] text-white flex items-center justify-center">60</div>
-              <div class="bg-[#419B44] w-[33.3%] shrink-0 lg:w-[85px] h-[54px] text-white flex items-center justify-center">60</div>
-              <div class="bg-[#419B44] w-[33.3%] shrink-0 lg:w-[85px] h-[54px] text-white flex items-center justify-center">60</div>
+              <div class="bg-[#419B44] w-[33.3%] shrink-0 lg:w-auto h-[54px] grow text-white flex items-center justify-center">100</div>
+              <div class="bg-[#419B44] w-[33.3%] shrink-0 lg:w-auto h-[54px] grow text-white flex items-center justify-center">120</div>
+              <div class="bg-[#419B44] w-[33.3%] shrink-0 lg:w-auto h-[54px] grow text-white flex items-center justify-center">140</div>
+              <div class="bg-[#419B44] w-[33.3%] shrink-0 lg:w-auto h-[54px] grow text-white flex items-center justify-center">160</div>
+              <div class="bg-[#419B44] w-[33.3%] shrink-0 lg:w-auto h-[54px] grow text-white flex items-center justify-center">180</div>
+              <div class="bg-[#419B44] w-[33.3%] shrink-0 lg:w-auto h-[54px] grow text-white flex items-center justify-center">200</div>
+              <div class="bg-[#419B44] w-[33.3%] shrink-0 lg:w-auto h-[54px] grow text-white flex items-center justify-center">220</div>
+              <div class="bg-[#419B44] w-[33.3%] shrink-0 h-[54px] lg:w-auto grow text-white flex items-center justify-center">240</div>
             </div>
             <div class="flex w-full gap-[2px]">
-              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[74px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
                 <div>
-                  X
+                  II
                 </div>
                 <div class="mt-[10px]">
-                  180 шт
+                  55 шт
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
                 <div>
-                  X
+                  II
                 </div>
                 <div class="mt-[10px]">
-                  180 шт
+                  45 шт
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[74px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
                 <div>
-                  X
+                  II
                 </div>
                 <div class="mt-[10px]">
-                  180 шт
+                  40 шт
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
                 <div>
-                  X
+                  II
                 </div>
                 <div class="mt-[10px]">
-                  180 шт
+                  35 шт
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[74px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
                 <div>
-                  X
+                  II
                 </div>
                 <div class="mt-[10px]">
-                  180 шт
+                  30 шт
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
                 <div>
-                  X
+                  II
                 </div>
                 <div class="mt-[10px]">
-                  180 шт
+                  25 шт
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[74px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
                 <div>
-                  X
+                  II
                 </div>
                 <div class="mt-[10px]">
-                  180 шт
+                  25 шт
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
                 <div>
-                  X
+                  II
                 </div>
                 <div class="mt-[10px]">
-                  180 шт
-                </div>
-              </div>
-              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
-                <div>
-                  X
-                </div>
-                <div class="mt-[10px]">
-                  180 шт
-                </div>
-              </div>
-              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
-                <div>
-                  X
-                </div>
-                <div class="mt-[10px]">
-                  180 шт
+                  20 шт
                 </div>
               </div>
 
             </div>
             <div class="flex w-full gap-[2px]">
-              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[74px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
                 <div>
-                  X
+                  II
                 </div>
                 <div class="mt-[10px]">
-                  180 шт
+                  44 шт
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
                 <div>
-                  X
+                  II
                 </div>
                 <div class="mt-[10px]">
-                  180 шт
+                  36 шт
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[74px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
                 <div>
-                  X
+                  II
                 </div>
                 <div class="mt-[10px]">
-                  180 шт
+                  32 шт
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
                 <div>
-                  X
+                  II
                 </div>
                 <div class="mt-[10px]">
-                  180 шт
+                  28 шт
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[74px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
                 <div>
-                  X
+                  II
                 </div>
                 <div class="mt-[10px]">
-                  180 шт
+                  24 шт
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
                 <div>
-                  X
+                  II
                 </div>
                 <div class="mt-[10px]">
-                  180 шт
+                  20 шт
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[74px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
                 <div>
-                  X
+                  II
                 </div>
                 <div class="mt-[10px]">
-                  180 шт
+                  20 шт
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
                 <div>
-                  X
+                  II
                 </div>
                 <div class="mt-[10px]">
-                  180 шт
+                  16 шт
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
-                <div>
-                  X
-                </div>
-                <div class="mt-[10px]">
-                  180 шт
-                </div>
-              </div>
-              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
-                <div>
-                  X
-                </div>
-                <div class="mt-[10px]">
-                  180 шт
-                </div>
-              </div>
-
             </div>
             <div class="flex w-full gap-[2px]">
-              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[74px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
                 <div>
-                  X
-                </div>
-                <div class="mt-[10px]">
-                  180 шт
+                  -
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
                 <div>
-                  X
+                  -
                 </div>
                 <div class="mt-[10px]">
-                  180 шт
+                  27 шт
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[74px] text-center text-[#464B57] flex flex-col bg-[#fff] items-center justify-center">
                 <div>
-                  X
+                  II
                 </div>
                 <div class="mt-[10px]">
-                  180 шт
+                  24 шт
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
                 <div>
-                  X
+                  II
                 </div>
                 <div class="mt-[10px]">
-                  180 шт
+                  21 шт
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[74px] text-center text-[#464B57] flex flex-col bg-[#fff] items-center justify-center">
                 <div>
-                  X
+                  II
                 </div>
                 <div class="mt-[10px]">
-                  180 шт
+                  18 шт
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
                 <div>
-                  X
+                  II
                 </div>
                 <div class="mt-[10px]">
-                  180 шт
+                  15 шт
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[74px] text-center text-[#464B57] flex flex-col bg-[#fff] items-center justify-center">
                 <div>
-                  X
+                  II
                 </div>
                 <div class="mt-[10px]">
-                  180 шт
+                  15 шт
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
                 <div>
-                  X
+                  II
                 </div>
                 <div class="mt-[10px]">
-                  180 шт
+                  12 шт
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
-                <div>
-                  X
-                </div>
-                <div class="mt-[10px]">
-                  180 шт
-                </div>
-              </div>
-              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
-                <div>
-                  X
-                </div>
-                <div class="mt-[10px]">
-                  180 шт
-                </div>
-              </div>
-
             </div>
             <div class="flex w-full gap-[2px]">
-              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[74px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
                 <div>
-                  X
-                </div>
-                <div class="mt-[10px]">
-                  180 шт
+                  -
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
                 <div>
-                  X
-                </div>
-                <div class="mt-[10px]">
-                  180 шт
+                  -
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[74px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
                 <div>
-                  X
+                  II
                 </div>
                 <div class="mt-[10px]">
-                  180 шт
+                  24 шт
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
                 <div>
-                  X
+                  II
                 </div>
                 <div class="mt-[10px]">
-                  180 шт
+                  21 шт
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[74px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
                 <div>
-                  X
+                  II
                 </div>
                 <div class="mt-[10px]">
-                  180 шт
+                  18 шт
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
                 <div>
-                  X
+                  II
                 </div>
                 <div class="mt-[10px]">
-                  180 шт
+                  15 шт
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[74px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
                 <div>
-                  X
+                  -
+                </div>
+              </div>
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
+                <div>
+                  II
                 </div>
                 <div class="mt-[10px]">
-                  180 шт
+                  12 шт
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
-                <div>
-                  X
-                </div>
-                <div class="mt-[10px]">
-                  180 шт
-                </div>
-              </div>
-              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
-                <div>
-                  X
-                </div>
-                <div class="mt-[10px]">
-                  180 шт
-                </div>
-              </div>
-              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
-                <div>
-                  X
-                </div>
-                <div class="mt-[10px]">
-                  180 шт
-                </div>
-              </div>
-
             </div>
             <div class="flex w-full gap-[2px]">
-              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[74px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
                 <div>
-                  X
-                </div>
-                <div class="mt-[10px]">
-                  180 шт
+                  -
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
                 <div>
-                  X
-                </div>
-                <div class="mt-[10px]">
-                  180 шт
+                  -
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[74px] text-center text-[#464B57] flex flex-col bg-[#fff] items-center justify-center">
                 <div>
-                  X
-                </div>
-                <div class="mt-[10px]">
-                  180 шт
+                  -
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
                 <div>
-                  X
+                  II
                 </div>
                 <div class="mt-[10px]">
-                  180 шт
+                  14 шт
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[74px] text-center text-[#464B57] flex flex-col bg-[#fff] items-center justify-center">
                 <div>
-                  X
+                  II
                 </div>
                 <div class="mt-[10px]">
-                  180 шт
+                  12 шт
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
                 <div>
-                  X
+                  II
                 </div>
                 <div class="mt-[10px]">
-                  180 шт
+                  10 шт
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[74px] text-center text-[#464B57] flex flex-col bg-[#fff] items-center justify-center">
                 <div>
-                  X
+                  -
+                </div>
+              </div>
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
+                <div>
+                  II
                 </div>
                 <div class="mt-[10px]">
-                  180 шт
+                  8 шт
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
-                <div>
-                  X
-                </div>
-                <div class="mt-[10px]">
-                  180 шт
-                </div>
-              </div>
-              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
-                <div>
-                  X
-                </div>
-                <div class="mt-[10px]">
-                  180 шт
-                </div>
-              </div>
-              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
-                <div>
-                  X
-                </div>
-                <div class="mt-[10px]">
-                  180 шт
-                </div>
-              </div>
+            </div>
 
+            <div class="flex w-full gap-[2px]">
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[74px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
+                <div>
+                  -
+                </div>
+              </div>
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
+                <div>
+                  -
+                </div>
+              </div>
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[74px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
+                <div>
+                  -
+                </div>
+              </div>
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
+                <div>
+                  -
+                </div>
+              </div>
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[74px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
+                <div>
+                  II
+                </div>
+                <div class="mt-[10px]">
+                  12 шт
+                </div>
+              </div>
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
+                <div>
+                  II
+                </div>
+                <div class="mt-[10px]">
+                  10 шт
+                </div>
+              </div>
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[74px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
+                <div>
+                  -
+                </div>
+              </div>
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
+                <div>
+                  -
+                </div>
+                <div class="mt-[10px]">
+                  8 шт
+                </div>
+              </div>
             </div>
             <div class="flex w-full gap-[2px]">
-              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[74px] text-center text-[#464B57] flex flex-col bg-[#fff] items-center justify-center">
                 <div>
-                  X
-                </div>
-                <div class="mt-[10px]">
-                  180 шт
+                  -
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
                 <div>
-                  X
-                </div>
-                <div class="mt-[10px]">
-                  180 шт
+                  -
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[74px] text-center text-[#464B57] flex flex-col bg-[#fff] items-center justify-center">
                 <div>
-                  X
-                </div>
-                <div class="mt-[10px]">
-                  180 шт
+                  -
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
                 <div>
-                  X
-                </div>
-                <div class="mt-[10px]">
-                  180 шт
+                  -
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[74px] text-center text-[#464B57] flex flex-col bg-[#fff] items-center justify-center">
                 <div>
-                  X
-                </div>
-                <div class="mt-[10px]">
-                  180 шт
+                  -
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
                 <div>
-                  X
+                  II
                 </div>
                 <div class="mt-[10px]">
-                  180 шт
+                  10 шт
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[74px] text-center text-[#464B57] flex flex-col bg-[#fff] items-center justify-center">
                 <div>
-                  X
+                  -
+                </div>
+              </div>
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
+                <div>
+                  II
                 </div>
                 <div class="mt-[10px]">
-                  180 шт
+                  8 шт
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
-                <div>
-                  X
-                </div>
-                <div class="mt-[10px]">
-                  180 шт
-                </div>
-              </div>
-              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
-                <div>
-                  X
-                </div>
-                <div class="mt-[10px]">
-                  180 шт
-                </div>
-              </div>
-              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
-                <div>
-                  X
-                </div>
-                <div class="mt-[10px]">
-                  180 шт
-                </div>
-              </div>
-
             </div>
           </div>
         </div>
@@ -1252,7 +1127,7 @@
       </h1>
 
       <div class="flex gap-[24px] md:flex-nowrap flex-wrap">
-        <div class="border border-solid border-[#ECEDEE] md:w-[316px] w-full h-[305px] flex flex-col justify-between shadow">
+        <nuxt-link to="/material-1" class="border border-solid border-[#ECEDEE] md:w-[316px] w-full h-[305px] flex flex-col justify-between shadow">
           <div class="px-[9xp] py-[19px]">
             <img src="/assets/img/industrial.png" alt="" class="w-full mx-auto max-w-[300px]">
           </div>
@@ -1260,9 +1135,9 @@
           <h1 class="text-[#464B57] text-[20px] lato-b leading-[87px] text-center">
             Індустріальні будівлі
           </h1>
-        </div>
+        </nuxt-link>
 
-        <div class="border border-solid border-[#ECEDEE] md:w-[316px] w-full h-[305px] flex flex-col justify-between shadow">
+        <nuxt-link to="/material-2" class="border border-solid border-[#ECEDEE] md:w-[316px] w-full h-[305px] flex flex-col justify-between shadow">
           <div class="px-[9xp] py-[19px]">
             <img src="/assets/img/living.png" alt="" class="w-full mx-auto max-w-[300px]">
           </div>
@@ -1270,9 +1145,9 @@
           <h1 class="text-[#464B57] text-[20px] lato-b leading-[87px] text-center">
             Житлові будівлі
           </h1>
-        </div>
+        </nuxt-link>
 
-        <div class="border border-solid border-[#ECEDEE] md:w-[316px] w-full h-[305px] flex flex-col justify-between shadow">
+        <nuxt-link to="/material-3" class="border border-solid border-[#ECEDEE] md:w-[316px] w-full h-[305px] flex flex-col justify-between shadow">
           <div class="px-[9xp] py-[19px]">
             <img src="/assets/img/social.png" alt="" class="w-full max-w-[168px] h-[168px] mx-auto">
           </div>
@@ -1280,7 +1155,7 @@
           <h1 class="text-[#464B57] text-[20px] lato-b leading-[87px] text-center">
             Соціальні будівлі
           </h1>
-        </div>
+        </nuxt-link>
       </div>
     </div>
   </div>

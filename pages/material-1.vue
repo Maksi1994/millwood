@@ -50,7 +50,7 @@
             Товщина, мм:
           </div>
 
-          <div class="lg:w-auto w-full bg-[#E4F1E5] text-center h-[54px] lato-b text-[#464B57] leading-[54px]">
+          <div class="lg:w-auto grow w-full bg-[#E4F1E5] text-center h-[54px] lato-b text-[#464B57] leading-[54px]">
             45
           </div>
         </div>
@@ -60,7 +60,7 @@
             Ширина, мм:
           </div>
 
-          <div class="lg:w-auto w-full bg-[#E4F1E5] text-center h-[54px] lato-b text-[#464B57] leading-[54px]">
+          <div class="lg:w-auto grow w-full bg-[#E4F1E5] text-center h-[54px] lato-b text-[#464B57] leading-[54px]">
             70 / 95 / 120 / 145 / 170 / 195 / 220 / 245
           </div>
         </div>
@@ -70,7 +70,7 @@
             Довжина, м:
           </div>
 
-          <div class="lg:w-auto w-full bg-[#E4F1E5] text-center h-[54px] lato-b text-[#464B57] leading-[54px]">
+          <div class="lg:w-auto  grow w-full bg-[#E4F1E5] text-center h-[54px] lato-b text-[#464B57] leading-[54px]">
             3,0 - 6,0
           </div>
         </div>
@@ -80,7 +80,7 @@
             Порода
           </div>
 
-          <div class="lg:w-auto w-full bg-[#E4F1E5] text-center h-[54px] lato-b text-[#464B57] leading-[54px]">
+          <div class="lg:w-auto grow w-full bg-[#E4F1E5] text-center h-[54px] lato-b text-[#464B57] leading-[54px]">
             Ялина
           </div>
         </div>
@@ -91,7 +91,7 @@
             Поверхня:
           </div>
 
-          <div class="lg:w-auto w-full bg-[#E4F1E5] text-center h-[54px] lato-b text-[#464B57] leading-[54px]">
+          <div class="lg:w-auto grow w-full bg-[#E4F1E5] text-center h-[54px] lato-b text-[#464B57] leading-[54px]">
             Стругана з фасками
           </div>
         </div>
@@ -101,7 +101,7 @@
             Клас міцності:
           </div>
 
-          <div class="lg:w-auto w-full bg-[#E4F1E5] text-center h-[54px] lato-b text-[#464B57] leading-[54px]">
+          <div class="lg:w-auto grow w-full bg-[#E4F1E5] text-center h-[54px] lato-b text-[#464B57] leading-[54px]">
             C24
           </div>
         </div>
@@ -153,7 +153,7 @@
       </h1>
 
       <div class="flex gap-[24px] md:flex-nowrap flex-wrap">
-        <div class="border border-solid border-[#ECEDEE] md:w-[316px] w-full h-[305px] flex flex-col justify-between shadow">
+        <nuxt-link to="/material-1" class="border border-solid border-[#ECEDEE] md:w-[316px] w-full h-[305px] flex flex-col justify-between shadow">
           <div class="px-[9xp] py-[19px]">
             <img src="/assets/img/industrial.png" alt="" class="w-full mx-auto max-w-[300px]">
           </div>
@@ -161,9 +161,9 @@
           <h1 class="text-[#464B57] text-[20px] lato-b leading-[87px] text-center">
             Індустріальні будівлі
           </h1>
-        </div>
+        </nuxt-link>
 
-        <div class="border border-solid border-[#ECEDEE] md:w-[316px] w-full h-[305px] flex flex-col justify-between shadow">
+        <nuxt-link to="/material-2" class="border border-solid border-[#ECEDEE] md:w-[316px] w-full h-[305px] flex flex-col justify-between shadow">
           <div class="px-[9xp] py-[19px]">
             <img src="/assets/img/living.png" alt="" class="w-full mx-auto max-w-[300px]">
           </div>
@@ -171,9 +171,9 @@
           <h1 class="text-[#464B57] text-[20px] lato-b leading-[87px] text-center">
             Житлові будівлі
           </h1>
-        </div>
+        </nuxt-link>
 
-        <div class="border border-solid border-[#ECEDEE] md:w-[316px] w-full h-[305px] flex flex-col justify-between shadow">
+        <nuxt-link to="/material-3" class="border border-solid border-[#ECEDEE] md:w-[316px] w-full h-[305px] flex flex-col justify-between shadow">
           <div class="px-[9xp] py-[19px]">
             <img src="/assets/img/social.png" alt="" class="w-full max-w-[168px] h-[168px] mx-auto">
           </div>
@@ -181,7 +181,7 @@
           <h1 class="text-[#464B57] text-[20px] lato-b leading-[87px] text-center">
             Соціальні будівлі
           </h1>
-        </div>
+        </nuxt-link>
       </div>
     </div>
 
