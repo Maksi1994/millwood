@@ -3,7 +3,9 @@
     <div class="py-[24px] lg:w-[996px] mx-auto flex lg:flex-row flex-col lg:gap-[42px] gap-[32px] justify-between">
       <div class="lg:w-auto lg:w-[270px]">
         <div class="flex w-full">
-          <img src="/assets/img/logo-mobile.svg" draggable="false" class="w-[153px] mb-[5px]"/>
+          <nuxt-link to="/">
+            <img src="/assets/img/logo-mobile.svg" draggable="false" class="w-[153px] mb-[5px]"/>
+          </nuxt-link>
 
           <div class="flex lg:hidden ml-auto gap-[10px]">
             <a href="/" class="group">
@@ -39,19 +41,19 @@
 
         <ul>
           <li class="mb-[4px]">
-            <a href="/" class="text-[#464B57] leading-[22px] text-[14px] lato-m hover:text-[#419B44] hover:underline underline-offset-[3px]">
+            <nuxt-link to="/solution-1" class="text-[#464B57] leading-[22px] text-[14px] lato-m hover:text-[#419B44] hover:underline underline-offset-[3px]">
               Індустріальні будівлі
-            </a>
+            </nuxt-link>
           </li>
           <li class="mb-[4px]">
-            <a href="/" class="text-[#464B57] leading-[22px] text-[14px] lato-m hover:text-[#419B44] hover:underline underline-offset-[3px]">
-              Індустріальні будівлі
-            </a>
+            <nuxt-link to="/solution-2" class="text-[#464B57] leading-[22px] text-[14px] lato-m hover:text-[#419B44] hover:underline underline-offset-[3px]">
+              Житлові будівлі
+            </nuxt-link>
           </li>
           <li>
-            <a href="/" class="text-[#464B57] leading-[22px] text-[14px] lato-m hover:text-[#419B44] hover:underline underline-offset-[3px]">
+            <nuxt-link to="/solution-3" class="text-[#464B57] leading-[22px] text-[14px] lato-m hover:text-[#419B44] hover:underline underline-offset-[3px]">
               Соціальні будівлі
-            </a>
+            </nuxt-link>
           </li>
         </ul>
       </div>
@@ -61,19 +63,19 @@
 
         <ul>
           <li class="mb-[4px]">
-            <a href="/" class="text-[#464B57] leading-[22px] text-[14px] lato-m hover:text-[#419B44] hover:underline underline-offset-[3px]">
+            <nuxt-link to="/material-1" class="text-[#464B57] leading-[22px] text-[14px] lato-m hover:text-[#419B44] hover:underline underline-offset-[3px]">
               Конструкційна деревина C24
-            </a>
+            </nuxt-link>
           </li>
           <li class="mb-[4px]">
-            <a href="/" class="text-[#464B57] leading-[22px] text-[14px] lato-m hover:text-[#419B44] hover:underline underline-offset-[3px]">
+            <nuxt-link to="/material-2" class="text-[#464B57] leading-[22px] text-[14px] lato-m hover:text-[#419B44] hover:underline underline-offset-[3px]">
               Клеєна деревина kvh с24
-            </a>
+            </nuxt-link>
           </li>
           <li>
-            <a href="/" class="text-[#464B57] leading-[22px] text-[14px] lato-m hover:text-[#419B44] hover:underline underline-offset-[3px]">
+            <nuxt-link to="/material-3" class="text-[#464B57] leading-[22px] text-[14px] lato-m hover:text-[#419B44] hover:underline underline-offset-[3px]">
               Клеєна деревина Glulam GL24h
-            </a>
+            </nuxt-link>
           </li>
         </ul>
       </div>

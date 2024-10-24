@@ -2,6 +2,7 @@
   <NuxtLayout>
     <custom-header/>
     <div>
+      <navigation-board/>
       <NuxtPage />
     </div>
   </NuxtLayout>

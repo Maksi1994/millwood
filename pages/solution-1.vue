@@ -161,13 +161,13 @@
             деревина C24
           </h1>
 
-          <div class="h-[42px] shrink-0 w-full bg-[#FAFAFA] border-[#ECEDEE] lg:mt-[24px] border border-solid text-[#464B57] flex items-center justify-center cursor-pointer">
+          <nuxt-link to="/material-1" class="h-[42px] shrink-0 w-full bg-[#FAFAFA] border-[#ECEDEE] lg:mt-[24px] border border-solid text-[#464B57] flex items-center justify-center cursor-pointer">
                 <span class="flex gap-[10px] text-[16px]">
                   Детальніше
 
                   <img src="/assets/img/icons/button-arrow.png" draggable="false" class="w-[20px] h-[20px]" alt="">
                 </span>
-          </div>
+          </nuxt-link>
         </div>
 
         <div class="border h-[346px] border-solid border-[#ECEDEE] lg:w-[316px] w-full h-[346px] flex flex-col shadow p-[14px] gap-[10px]">
@@ -179,13 +179,13 @@
             <span class="break-keep">Клеєна деревина з шиповими</span>  <br> з’єднаннями (kvh с24)
           </h1>
 
-          <div class="h-[42px] w-full bg-[#FAFAFA] border-[#ECEDEE] border lg:mt-[24px] border-solid text-[#464B57] items-center shrink-0 flex justify-center cursor-pointer">
+          <nuxt-link to="/material-2" class="h-[42px] w-full bg-[#FAFAFA] border-[#ECEDEE] border lg:mt-[24px] border-solid text-[#464B57] items-center shrink-0 flex justify-center cursor-pointer">
                 <span class="flex gap-[10px] text-[16px]">
                   Детальніше
 
                   <img src="/assets/img/icons/button-arrow.png" draggable="false" class="w-[20px] h-[20px]" alt="">
                 </span>
-          </div>
+          </nuxt-link>
         </div>
 
         <div class="border h-[346px] border-solid border-[#ECEDEE] lg:w-[316px] w-full h-[346px] flex flex-col shadow p-[14px] gap-[10px]">
@@ -197,13 +197,13 @@
             Клеєна багатошарова <br> деревина (GLT/Glulam)
           </h1>
 
-          <div class="h-[42px] w-full bg-[#FAFAFA] border-[#ECEDEE] border lg:mt-[24px] border-solid text-[#464B57] items-center shrink-0  flex justify-center cursor-pointer">
+          <nuxt-link to="/material-3" class="h-[42px] w-full bg-[#FAFAFA] border-[#ECEDEE] border lg:mt-[24px] border-solid text-[#464B57] items-center shrink-0  flex justify-center cursor-pointer">
                 <span class="flex gap-[10px] text-[16px]">
                   Детальніше
 
                   <img src="/assets/img/icons/button-arrow.png" draggable="false" class="w-[20px] h-[20px]" alt="">
                 </span>
-          </div>
+          </nuxt-link>
         </div>
       </div>
 

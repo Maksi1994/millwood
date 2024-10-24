@@ -1,6 +1,4 @@
 <template>
-    <navigation-board/>
-
     <div class="mt-[15px] w-full">
       <div class="lg:h-[400px] h-[320px] w-full bg-[url(/assets/img/bg.png)] bg-no-repeat bg-center relative lg:mb-[110px] mb-[14px] bg-cover">
           <div class="absolute lg:table hidden left-0 top-0 bottom-0 m-auto table p-[24px] bg-white w-[540px]">
@@ -30,7 +28,7 @@
           </h1>
 
           <div class="flex gap-[24px] md:flex-nowrap flex-wrap">
-            <div class="border border-solid border-[#ECEDEE] md:w-[316px] w-full h-[305px] flex flex-col justify-between shadow">
+            <nuxt-link to="/solution-1" class="border border-solid border-[#ECEDEE] md:w-[316px] w-full h-[305px] flex flex-col justify-between shadow">
               <div class="px-[9xp] py-[19px] pt0">
                 <img src="/assets/img/industrial.png" alt="" class="w-full mx-auto max-w-[300px]">
               </div>
@@ -38,9 +36,9 @@
               <h1 class="text-[#464B57] text-[20px] lato-b leading-[125px] text-center">
                 Індустріальні будівлі
               </h1>
-            </div>
+            </nuxt-link>
 
-            <div class="border border-solid border-[#ECEDEE] md:w-[316px] w-full h-[305px] flex flex-col justify-between shadow">
+            <nuxt-link to="/solution-2" class="border border-solid border-[#ECEDEE] md:w-[316px] w-full h-[305px] flex flex-col justify-between shadow">
               <div class="px-[9xp]">
                 <img src="/assets/img/living.png" alt="" class="w-full mx-auto max-w-[300px] h-[180px]">
               </div>
@@ -48,9 +46,9 @@
               <h1 class="text-[#464B57] text-[20px] lato-b leading-[125px] text-center">
                 Житлові будівлі
               </h1>
-            </div>
+            </nuxt-link>
 
-            <div class="border border-solid border-[#ECEDEE] md:w-[316px] w-full h-[305px] flex flex-col justify-between shadow">
+            <nuxt-link to="/solution-3" class="border border-solid border-[#ECEDEE] md:w-[316px] w-full h-[305px] flex flex-col justify-between shadow">
               <div class="px-[9xp] py-[19px]">
                 <img src="/assets/img/social.png" alt="" class="w-full max-w-[168px] h-[168px] mx-auto">
               </div>
@@ -58,7 +56,7 @@
               <h1 class="text-[#464B57] text-[20px] lato-b leading-[50px] h-full text-center">
                 Соціальні будівлі
               </h1>
-            </div>
+            </nuxt-link>
           </div>
         </div>
 
@@ -79,13 +77,13 @@
                 деревина C24
               </h1>
 
-              <div class="h-[42px] shrink-0 w-full bg-[#FAFAFA] border-[#ECEDEE] lg:mt-[24px] border border-solid text-[#464B57] flex items-center justify-center cursor-pointer">
+              <nuxt-link to="/material-1" class="h-[42px] shrink-0 w-full bg-[#FAFAFA] border-[#ECEDEE] lg:mt-[24px] border border-solid text-[#464B57] flex items-center justify-center cursor-pointer">
                 <span class="flex gap-[10px] text-[16px]">
                   Детальніше
 
                   <img src="/assets/img/icons/button-arrow.png" draggable="false" class="w-[20px] h-[20px]" alt="">
                 </span>
-              </div>
+              </nuxt-link>
             </div>
 
             <div class="border h-[346px] border-solid border-[#ECEDEE] lg:w-[316px] w-full h-[346px] flex flex-col shadow p-[14px] gap-[10px]">
@@ -97,13 +95,13 @@
                 <span class="break-keep">Клеєна деревина з шиповими</span>  <br> з’єднаннями (kvh с24)
               </h1>
 
-              <div class="h-[42px] w-full bg-[#FAFAFA] border-[#ECEDEE] border lg:mt-[24px] border-solid text-[#464B57] items-center shrink-0 flex justify-center cursor-pointer">
+              <nuxt-link to="/material-2" class="h-[42px] w-full bg-[#FAFAFA] border-[#ECEDEE] border lg:mt-[24px] border-solid text-[#464B57] items-center shrink-0 flex justify-center cursor-pointer">
                 <span class="flex gap-[10px] text-[16px]">
                   Детальніше
 
                   <img src="/assets/img/icons/button-arrow.png" draggable="false" class="w-[20px] h-[20px]" alt="">
                 </span>
-              </div>
+              </nuxt-link>
             </div>
 
             <div class="border h-[346px] border-solid border-[#ECEDEE] lg:w-[316px] w-full h-[346px] flex flex-col shadow p-[14px] gap-[10px]">
@@ -115,13 +113,13 @@
                 Клеєна багатошарова <br> деревина (GLT/Glulam)
               </h1>
 
-              <div class="h-[42px] w-full bg-[#FAFAFA] border-[#ECEDEE] border lg:mt-[24px] border-solid text-[#464B57] items-center shrink-0  flex justify-center cursor-pointer">
+              <nuxt-link to="/material-3" class="h-[42px] w-full bg-[#FAFAFA] border-[#ECEDEE] border lg:mt-[24px] border-solid text-[#464B57] items-center shrink-0  flex justify-center cursor-pointer">
                 <span class="flex gap-[10px] text-[16px]">
                   Детальніше
 
                   <img src="/assets/img/icons/button-arrow.png" draggable="false" class="w-[20px] h-[20px]" alt="">
                 </span>
-              </div>
+              </nuxt-link>
             </div>
           </div>
 
@@ -193,11 +191,11 @@
                 V době, kdy se nacházíme na křižovatce mezi ekologickým chováním a ekonomickou efektivitou
               </p>
 
-              <div class="py-[12px] px-[24px] cursor-pointer lato-m text-[#464B57] text-center mt-[24px] lg:flex hidden items-center justify-center">
+              <nuxt-link to="/news/1" class="py-[12px] px-[24px] cursor-pointer lato-m text-[#464B57] text-center mt-[24px] lg:flex hidden items-center justify-center">
                 Читати більше
 
                 <img draggable="false" src="/assets/img/icons/caret-right.png" class="w-[20px] h-[20px] ml-[10px]" alt="">
-              </div>
+              </nuxt-link>
             </div>
 
           </div>
@@ -226,11 +224,11 @@
                 V době, kdy se nacházíme na křižovatce mezi ekologickým chováním a ekonomickou efektivitou
               </p>
 
-              <div class="py-[12px] px-[24px] cursor-pointer lato-m text-[#464B57] text-center mt-[24px] lg:flex hidden items-center justify-center">
+              <nuxt-link to="/news/1" class="py-[12px] px-[24px] cursor-pointer lato-m text-[#464B57] text-center mt-[24px] lg:flex hidden items-center justify-center">
                 Читати більше
 
                 <img draggable="false" src="/assets/img/icons/caret-right.png" class="w-[20px] h-[20px] ml-[10px]" alt="">
-              </div>
+              </nuxt-link>
             </div>
 
           </div>
@@ -259,19 +257,19 @@
                 V době, kdy se nacházíme na křižovatce mezi ekologickým chováním a ekonomickou efektivitou
               </p>
 
-              <div class="py-[12px] px-[24px] cursor-pointer lato-m text-[#464B57] text-center mt-[24px] lg:flex hidden items-center justify-center">
+              <nuxt-link to="/news/1" class="py-[12px] px-[24px] cursor-pointer lato-m text-[#464B57] text-center mt-[24px] lg:flex hidden items-center justify-center">
                 Читати більше
 
                 <img draggable="false" src="/assets/img/icons/caret-right.png" class="w-[20px] h-[20px] ml-[10px]" alt="">
-              </div>
+              </nuxt-link>
             </div>
 
           </div>
         </div>
 
-        <a href="/" class="table mx-auto text-[#1F1C25] text-[16px] lato-m leading-[26px] underline underline-offset-[4px]">
+        <nuxt-link href="/news" class="table mx-auto text-[#1F1C25] text-[16px] lato-m leading-[26px] underline underline-offset-[4px]">
           Усі новини
-        </a>
+        </nuxt-link>
       </div>
     </div>
 </template>

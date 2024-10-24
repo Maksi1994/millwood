@@ -102,11 +102,11 @@
             V době, kdy se nacházíme na křižovatce mezi ekologickým chováním a ekonomickou efektivitou
           </p>
 
-          <div class="py-[12px] px-[24px] cursor-pointer lato-m text-[#464B57] text-center mt-[24px] lg:flex hidden items-center justify-center">
+          <nuxt-link to="/news/1" class="py-[12px] px-[24px] cursor-pointer lato-m text-[#464B57] text-center mt-[24px] lg:flex hidden items-center justify-center">
             Читати більше
 
             <img draggable="false" src="/assets/img/icons/caret-right.png" class="w-[20px] h-[20px] ml-[10px]" alt="">
-          </div>
+          </nuxt-link>
         </div>
 
       </div>
@@ -135,11 +135,11 @@
             V době, kdy se nacházíme na křižovatce mezi ekologickým chováním a ekonomickou efektivitou
           </p>
 
-          <div class="py-[12px] px-[24px] cursor-pointer lato-m text-[#464B57] text-center mt-[24px] lg:flex hidden items-center justify-center">
+          <nuxt-link to="/news/1" class="py-[12px] px-[24px] cursor-pointer lato-m text-[#464B57] text-center mt-[24px] lg:flex hidden items-center justify-center">
             Читати більше
 
             <img draggable="false" src="/assets/img/icons/caret-right.png" class="w-[20px] h-[20px] ml-[10px]" alt="">
-          </div>
+          </nuxt-link>
         </div>
 
       </div>
@@ -168,18 +168,18 @@
             V době, kdy se nacházíme na křižovatce mezi ekologickým chováním a ekonomickou efektivitou
           </p>
 
-          <div class="py-[12px] px-[24px] cursor-pointer lato-m text-[#464B57] text-center mt-[24px] lg:flex hidden items-center justify-center">
+          <nuxt-link to="/news/1" class="py-[12px] px-[24px] cursor-pointer lato-m text-[#464B57] text-center mt-[24px] lg:flex hidden items-center justify-center">
             Читати більше
 
             <img draggable="false" src="/assets/img/icons/caret-right.png" class="w-[20px] h-[20px] ml-[10px]" alt="">
-          </div>
+          </nuxt-link>
         </div>
 
       </div>
     </div>
 
-    <a href="/" class="table mx-auto text-[#1F1C25] text-[16px] lato-m leading-[26px] underline underline-offset-[4px]">
+    <nuxt-link to="/news" class="table mx-auto text-[#1F1C25] text-[16px] lato-m leading-[26px] underline underline-offset-[4px]">
       Усі новини
-    </a>
+    </nuxt-link>
   </div>
 </template>

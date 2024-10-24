@@ -1,9 +1,9 @@
 <template>
   <div class="py-[12px] border-b border-solid border-[#ECEDEE] text-[#60656D] lato text-[12px] lato-m">
     <h1 class="flex items-center leading-[12px]">
-      <a class="text-[#60656D]" href="/">
+      <nuxt-link to="/" class="text-[#60656D]" href="/">
         Домашня сторінка
-      </a>
+      </nuxt-link>
 
       <span class="mx-[8px] block">
         /
