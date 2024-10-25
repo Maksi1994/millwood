@@ -41,17 +41,17 @@
 
         <ul>
           <li class="mb-[4px]">
-            <nuxt-link to="/solution-1" class="text-[#464B57] leading-[22px] text-[14px] lato-m hover:text-[#419B44] hover:underline underline-offset-[3px]">
+            <nuxt-link to="/solution-1" exactActiveClass="!text-[#419B44] underline" class="text-[#464B57] leading-[22px] text-[14px] lato-m hover:text-[#419B44] hover:underline underline-offset-[3px]">
               Індустріальні будівлі
             </nuxt-link>
           </li>
           <li class="mb-[4px]">
-            <nuxt-link to="/solution-2" class="text-[#464B57] leading-[22px] text-[14px] lato-m hover:text-[#419B44] hover:underline underline-offset-[3px]">
+            <nuxt-link to="/solution-2" exactActiveClass="!text-[#419B44] underline" class="text-[#464B57] leading-[22px] text-[14px] lato-m hover:text-[#419B44] hover:underline underline-offset-[3px]">
               Житлові будівлі
             </nuxt-link>
           </li>
           <li>
-            <nuxt-link to="/solution-3" class="text-[#464B57] leading-[22px] text-[14px] lato-m hover:text-[#419B44] hover:underline underline-offset-[3px]">
+            <nuxt-link to="/solution-3" exactActiveClass="!text-[#419B44] underline" class="text-[#464B57] leading-[22px] text-[14px] lato-m hover:text-[#419B44] hover:underline underline-offset-[3px]">
               Соціальні будівлі
             </nuxt-link>
           </li>
@@ -63,17 +63,17 @@
 
         <ul>
           <li class="mb-[4px]">
-            <nuxt-link to="/material-1" class="text-[#464B57] leading-[22px] text-[14px] lato-m hover:text-[#419B44] hover:underline underline-offset-[3px]">
+            <nuxt-link to="/material-1" exactActiveClass="!text-[#419B44] underline" class="text-[#464B57] leading-[22px] text-[14px] lato-m hover:text-[#419B44] hover:underline underline-offset-[3px]">
               Конструкційна деревина C24
             </nuxt-link>
           </li>
           <li class="mb-[4px]">
-            <nuxt-link to="/material-2" class="text-[#464B57] leading-[22px] text-[14px] lato-m hover:text-[#419B44] hover:underline underline-offset-[3px]">
-              Клеєна деревина kvh с24
+            <nuxt-link to="/material-2" exactActiveClass="!text-[#419B44] underline" class="text-[#464B57] leading-[22px] text-[14px] lato-m hover:text-[#419B44] hover:underline underline-offset-[3px]">
+              Клеєна деревина KVH C24
             </nuxt-link>
           </li>
           <li>
-            <nuxt-link to="/material-3" class="text-[#464B57] leading-[22px] text-[14px] lato-m hover:text-[#419B44] hover:underline underline-offset-[3px]">
+            <nuxt-link to="/material-3" exactActiveClass="!text-[#419B44] underline" class="text-[#464B57] leading-[22px] text-[14px] lato-m hover:text-[#419B44] hover:underline underline-offset-[3px]">
               Клеєна деревина Glulam GL24h
             </nuxt-link>
           </li>
@@ -85,7 +85,7 @@
 
         <ul>
           <li class="mb-[9px]">
-            <a href="/" class="text-[#419B44] text-[14px] lato-m hover:text-[#419B44] hover:underline underline-offset-[3px]">
+            <a href="tel:+380 50 373 0203" class="text-[#419B44] text-[14px] lato-m hover:text-[#419B44] hover:underline underline-offset-[3px]">
               +380 50 373 0203
             </a>
           </li>

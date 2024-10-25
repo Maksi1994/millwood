@@ -1,5 +1,5 @@
 <template>
-  <breadcrumbs/>
+  <breadcrumbs page="Про Мілвуд"/>
 
   <div class="mt-[20px] w-full lato">
     <div class="lg:h-[450px] h-[320px] w-full bg-[url(/assets/img/about.png)] bg-[40%_top] bg-no-repeat bg-center relative lg:mb-[62px] mb-[14px] bg-cover">

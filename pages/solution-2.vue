@@ -1,5 +1,5 @@
 <template>
-  <breadcrumbs/>
+  <breadcrumbs  page="Житлові будівлі"/>
 
   <div class="mt-[24px] w-full">
     <div class="lg:h-[340px] h-[240px] h-[240px] w-full flex items-center bg-[#F4F9F4] bg-no-repeat bg-center relative lg:mb-[42px] bg-cover">
@@ -92,7 +92,7 @@
     <div class="lg:w-[100vw] lg:mb-[40px] mb-[48px] lg:-ml-[calc((100vw-996px)/2)] bg-[#F4F9F4] py-[42px] lg:mr-0 -mx-[16px] lg:px-0 px-[16px]">
       <h1 class="text-[#419B44] text-center lg:text-[32px] text-[20px] lato-e leading-[35px] mb-[25px]">
         Наша продукція підтверджена сертифікатами
-        <br>
+        <br class="lg:block hidden">
         та визнанням у галузі
       </h1>
 
@@ -100,24 +100,24 @@
         Наша мета полягає в сталому розвитку деревообробної галузі шляхом впровадження інноваційних технологій, що зменшують карбоновий слід у будівництві, а також підтримують циркулярну біоекономіку
       </p>
 
-      <div class="flex justify-center lg:gap-[42px] gap-[14px] lg:mt-[42px] mt-[24px]">
+      <div class="flex justify-center lg:gap-[42px] gap-[14px] lg:mt-[35px] mt-[24px]">
         <div class="w-[152px] flex flex-col justify-end">
           <img src="/assets/img/icons/sirculation.svg" class="mx-auto lg:max-w-[90px] max-w-[60px]" alt="">
-          <h1 class="text-[#464B57] lato lato-b text-center lg:text-[16px] text-[11px] mt-[14px] uppercase">
+          <h1 class="text-[#464B57] lato lato-b text-center lg:text-[16px] text-[11px]">
             Циркулярність
           </h1>
         </div>
 
         <div class="w-[152px] flex flex-col justify-end">
-          <img src="/assets/img/icons/sertificate.svg" class="mx-auto lg:py-[19px] pb-[5px] lg:max-w-[90px] max-w-[60px]" alt="">
-          <h1 class="text-[#464B57] lato lato-b text-center lg:text-[16px] text-[11px] mt-[14px] uppercase">
+          <img src="/assets/img/icons/sertificate.svg" class="mx-auto  lg:max-w-[90px] max-w-[60px]" alt="">
+          <h1 class="text-[#464B57] lato lato-b text-center lg:text-[16px] text-[11px]">
             Відповідність
           </h1>
         </div>
 
         <div class="w-[152px] flex flex-col justify-end">
-          <img src="/assets/img/icons/stabilty.svg" class="mx-auto lg:py-[9px] lg:max-w-[90px] max-w-[60px]" alt="">
-          <h1 class="text-[#464B57] lato lato-b text-center lg:text-[16px] text-[11px] mt-[14px] uppercase">
+          <img src="/assets/img/icons/stabilty.svg" class="mx-auto lg:max-w-[90px] max-w-[60px]" alt="">
+          <h1 class="text-[#464B57] lato lato-b text-center lg:text-[16px] text-[11px]">
             Сталість
           </h1>
         </div>
@@ -141,11 +141,12 @@
             деревина C24
           </h1>
 
-          <nuxt-link to="/material-1" class="h-[42px] shrink-0 w-full bg-[#FAFAFA] border-[#ECEDEE] lg:mt-[24px] border border-solid text-[#464B57] flex items-center justify-center cursor-pointer">
-                <span class="flex gap-[10px] text-[16px]">
+          <nuxt-link to="/material-1" class="h-[42px] shrink-0 w-full bg-[#FAFAFA] hover:bg-[#F4F9F4] group border-[#ECEDEE] lg:mt-[24px] border border-solid text-[#464B57] hover:text-[#419B44] flex items-center justify-center cursor-pointer">
+                <span class="flex lato-b gap-[10px] text-[16px] items-center">
                   Детальніше
 
-                  <img src="/assets/img/icons/button-arrow.png" draggable="false" class="w-[20px] h-[20px]" alt="">
+                  <img src="/assets/img/icons/button-arrow.png" draggable="false" class="w-[20px] h-[20px] group-hover:hidden block" alt="">
+                  <img src="/assets/img/icons/caret-right-active.svg" draggable="false" class="w-[20px] h-[20px] group-hover:block hidden" alt="">
                 </span>
           </nuxt-link>
         </div>
@@ -159,11 +160,12 @@
             <span class="break-keep">Клеєна деревина з шиповими</span>  <br> з’єднаннями (kvh с24)
           </h1>
 
-          <nuxt-link to="/material-2" class="h-[42px] w-full bg-[#FAFAFA] border-[#ECEDEE] border lg:mt-[24px] border-solid text-[#464B57] items-center shrink-0 flex justify-center cursor-pointer">
-                <span class="flex gap-[10px] text-[16px]">
+          <nuxt-link to="/material-2" class="h-[42px] shrink-0 w-full bg-[#FAFAFA] hover:bg-[#F4F9F4] group border-[#ECEDEE] lg:mt-[24px] border border-solid text-[#464B57] hover:text-[#419B44] flex items-center justify-center cursor-pointer">
+                <span class="flex lato-b gap-[10px] text-[16px] items-center">
                   Детальніше
 
-                  <img src="/assets/img/icons/button-arrow.png" draggable="false" class="w-[20px] h-[20px]" alt="">
+                  <img src="/assets/img/icons/button-arrow.png" draggable="false" class="w-[20px] h-[20px] group-hover:hidden block" alt="">
+                  <img src="/assets/img/icons/caret-right-active.svg" draggable="false" class="w-[20px] h-[20px] group-hover:block hidden" alt="">
                 </span>
           </nuxt-link>
         </div>
@@ -177,11 +179,12 @@
             Клеєна багатошарова <br> деревина (GLT/Glulam)
           </h1>
 
-          <nuxt-link to="/material-3" class="h-[42px] w-full bg-[#FAFAFA] border-[#ECEDEE] border lg:mt-[24px] border-solid text-[#464B57] items-center shrink-0  flex justify-center cursor-pointer">
-                <span class="flex gap-[10px] text-[16px]">
+          <nuxt-link to="/material-3" class="h-[42px] shrink-0 w-full bg-[#FAFAFA] hover:bg-[#F4F9F4] group border-[#ECEDEE] lg:mt-[24px] border border-solid text-[#464B57] hover:text-[#419B44] flex items-center justify-center cursor-pointer">
+                <span class="flex lato-b gap-[10px] text-[16px] items-center">
                   Детальніше
 
-                  <img src="/assets/img/icons/button-arrow.png" draggable="false" class="w-[20px] h-[20px]" alt="">
+                  <img src="/assets/img/icons/button-arrow.png" draggable="false" class="w-[20px] h-[20px] group-hover:hidden block" alt="">
+                  <img src="/assets/img/icons/caret-right-active.svg" draggable="false" class="w-[20px] h-[20px] group-hover:block hidden" alt="">
                 </span>
           </nuxt-link>
         </div>

@@ -1,5 +1,5 @@
 <template>
-  <breadcrumbs/>
+  <breadcrumbs  page="Клеєна деревина з шиповими з’єднаннями (KHV с24)"/>
 
   <div class="mt-[24px] w-full">
     <div class="h-[250px] w-full top-content-gradient relative lg:mb-[27px] mb-[14px] bg-cover">
@@ -50,491 +50,491 @@
           <div class="bg-[#fff] h-[54px] lg:w-[125px] w-[70px] flex items-center justify-center">
             <img class="mx-auto" src="/assets/img/icons/small-logo.png" alt="">
           </div>
-          <div class="bg-[#419B44] h-[54px] lg:w-[125px] w-[70px] text-white lg:text-left text-center flex items-center justify-center">Ширина, мм</div>
-          <div class="bg-[#419B44] h-[74px] lg:w-[125px] w-[70px] text-white flex items-center justify-center">40</div>
-          <div class="bg-[#419B44] h-[74px] lg:w-[125px] w-[70px] text-white flex items-center justify-center">50</div>
-          <div class="bg-[#419B44] h-[74px] lg:w-[125px] w-[70px] text-white flex items-center justify-center">60</div>
-          <div class="bg-[#419B44] h-[74px] lg:w-[125px] w-[70px] text-white flex items-center justify-center">80</div>
-          <div class="bg-[#419B44] h-[74px] lg:w-[125px] w-[70px] text-white flex items-center justify-center">100</div>
-          <div class="bg-[#419B44] h-[74px] lg:w-[125px] w-[70px] text-white flex items-center justify-center">120</div>
+          <div class="bg-[#419B44] h-[54px] lg:w-[125px] w-[70px] text-white lg:text-left lato-e text-center flex items-center justify-center">Ширина, мм</div>
+          <div class="bg-[#419B44] h-[58px] lg:w-[125px] w-[70px] text-white flex items-center lato-e justify-center">40</div>
+          <div class="bg-[#419B44] h-[58px] lg:w-[125px] w-[70px] text-white flex items-center lato-e justify-center">50</div>
+          <div class="bg-[#419B44] h-[58px] lg:w-[125px] w-[70px] text-white flex items-center lato-e justify-center">60</div>
+          <div class="bg-[#419B44] h-[58px] lg:w-[125px] w-[70px] text-white flex items-center lato-e justify-center">80</div>
+          <div class="bg-[#419B44] h-[58px] lg:w-[125px] w-[70px] text-white flex items-center lato-e justify-center">100</div>
+          <div class="bg-[#419B44] h-[58px] lg:w-[125px] w-[70px] text-white flex items-center lato-e justify-center">120</div>
         </div>
 
         <div class="w-full flex flex-col gap-[2px] ml-[2px]">
-          <div class="bg-[#E4F1E5] h-[54px] w-full flex items-center justify-center">
+          <div class="bg-[#E4F1E5] h-[54px] w-full flex items-center lato-e text-[#464B57] justify-center">
              Висота, мм
           </div>
           <div class="max-w-[calc(100vw-(32px+76px))] flex flex-col gap-[2px] overflow-auto">
             <div class="flex w-full gap-[2px]">
-              <div class="bg-[#419B44] w-[33.3%] shrink-0 lg:w-[85px] h-[54px] text-white flex items-center justify-center">60</div>
-              <div class="bg-[#419B44] w-[33.3%] shrink-0 lg:w-[85px] h-[54px] text-white flex items-center justify-center">80</div>
-              <div class="bg-[#419B44] w-[33.3%] shrink-0 lg:w-[85px] h-[54px] text-white flex items-center justify-center">100</div>
-              <div class="bg-[#419B44] w-[33.3%] shrink-0 lg:w-[85px] h-[54px] text-white flex items-center justify-center">120</div>
-              <div class="bg-[#419B44] w-[33.3%] shrink-0 lg:w-[85px] h-[54px] text-white flex items-center justify-center">140</div>
-              <div class="bg-[#419B44] w-[33.3%] shrink-0 lg:w-[85px] h-[54px] text-white flex items-center justify-center">160</div>
-              <div class="bg-[#419B44] w-[33.3%] shrink-0 lg:w-[85px] h-[54px] text-white flex items-center justify-center">180</div>
-              <div class="bg-[#419B44] w-[33.3%] shrink-0 lg:w-[85px] h-[54px] text-white flex items-center justify-center">200</div>
-              <div class="bg-[#419B44] w-[33.3%] shrink-0 lg:w-[85px] h-[54px] text-white flex items-center justify-center">220</div>
-              <div class="bg-[#419B44] w-[33.3%] shrink-0 lg:w-[85px] h-[54px] text-white flex items-center justify-center">240</div>
+              <div class="bg-[#419B44] w-[33.3%] shrink-0 lg:w-[85px] h-[54px] lato-b text-white flex items-center justify-center">60</div>
+              <div class="bg-[#419B44] w-[33.3%] shrink-0 lg:w-[85px] h-[54px] lato-b text-white flex items-center justify-center">80</div>
+              <div class="bg-[#419B44] w-[33.3%] shrink-0 lg:w-[85px] h-[54px] lato-b text-white flex items-center justify-center">100</div>
+              <div class="bg-[#419B44] w-[33.3%] shrink-0 lg:w-[85px] h-[54px] lato-b text-white flex items-center justify-center">120</div>
+              <div class="bg-[#419B44] w-[33.3%] shrink-0 lg:w-[85px] h-[54px] lato-b text-white flex items-center justify-center">140</div>
+              <div class="bg-[#419B44] w-[33.3%] shrink-0 lg:w-[85px] h-[54px] lato-b text-white flex items-center justify-center">160</div>
+              <div class="bg-[#419B44] w-[33.3%] shrink-0 lg:w-[85px] h-[54px] lato-b text-white flex items-center justify-center">180</div>
+              <div class="bg-[#419B44] w-[33.3%] shrink-0 lg:w-[85px] h-[54px] lato-b text-white flex items-center justify-center">200</div>
+              <div class="bg-[#419B44] w-[33.3%] shrink-0 lg:w-[85px] h-[54px] lato-b text-white flex items-center justify-center">220</div>
+              <div class="bg-[#419B44] w-[33.3%] shrink-0 lg:w-[85px] h-[54px] lato-b text-white flex items-center justify-center">240</div>
             </div>
             <div class="flex w-full gap-[2px]">
-              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
-                <div>
+              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[58px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
+                <div class="lato-b text-[18px]">
                   X
                 </div>
-                <div class="mt-[10px]">
+                <div class="lato-s text-[16px]">
                   180 шт
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
-                <div>
+              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[58px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
+                <div class="lato-b text-[18px]">
                   X
                 </div>
-                <div class="mt-[10px]">
+                <div class="lato-s text-[16px]">
                   130 шт
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
-                <div>
+              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[58px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
+                <div class="lato-b text-[18px]">
                   X
                 </div>
-                <div class="mt-[10px]">
+                <div class="lato-s text-[16px]">
                   110 шт
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
-                <div>
+              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[58px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
+                <div class="lato-b text-[18px]">
                   X
                 </div>
-                <div class="mt-[10px]">
+                <div class="lato-s text-[16px]">
                   90 шт
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
-                <div>
+              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[58px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
+                <div class="lato-b text-[18px]">
                   X
                 </div>
-                <div class="mt-[10px]">
+                <div class="lato-s text-[16px]">
                   80 шт
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
+              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[58px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
                 <div>
                   -
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
+              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[58px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
                 <div>
                   -
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
-                <div>
+              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[58px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
+                <div class="lato-b text-[18px]">
                   X
                 </div>
-                <div class="mt-[10px]">
+                <div class="lato-s text-[16px]">
                   50 шт
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
+              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[58px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
                 <div>
                   -
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
-                <div>
+              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[58px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
+                <div class="lato-b text-[18px]">
                   X
                 </div>
-                <div class="mt-[10px]">
+                <div class="lato-s text-[16px]">
                   40 шт
                 </div>
               </div>
 
             </div>
             <div class="flex w-full gap-[2px]">
-              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
-                <div>
+              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[58px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
+                <div class="lato-b text-[18px]">
                   X
                 </div>
-                <div class="mt-[10px]">
+                <div class="lato-s text-[16px]">
                   180 шт
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
-                <div>
+              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[58px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
+                <div class="lato-b text-[18px]">
                   X
                 </div>
-                <div class="mt-[10px]">
+                <div class="lato-s text-[16px]">
                   104 шт
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
-                <div>
+              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[58px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
+                <div class="lato-b text-[18px]">
                   X
                 </div>
-                <div class="mt-[10px]">
+                <div class="lato-s text-[16px]">
                   88 шт
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
-                <div>
+              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[58px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
+                <div class="lato-b text-[18px]">
                   X
                 </div>
-                <div class="mt-[10px]">
+                <div class="lato-s text-[16px]">
                   72 шт
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
-                <div>
+              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[58px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
+                <div class="lato-b text-[18px]">
                   X
                 </div>
-                <div class="mt-[10px]">
+                <div class="lato-s text-[16px]">
                   64 шт
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
-                <div>
+              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[58px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
+                <div class="lato-b text-[18px]">
                   X
                 </div>
-                <div class="mt-[10px]">
+                <div class="lato-s text-[16px]">
                   56 шт
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
-                <div>
+              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[58px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
+                <div class="lato-b text-[18px]">
                   X
                 </div>
-                <div class="mt-[10px]">
+                <div class="lato-s text-[16px]">
                   48 шт
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
-                <div>
+              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[58px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
+                <div class="lato-b text-[18px]">
                   X
                 </div>
-                <div class="mt-[10px]">
+                <div class="lato-s text-[16px]">
                   40 шт
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
+              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[58px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
                 <div>
                   -
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
-                <div>
+              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[58px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
+                <div class="lato-b text-[18px]">
                   X
                 </div>
-                <div class="mt-[10px]">
+                <div class="lato-s text-[16px]">
                   32 шт
                 </div>
               </div>
 
             </div>
             <div class="flex w-full gap-[2px]">
-              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
-                <div>
+              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[58px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
+                <div class="lato-b text-[18px]">
                   X
                 </div>
-                <div class="mt-[10px]">
+                <div class="lato-s text-[16px]">
                   126 шт
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
-                <div>
+              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[58px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
+                <div class="lato-b text-[18px]">
                   X
                 </div>
-                <div class="mt-[10px]">
+                <div class="lato-s text-[16px]">
                   91 шт
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
-                <div>
+              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[58px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
+                <div class="lato-b text-[18px]">
                   X
                 </div>
-                <div class="mt-[10px]">
+                <div class="lato-s text-[16px]">
                   77 шт
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
-                <div>
+              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[58px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
+                <div class="lato-b text-[18px]">
                   X
                 </div>
-                <div class="mt-[10px]">
+                <div class="lato-s text-[16px]">
                   63 шт
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
-                <div>
+              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[58px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
+                <div class="lato-b text-[18px]">
                   X
                 </div>
-                <div class="mt-[10px]">
+                <div class="lato-s text-[16px]">
                   56 шт
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
-                <div>
+              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[58px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
+                <div class="lato-b text-[18px]">
                   X
                 </div>
-                <div class="mt-[10px]">
+                <div class="lato-s text-[16px]">
                   49 шт
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
-                <div>
+              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[58px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
+                <div class="lato-b text-[18px]">
                   X
                 </div>
-                <div class="mt-[10px]">
+                <div class="lato-s text-[16px]">
                   42 шт
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
-                <div>
+              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[58px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
+                <div class="lato-b text-[18px]">
                   X
                 </div>
-                <div class="mt-[10px]">
+                <div class="lato-s text-[16px]">
                   35 шт
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
-                <div>
+              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[58px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
+                <div class="lato-b text-[18px]">
                   X
                 </div>
-                <div class="mt-[10px]">
+                <div class="lato-s text-[16px]">
                   35 шт
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
-                <div>
+              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[58px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
+                <div class="lato-b text-[18px]">
                   X
                 </div>
-                <div class="mt-[10px]">
+                <div class="lato-s text-[16px]">
                   28 шт
                 </div>
               </div>
 
             </div>
             <div class="flex w-full gap-[2px]">
-              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
+              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[58px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
                 <div>
                   X
                 </div>
-                <div class="mt-[10px]">
+                <div class="lato-s text-[16px]">
                   180 шт
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
-                <div>
+              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[58px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
+                <div class="lato-b text-[18px]">
                   X
                 </div>
-                <div class="mt-[10px]">
+                <div class="lato-s text-[16px]">
                   65 шт
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
-                <div>
+              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[58px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
+                <div class="lato-b text-[18px]">
                   X
                 </div>
-                <div class="mt-[10px]">
+                <div class="lato-s text-[16px]">
                   55 шт
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
-                <div>
+              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[58px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
+                <div class="lato-b text-[18px]">
                   X
                 </div>
-                <div class="mt-[10px]">
+                <div class="lato-s text-[16px]">
                   45 шт
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
-                <div>
+              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[58px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
+                <div class="lato-b text-[18px]">
                   X
                 </div>
-                <div class="mt-[10px]">
+                <div class="lato-s text-[16px]">
                   40 шт
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
-                <div>
+              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[58px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
+                <div class="lato-b text-[18px]">
                   X
                 </div>
-                <div class="mt-[10px]">
+                <div class="lato-s text-[16px]">
                   35 шт
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
-                <div>
+              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[58px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
+                <div class="lato-b text-[18px]">
                   X
                 </div>
-                <div class="mt-[10px]">
+                <div class="lato-s text-[16px]">
                   30 шт
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
-                <div>
+              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[58px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
+                <div class="lato-b text-[18px]">
                   X
                 </div>
-                <div class="mt-[10px]">
+                <div class="lato-s text-[16px]">
                   25 шт
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
-                <div>
+              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[58px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
+                <div class="lato-b text-[18px]">
                   X
                 </div>
-                <div class="mt-[10px]">
+                <div class="lato-s text-[16px]">
                   25 шт
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
-                <div>
+              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[58px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
+                <div class="lato-b text-[18px]">
                   X
                 </div>
-                <div class="mt-[10px]">
+                <div class="lato-s text-[16px]">
                   20 шт
                 </div>
               </div>
 
             </div>
             <div class="flex w-full gap-[2px]">
-              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
+              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[58px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
                 <div>
                   -
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
+              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[58px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
                 <div>
                   -
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
-                <div>
+              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[58px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
+                <div class="lato-b text-[18px]">
                   X
                 </div>
-                <div class="mt-[10px]">
+                <div class="lato-s text-[16px]">
                   44 шт
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
-                <div>
+              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[58px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
+                <div class="lato-b text-[18px]">
                   X
                 </div>
-                <div class="mt-[10px]">
+                <div class="lato-s text-[16px]">
                   36 шт
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
-                <div>
+              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[58px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
+                <div class="lato-b text-[18px]">
                   X
                 </div>
-                <div class="mt-[10px]">
+                <div class="lato-s text-[16px]">
                   32 шт
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
-                <div>
+              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[58px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
+                <div class="lato-b text-[18px]">
                   X
                 </div>
-                <div class="mt-[10px]">
+                <div class="lato-s text-[16px]">
                   28 шт
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
-                <div>
+              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[58px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
+                <div class="lato-b text-[18px]">
                   X
                 </div>
-                <div class="mt-[10px]">
+                <div class="lato-s text-[16px]">
                   24 шт
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
-                <div>
+              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[58px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
+                <div class="lato-b text-[18px]">
                   X
                 </div>
-                <div class="mt-[10px]">
+                <div class="lato-s text-[16px]">
                   20 шт
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
-                <div>
+              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[58px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
+                <div class="lato-b text-[18px]">
                   X
                 </div>
-                <div class="mt-[10px]">
+                <div class="lato-s text-[16px]">
                   20 шт
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
-                <div>
+              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[58px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
+                <div class="lato-b text-[18px]">
                   X
                 </div>
-                <div class="mt-[10px]">
+                <div class="lato-s text-[16px]">
                   16 шт
                 </div>
               </div>
 
             </div>
             <div class="flex w-full gap-[2px]">
-              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
+              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[58px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
                 <div>
                   -
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
+              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[58px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
                 <div>
                   -
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
+              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[58px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
                 <div>
                   -
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
-                <div>
+              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[58px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
+                <div class="lato-b text-[18px]">
                   X
                 </div>
-                <div class="mt-[10px]">
+                <div class="lato-s text-[16px]">
                   27 шт
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
-                <div>
+              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[58px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
+                <div class="lato-b text-[18px]">
                   X
                 </div>
-                <div class="mt-[10px]">
+                <div class="lato-s text-[16px]">
                   24 шт
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
-                <div>
+              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[58px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
+                <div class="lato-b text-[18px]">
                   X
                 </div>
-                <div class="mt-[10px]">
+                <div class="lato-s text-[16px]">
                   21 шт
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
-                <div>
+              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[58px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
+                <div class="lato-b text-[18px]">
                   X
                 </div>
-                <div class="mt-[10px]">
+                <div class="lato-s text-[16px]">
                   18 шт
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
-                <div>
+              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[58px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
+                <div class="lato-b text-[18px]">
                   X
                 </div>
-                <div class="mt-[10px]">
+                <div class="lato-s text-[16px]">
                   15 шт
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
+              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[58px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
                 <div>
                   -
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
+              <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[58px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
                 <div>
                   -
                 </div>
@@ -632,434 +632,434 @@
           <div class="bg-[#fff] h-[54px] lg:w-[125px] w-[70px] flex items-center justify-center">
             <img class="mx-auto" src="/assets/img/icons/small-logo.png" alt="">
           </div>
-          <div class="bg-[#419B44] h-[54px] lg:w-[125px] w-[70px] text-white lg:text-left text-center flex items-center justify-center">Ширина, мм</div>
-          <div class="bg-[#419B44] h-[74px] lg:w-[125px] w-[70px] text-white flex items-center justify-center">80</div>
-          <div class="bg-[#419B44] h-[74px] lg:w-[125px] w-[70px] text-white flex items-center justify-center">100</div>
-          <div class="bg-[#419B44] h-[74px] lg:w-[125px] w-[70px] text-white flex items-center justify-center">120</div>
-          <div class="bg-[#419B44] h-[74px] lg:w-[125px] w-[70px] text-white flex items-center justify-center">140</div>
-          <div class="bg-[#419B44] h-[74px] lg:w-[125px] w-[70px] text-white flex items-center justify-center">160</div>
-          <div class="bg-[#419B44] h-[74px] lg:w-[125px] w-[70px] text-white flex items-center justify-center">180</div>
-          <div class="bg-[#419B44] h-[74px] lg:w-[125px] w-[70px] text-white flex items-center justify-center">200</div>
+          <div class="bg-[#419B44] h-[54px] lg:w-[125px] w-[70px] text-white lg:text-left lato-e text-center flex items-center justify-center">Ширина, мм</div>
+          <div class="bg-[#419B44] h-[58px] lg:w-[125px] w-[70px] text-white flex lato-e items-center justify-center">80</div>
+          <div class="bg-[#419B44] h-[58px] lg:w-[125px] w-[70px] text-white flex lato-e items-center justify-center">100</div>
+          <div class="bg-[#419B44] h-[58px] lg:w-[125px] w-[70px] text-white flex lato-e items-center justify-center">120</div>
+          <div class="bg-[#419B44] h-[58px] lg:w-[125px] w-[70px] text-white flex lato-e items-center justify-center">140</div>
+          <div class="bg-[#419B44] h-[58px] lg:w-[125px] w-[70px] text-white flex lato-e items-center justify-center">160</div>
+          <div class="bg-[#419B44] h-[58px] lg:w-[125px] w-[70px] text-white flex lato-e items-center justify-center">180</div>
+          <div class="bg-[#419B44] h-[58px] lg:w-[125px] w-[70px] text-white flex lato-e items-center justify-center">200</div>
         </div>
 
         <div class="w-full flex flex-col gap-[2px] ml-[2px]">
-          <div class="bg-[#E4F1E5] h-[54px] w-full flex items-center justify-center">
+          <div class="bg-[#E4F1E5] h-[54px] w-full flex items-center lato-e text-[#464B57] justify-center">
             Висота, мм
           </div>
           <div class="max-w-[calc(100vw-(32px+76px))] flex flex-col gap-[2px] overflow-auto">
             <div class="flex w-full gap-[2px]">
-              <div class="bg-[#419B44] w-[33.3%] shrink-0 lg:w-auto h-[54px] grow text-white flex items-center justify-center">100</div>
-              <div class="bg-[#419B44] w-[33.3%] shrink-0 lg:w-auto h-[54px] grow text-white flex items-center justify-center">120</div>
-              <div class="bg-[#419B44] w-[33.3%] shrink-0 lg:w-auto h-[54px] grow text-white flex items-center justify-center">140</div>
-              <div class="bg-[#419B44] w-[33.3%] shrink-0 lg:w-auto h-[54px] grow text-white flex items-center justify-center">160</div>
-              <div class="bg-[#419B44] w-[33.3%] shrink-0 lg:w-auto h-[54px] grow text-white flex items-center justify-center">180</div>
-              <div class="bg-[#419B44] w-[33.3%] shrink-0 lg:w-auto h-[54px] grow text-white flex items-center justify-center">200</div>
-              <div class="bg-[#419B44] w-[33.3%] shrink-0 lg:w-auto h-[54px] grow text-white flex items-center justify-center">220</div>
-              <div class="bg-[#419B44] w-[33.3%] shrink-0 h-[54px] lg:w-auto grow text-white flex items-center justify-center">240</div>
+              <div class="bg-[#419B44] w-[33.3%] shrink-0 lg:w-auto h-[54px] lato-b grow text-white flex items-center justify-center">100</div>
+              <div class="bg-[#419B44] w-[33.3%] shrink-0 lg:w-auto h-[54px] lato-b grow text-white flex items-center justify-center">120</div>
+              <div class="bg-[#419B44] w-[33.3%] shrink-0 lg:w-auto h-[54px] lato-b grow text-white flex items-center justify-center">140</div>
+              <div class="bg-[#419B44] w-[33.3%] shrink-0 lg:w-auto h-[54px] lato-b grow text-white flex items-center justify-center">160</div>
+              <div class="bg-[#419B44] w-[33.3%] shrink-0 lg:w-auto h-[54px] lato-b grow text-white flex items-center justify-center">180</div>
+              <div class="bg-[#419B44] w-[33.3%] shrink-0 lg:w-auto h-[54px] lato-b grow text-white flex items-center justify-center">200</div>
+              <div class="bg-[#419B44] w-[33.3%] shrink-0 lg:w-auto h-[54px] lato-b grow text-white flex items-center justify-center">220</div>
+              <div class="bg-[#419B44] w-[33.3%] shrink-0 h-[54px] lato-b lg:w-auto grow text-white flex items-center justify-center">240</div>
             </div>
             <div class="flex w-full gap-[2px]">
-              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[74px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
-                <div>
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[58px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
+                <div class="text-[18px] lato-b">
                   II
                 </div>
-                <div class="mt-[10px]">
+                <div class="lato-s text-[16px]">
                   55 шт
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
-                <div>
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[58px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
+                <div class="text-[18px] lato-b">
                   II
                 </div>
-                <div class="mt-[10px]">
+                <div class="lato-s text-[16px]">
                   45 шт
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[74px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
-                <div>
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[58px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
+                <div class="text-[18px] lato-b">
                   II
                 </div>
-                <div class="mt-[10px]">
+                <div class="lato-s text-[16px]">
                   40 шт
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
-                <div>
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[58px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
+                <div class="text-[18px] lato-b">
                   II
                 </div>
-                <div class="mt-[10px]">
+                <div class="lato-s text-[16px]">
                   35 шт
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[74px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
-                <div>
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[58px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
+                <div class="text-[18px] lato-b">
                   II
                 </div>
-                <div class="mt-[10px]">
+                <div class="lato-s text-[16px]">
                   30 шт
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
-                <div>
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[58px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
+                <div class="text-[18px] lato-b">
                   II
                 </div>
-                <div class="mt-[10px]">
+                <div class="lato-s text-[16px]">
                   25 шт
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[74px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
-                <div>
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[58px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
+                <div class="text-[18px] lato-b">
                   II
                 </div>
-                <div class="mt-[10px]">
+                <div class="lato-s text-[16px]">
                   25 шт
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
-                <div>
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[58px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
+                <div class="text-[18px] lato-b">
                   II
                 </div>
-                <div class="mt-[10px]">
+                <div class="lato-s text-[16px]">
                   20 шт
                 </div>
               </div>
 
             </div>
             <div class="flex w-full gap-[2px]">
-              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[74px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
-                <div>
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[58px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
+                <div class="text-[18px] lato-b">
                   II
                 </div>
-                <div class="mt-[10px]">
+                <div class="lato-s text-[16px]">
                   44 шт
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
-                <div>
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[58px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
+                <div class="text-[18px] lato-b">
                   II
                 </div>
-                <div class="mt-[10px]">
+                <div class="lato-s text-[16px]">
                   36 шт
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[74px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
-                <div>
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[58px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
+                <div class="text-[18px] lato-b">
                   II
                 </div>
-                <div class="mt-[10px]">
+                <div class="lato-s text-[16px]">
                   32 шт
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
-                <div>
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[58px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
+                <div class="text-[18px] lato-b">
                   II
                 </div>
-                <div class="mt-[10px]">
+                <div class="lato-s text-[16px]">
                   28 шт
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[74px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
-                <div>
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[58px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
+                <div class="text-[18px] lato-b">
                   II
                 </div>
-                <div class="mt-[10px]">
+                <div class="lato-s text-[16px]">
                   24 шт
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
-                <div>
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[58px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
+                <div class="text-[18px] lato-b">
                   II
                 </div>
-                <div class="mt-[10px]">
+                <div class="lato-s text-[16px]">
                   20 шт
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[74px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
-                <div>
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[58px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
+                <div class="text-[18px] lato-b">
                   II
                 </div>
-                <div class="mt-[10px]">
+                <div class="lato-s text-[16px]">
                   20 шт
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
-                <div>
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[58px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
+                <div class="text-[18px] lato-b">
                   II
                 </div>
-                <div class="mt-[10px]">
+                <div class="lato-s text-[16px]">
                   16 шт
                 </div>
               </div>
             </div>
             <div class="flex w-full gap-[2px]">
-              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[74px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[58px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
                 <div>
                   -
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[58px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
                 <div>
                   -
                 </div>
-                <div class="mt-[10px]">
+                <div class="lato-s text-[16px]">
                   27 шт
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[74px] text-center text-[#464B57] flex flex-col bg-[#fff] items-center justify-center">
-                <div>
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[58px] text-center text-[#464B57] flex flex-col bg-[#fff] items-center justify-center">
+                <div class="text-[18px] lato-b">
                   II
                 </div>
-                <div class="mt-[10px]">
+                <div class="lato-s text-[16px]">
                   24 шт
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
-                <div>
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[58px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
+                <div class="text-[18px] lato-b">
                   II
                 </div>
-                <div class="mt-[10px]">
+                <div class="lato-s text-[16px]">
                   21 шт
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[74px] text-center text-[#464B57] flex flex-col bg-[#fff] items-center justify-center">
-                <div>
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[58px] text-center text-[#464B57] flex flex-col bg-[#fff] items-center justify-center">
+                <div class="text-[18px] lato-b">
                   II
                 </div>
-                <div class="mt-[10px]">
+                <div class="lato-s text-[16px]">
                   18 шт
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[58px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
                 <div>
                   II
                 </div>
-                <div class="mt-[10px]">
+                <div class="lato-s text-[16px]">
                   15 шт
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[74px] text-center text-[#464B57] flex flex-col bg-[#fff] items-center justify-center">
-                <div>
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[58px] text-center text-[#464B57] flex flex-col bg-[#fff] items-center justify-center">
+                <div class="text-[18px] lato-b">
                   II
                 </div>
-                <div class="mt-[10px]">
+                <div class="lato-s text-[16px]">
                   15 шт
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[58px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
                 <div>
                   II
                 </div>
-                <div class="mt-[10px]">
+                <div class="lato-s text-[16px]">
                   12 шт
                 </div>
               </div>
             </div>
             <div class="flex w-full gap-[2px]">
-              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[74px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[58px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
                 <div>
                   -
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[58px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
                 <div>
                   -
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[74px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
-                <div>
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[58px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
+                <div class="text-[18px] lato-b">
                   II
                 </div>
-                <div class="mt-[10px]">
+                <div class="lato-s text-[16px]">
                   24 шт
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
-                <div>
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[58px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
+                <div class="text-[18px] lato-b">
                   II
                 </div>
-                <div class="mt-[10px]">
+                <div class="lato-s text-[16px]">
                   21 шт
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[74px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
-                <div>
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[58px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
+                <div class="text-[18px] lato-b">
                   II
                 </div>
-                <div class="mt-[10px]">
+                <div class="lato-s text-[16px]">
                   18 шт
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
-                <div>
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[58px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
+                <div class="text-[18px] lato-b">
                   II
                 </div>
-                <div class="mt-[10px]">
+                <div class="lato-s text-[16px]">
                   15 шт
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[74px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[58px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
                 <div>
                   -
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
-                <div>
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[58px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
+                <div class="text-[18px] lato-b">
                   II
                 </div>
-                <div class="mt-[10px]">
+                <div class="lato-s text-[16px]">
                   12 шт
                 </div>
               </div>
             </div>
             <div class="flex w-full gap-[2px]">
-              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[74px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[58px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
                 <div>
                   -
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[58px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
                 <div>
                   -
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[74px] text-center text-[#464B57] flex flex-col bg-[#fff] items-center justify-center">
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[58px] text-center text-[#464B57] flex flex-col bg-[#fff] items-center justify-center">
                 <div>
                   -
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
-                <div>
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[58px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
+                <div class="text-[18px] lato-b">
                   II
                 </div>
-                <div class="mt-[10px]">
+                <div class="lato-s text-[16px]">
                   14 шт
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[74px] text-center text-[#464B57] flex flex-col bg-[#fff] items-center justify-center">
-                <div>
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[58px] text-center text-[#464B57] flex flex-col bg-[#fff] items-center justify-center">
+                <div class="text-[18px] lato-b">
                   II
                 </div>
-                <div class="mt-[10px]">
+                <div class="lato-s text-[16px]">
                   12 шт
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
-                <div>
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[58px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
+                <div class="text-[18px] lato-b">
                   II
                 </div>
-                <div class="mt-[10px]">
+                <div class="lato-s text-[16px]">
                   10 шт
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[74px] text-center text-[#464B57] flex flex-col bg-[#fff] items-center justify-center">
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[58px] text-center text-[#464B57] flex flex-col bg-[#fff] items-center justify-center">
                 <div>
                   -
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
-                <div>
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[58px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
+                <div class="text-[18px] lato-b">
                   II
                 </div>
-                <div class="mt-[10px]">
+                <div class="lato-s text-[16px]">
                   8 шт
                 </div>
               </div>
             </div>
 
             <div class="flex w-full gap-[2px]">
-              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[74px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[58px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
                 <div>
                   -
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[58px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
                 <div>
                   -
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[74px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[58px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
                 <div>
                   -
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[58px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
                 <div>
                   -
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[74px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
-                <div>
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[58px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
+                <div class="text-[18px] lato-b">
                   II
                 </div>
-                <div class="mt-[10px]">
+                <div class="lato-s text-[16px]">
                   12 шт
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
-                <div>
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[58px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
+                <div class="text-[18px] lato-b">
                   II
                 </div>
-                <div class="mt-[10px]">
+                <div class="lato-s text-[16px]">
                   10 шт
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[74px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[58px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
                 <div>
                   -
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[58px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
                 <div>
                   -
                 </div>
-                <div class="mt-[10px]">
+                <div class="lato-s text-[16px]">
                   8 шт
                 </div>
               </div>
             </div>
             <div class="flex w-full gap-[2px]">
-              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[74px] text-center text-[#464B57] flex flex-col bg-[#fff] items-center justify-center">
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[58px] text-center text-[#464B57] flex flex-col bg-[#fff] items-center justify-center">
                 <div>
                   -
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[58px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
                 <div>
                   -
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[74px] text-center text-[#464B57] flex flex-col bg-[#fff] items-center justify-center">
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[58px] text-center text-[#464B57] flex flex-col bg-[#fff] items-center justify-center">
                 <div>
                   -
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[58px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
                 <div>
                   -
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[74px] text-center text-[#464B57] flex flex-col bg-[#fff] items-center justify-center">
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[58px] text-center text-[#464B57] flex flex-col bg-[#fff] items-center justify-center">
                 <div>
                   -
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
-                <div>
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[58px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
+                <div class="text-[18px] lato-b">
                   II
                 </div>
-                <div class="mt-[10px]">
+                <div class="lato-s text-[16px]">
                   10 шт
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[74px] text-center text-[#464B57] flex flex-col bg-[#fff] items-center justify-center">
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[58px] text-center text-[#464B57] flex flex-col bg-[#fff] items-center justify-center">
                 <div>
                   -
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[74px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
-                <div>
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[58px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
+                <div class="text-[18px] lato-b">
                   II
                 </div>
-                <div class="mt-[10px]">
+                <div class="lato-s text-[16px]">
                   8 шт
                 </div>
               </div>
@@ -1127,36 +1127,52 @@
       </h1>
 
       <div class="flex gap-[24px] md:flex-nowrap flex-wrap">
-        <nuxt-link to="/material-1" class="border border-solid border-[#ECEDEE] md:w-[316px] w-full h-[305px] flex flex-col justify-between shadow">
-          <div class="px-[9xp] py-[19px]">
+        <nuxt-link to="/solution-1" class="border border-solid border-[#ECEDEE] md:w-[316px] w-full h-[305px] flex flex-col justify-between shadow">
+          <div class="px-[9xp] py-[19px] pt0">
             <img src="/assets/img/industrial.png" alt="" class="w-full mx-auto max-w-[300px]">
           </div>
 
-          <h1 class="text-[#464B57] text-[20px] lato-b leading-[87px] text-center">
-            Індустріальні будівлі
-          </h1>
+          <div to="/solution-1" class="h-[42px] my-[20px] mb-[34px] mx-[14px] shrink-0 bg-[#FAFAFA] hover:bg-[#F4F9F4] group border-[#ECEDEE] lg:mt-[24px] border border-solid text-[#464B57] hover:text-[#419B44] flex items-center justify-center cursor-pointer">
+                <span class="flex lato-b gap-[10px] text-[20px] items-center">
+                   Індустріальні будівлі
+
+                  <img src="/assets/img/icons/button-arrow.png" draggable="false" class="w-[20px] h-[20px] group-hover:hidden block" alt="">
+                  <img src="/assets/img/icons/caret-right-active.svg" draggable="false" class="w-[20px] h-[20px] group-hover:block hidden" alt="">
+                </span>
+          </div>
         </nuxt-link>
 
-        <nuxt-link to="/material-2" class="border border-solid border-[#ECEDEE] md:w-[316px] w-full h-[305px] flex flex-col justify-between shadow">
-          <div class="px-[9xp] py-[19px]">
-            <img src="/assets/img/living.png" alt="" class="w-full mx-auto max-w-[300px]">
+        <nuxt-link to="/solution-2" class="border border-solid border-[#ECEDEE] md:w-[316px] w-full h-[305px] flex flex-col justify-between shadow">
+          <div class="px-[9xp]">
+            <img src="/assets/img/living.png" alt="" class="w-full mx-auto max-w-[300px] h-[180px]">
           </div>
 
-          <h1 class="text-[#464B57] text-[20px] lato-b leading-[87px] text-center">
-            Житлові будівлі
-          </h1>
+          <div class="h-[42px] my-[20px] mb-[34px] mx-[14px] shrink-0 bg-[#FAFAFA] hover:bg-[#F4F9F4] group border-[#ECEDEE] lg:mt-[24px] border border-solid text-[#464B57] hover:text-[#419B44] flex items-center justify-center cursor-pointer">
+                <span class="flex lato-b gap-[10px] text-[20px] items-center">
+                   Житлові будівлі
+
+                  <img src="/assets/img/icons/button-arrow.png" draggable="false" class="w-[20px] h-[20px] group-hover:hidden block" alt="">
+                  <img src="/assets/img/icons/caret-right-active.svg" draggable="false" class="w-[20px] h-[20px] group-hover:block hidden" alt="">
+                </span>
+          </div>
         </nuxt-link>
 
-        <nuxt-link to="/material-3" class="border border-solid border-[#ECEDEE] md:w-[316px] w-full h-[305px] flex flex-col justify-between shadow">
+        <nuxt-link to="/solution-3" class="border border-solid border-[#ECEDEE] md:w-[316px] w-full h-[305px] flex flex-col justify-between shadow">
           <div class="px-[9xp] py-[19px]">
             <img src="/assets/img/social.png" alt="" class="w-full max-w-[168px] h-[168px] mx-auto">
           </div>
 
-          <h1 class="text-[#464B57] text-[20px] lato-b leading-[87px] text-center">
-            Соціальні будівлі
-          </h1>
+          <div to="/solution-3" class="h-[42px] my-[20px] mb-[34px] mx-[14px] shrink-0 bg-[#FAFAFA] hover:bg-[#F4F9F4] group border-[#ECEDEE] lg:mt-[24px] border border-solid text-[#464B57] hover:text-[#419B44] flex items-center justify-center cursor-pointer">
+                <span class="flex lato-b gap-[10px] text-[20px] items-center">
+                  Соціальні будівлі
+
+                  <img src="/assets/img/icons/button-arrow.png" draggable="false" class="w-[20px] h-[20px] group-hover:hidden block" alt="">
+                  <img src="/assets/img/icons/caret-right-active.svg" draggable="false" class="w-[20px] h-[20px] group-hover:block hidden" alt="">
+                </span>
+          </div>
         </nuxt-link>
       </div>
+
     </div>
   </div>
 </template>

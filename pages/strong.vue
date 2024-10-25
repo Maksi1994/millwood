@@ -1,5 +1,5 @@
 <template>
-  <breadcrumbs/>
+  <breadcrumbs  page="Стійкість"/>
 
   <div class="mt-[25px] w-full lato">
     <div class="lg:h-[395px] h-[320px] w-full bg-[url(/assets/img/strong.png)] bg-no-repeat bg-center relative lg:mb-[55px] mb-[14px] bg-cover">

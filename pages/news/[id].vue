@@ -1,5 +1,5 @@
 <template>
-  <breadcrumbs/>
+  <breadcrumbs page="Výběr kvalitních materiálů pro konstrukce dřevostavby"/>
   <div class="lg:h-[345px] mt-[20px] h-[320px] w-full bg-[url(/assets/img/about.png)] bg-[40%_top] bg-no-repeat bg-center relative lg:mb-[40px] mb-[14px] bg-cover">
   </div>
 
@@ -78,11 +78,11 @@
     </h1>
 
     <div class="flex gap-[12px] mb-[48px] md:flex-nowrap flex-wrap">
-      <div class="p-[14px] border-[#ECEDEE] border border-solid shadow flex flex-col gap-[18px] lg:w-[324px] w-full">
+      <div class="p-[14px] border-[#ECEDEE] h-[452px] lg:mb-[12px] border border-solid shadow flex flex-col gap-[18px] lg:w-[324px] w-full">
         <img class="object-center w-full max-h-[200px] object-contain lg:max-h-auto lg:object-cover" src="/assets/img/news-1.png" alt="">
 
         <div>
-          <h1 class="mb-[12px] text-[#464B57] lato lato-b mb-[12px]">
+          <h1 class="mb-[12px] text-[#464B57] lato lato-b mb-[12px] text-[20px] leading-[25px]">
             Výběr kvalitních materiálů pro konstrukce dřevostavby
           </h1>
 
@@ -97,25 +97,28 @@
           </div>
         </div>
 
-        <div>
+        <div class="-my-[10px]">
           <p class="text-[#61656F] text-[18px] lato-s leading-[24px]">
             V době, kdy se nacházíme na křižovatce mezi ekologickým chováním a ekonomickou efektivitou
           </p>
 
-          <nuxt-link to="/news/1" class="py-[12px] px-[24px] cursor-pointer lato-m text-[#464B57] text-center mt-[24px] lg:flex hidden items-center justify-center">
-            Читати більше
+          <nuxt-link to="/news/2" class="h-[42px] shrink-0 w-full bg-[#FAFAFA] hover:bg-[#F4F9F4] group border-[#ECEDEE] mt-[24px] border border-solid text-[#464B57] hover:text-[#419B44] flex items-center justify-center cursor-pointer">
+                <span class="flex lato-s gap-[10px] text-[16px] items-center">
+                   Читати більше
 
-            <img draggable="false" src="/assets/img/icons/caret-right.png" class="w-[20px] h-[20px] ml-[10px]" alt="">
+                  <img src="/assets/img/icons/button-arrow.png" draggable="false" class="w-[20px] h-[20px] group-hover:hidden block" alt="">
+                  <img src="/assets/img/icons/caret-right-active.svg" draggable="false" class="w-[20px] h-[20px] group-hover:block hidden" alt="">
+                </span>
           </nuxt-link>
         </div>
 
       </div>
 
-      <div class="p-[14px] border-[#ECEDEE] border border-solid shadow flex flex-col gap-[18px] lg:w-[324px] w-full">
-        <img class="object-center w-full max-h-[200px] object-contain lg:max-h-auto lg:object-cover" src="/assets/img/news-2.png" alt="">
+      <div class="p-[14px] border-[#ECEDEE] h-[452px] lg:mb-[12px] border border-solid shadow flex flex-col gap-[18px] lg:w-[324px] w-full">
+        <img class="object-center w-full max-h-[200px] object-contain lg:max-h-auto lg:object-cover" src="/assets/img/news-1.png" alt="">
 
         <div>
-          <h1 class="mb-[12px] text-[#464B57] lato lato-b mb-[12px]">
+          <h1 class="mb-[12px] text-[#464B57] lato lato-b mb-[12px] text-[20px] leading-[25px]">
             Výběr kvalitních materiálů pro konstrukce dřevostavby
           </h1>
 
@@ -130,25 +133,28 @@
           </div>
         </div>
 
-        <div>
+        <div class="-my-[10px]">
           <p class="text-[#61656F] text-[18px] lato-s leading-[24px]">
             V době, kdy se nacházíme na křižovatce mezi ekologickým chováním a ekonomickou efektivitou
           </p>
 
-          <nuxt-link to="/news/1" class="py-[12px] px-[24px] cursor-pointer lato-m text-[#464B57] text-center mt-[24px] lg:flex hidden items-center justify-center">
-            Читати більше
+          <nuxt-link to="/news/2" class="h-[42px] shrink-0 w-full bg-[#FAFAFA] hover:bg-[#F4F9F4] group border-[#ECEDEE] mt-[24px] border border-solid text-[#464B57] hover:text-[#419B44] flex items-center justify-center cursor-pointer">
+                <span class="flex lato-s gap-[10px] text-[16px] items-center">
+                   Читати більше
 
-            <img draggable="false" src="/assets/img/icons/caret-right.png" class="w-[20px] h-[20px] ml-[10px]" alt="">
+                  <img src="/assets/img/icons/button-arrow.png" draggable="false" class="w-[20px] h-[20px] group-hover:hidden block" alt="">
+                  <img src="/assets/img/icons/caret-right-active.svg" draggable="false" class="w-[20px] h-[20px] group-hover:block hidden" alt="">
+                </span>
           </nuxt-link>
         </div>
 
       </div>
 
-      <div class="p-[14px] border-[#ECEDEE] border border-solid shadow flex flex-col gap-[18px] lg:w-[324px] w-full">
-        <img class="object-center w-full max-h-[200px] object-contain lg:max-h-auto lg:object-cover" src="/assets/img/news-3.png" alt="">
+      <div class="p-[14px] border-[#ECEDEE] h-[452px] lg:mb-[12px] border border-solid shadow flex flex-col gap-[18px] lg:w-[324px] w-full">
+        <img class="object-center w-full max-h-[200px] object-contain lg:max-h-auto lg:object-cover" src="/assets/img/news-1.png" alt="">
 
         <div>
-          <h1 class="mb-[12px] text-[#464B57] lato lato-b mb-[12px]">
+          <h1 class="mb-[12px] text-[#464B57] lato lato-b mb-[12px] text-[20px] leading-[25px]">
             Výběr kvalitních materiálů pro konstrukce dřevostavby
           </h1>
 
@@ -163,22 +169,26 @@
           </div>
         </div>
 
-        <div>
+        <div class="-my-[10px]">
           <p class="text-[#61656F] text-[18px] lato-s leading-[24px]">
             V době, kdy se nacházíme na křižovatce mezi ekologickým chováním a ekonomickou efektivitou
           </p>
 
-          <nuxt-link to="/news/1" class="py-[12px] px-[24px] cursor-pointer lato-m text-[#464B57] text-center mt-[24px] lg:flex hidden items-center justify-center">
-            Читати більше
+          <nuxt-link to="/news/2" class="h-[42px] shrink-0 w-full bg-[#FAFAFA] hover:bg-[#F4F9F4] group border-[#ECEDEE] mt-[24px] border border-solid text-[#464B57] hover:text-[#419B44] flex items-center justify-center cursor-pointer">
+                <span class="flex lato-s gap-[10px] text-[16px] items-center">
+                   Читати більше
 
-            <img draggable="false" src="/assets/img/icons/caret-right.png" class="w-[20px] h-[20px] ml-[10px]" alt="">
+                  <img src="/assets/img/icons/button-arrow.png" draggable="false" class="w-[20px] h-[20px] group-hover:hidden block" alt="">
+                  <img src="/assets/img/icons/caret-right-active.svg" draggable="false" class="w-[20px] h-[20px] group-hover:block hidden" alt="">
+                </span>
           </nuxt-link>
         </div>
 
       </div>
+
     </div>
 
-    <nuxt-link to="/news" class="table mx-auto text-[#1F1C25] text-[16px] lato-m leading-[26px] underline underline-offset-[4px]">
+    <nuxt-link to="/news" class="table mx-auto text-[#1F1C25] text-[16px] lato-m leading-[26px] underline underline-offset-[4px] hover:text-[#419B44] hover:underline">
       Усі новини
     </nuxt-link>
   </div>

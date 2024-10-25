@@ -1,5 +1,5 @@
 <template>
-  <breadcrumbs/>
+  <breadcrumbs page="Конструкційна деревина C24"/>
 
   <div class="mt-[24px] w-full">
     <div class="h-[250px] w-full top-content-gradient relative lg:mb-[30px] mb-[14px] bg-cover">
@@ -153,37 +153,53 @@
       </h1>
 
       <div class="flex gap-[24px] md:flex-nowrap flex-wrap">
-        <nuxt-link to="/material-1" class="border border-solid border-[#ECEDEE] md:w-[316px] w-full h-[305px] flex flex-col justify-between shadow">
-          <div class="px-[9xp] py-[19px]">
+        <nuxt-link to="/solution-1" class="border border-solid border-[#ECEDEE] md:w-[316px] w-full h-[305px] flex flex-col justify-between shadow">
+          <div class="px-[9xp] py-[19px] pt0">
             <img src="/assets/img/industrial.png" alt="" class="w-full mx-auto max-w-[300px]">
           </div>
 
-          <h1 class="text-[#464B57] text-[20px] lato-b leading-[87px] text-center">
-            Індустріальні будівлі
-          </h1>
+          <nuxt-link to="/solution-1" class="h-[42px] my-[20px] mb-[34px] mx-[14px] shrink-0 bg-[#FAFAFA] hover:bg-[#F4F9F4] group border-[#ECEDEE] lg:mt-[24px] border border-solid text-[#464B57] hover:text-[#419B44] flex items-center justify-center cursor-pointer">
+                <span class="flex lato-b gap-[10px] text-[20px] items-center">
+                   Індустріальні будівлі
+
+                  <img src="/assets/img/icons/button-arrow.png" draggable="false" class="w-[20px] h-[20px] group-hover:hidden block" alt="">
+                  <img src="/assets/img/icons/caret-right-active.svg" draggable="false" class="w-[20px] h-[20px] group-hover:block hidden" alt="">
+                </span>
+          </nuxt-link>
         </nuxt-link>
 
-        <nuxt-link to="/material-2" class="border border-solid border-[#ECEDEE] md:w-[316px] w-full h-[305px] flex flex-col justify-between shadow">
-          <div class="px-[9xp] py-[19px]">
-            <img src="/assets/img/living.png" alt="" class="w-full mx-auto max-w-[300px]">
+        <nuxt-link to="/solution-2" class="border border-solid border-[#ECEDEE] md:w-[316px] w-full h-[305px] flex flex-col justify-between shadow">
+          <div class="px-[9xp]">
+            <img src="/assets/img/living.png" alt="" class="w-full mx-auto max-w-[300px] h-[180px]">
           </div>
 
-          <h1 class="text-[#464B57] text-[20px] lato-b leading-[87px] text-center">
-            Житлові будівлі
-          </h1>
+          <nuxt-link to="/solution-2" class="h-[42px] my-[20px] mb-[34px] mx-[14px] shrink-0 bg-[#FAFAFA] hover:bg-[#F4F9F4] group border-[#ECEDEE] lg:mt-[24px] border border-solid text-[#464B57] hover:text-[#419B44] flex items-center justify-center cursor-pointer">
+                <span class="flex lato-b gap-[10px] text-[20px] items-center">
+                   Житлові будівлі
+
+                  <img src="/assets/img/icons/button-arrow.png" draggable="false" class="w-[20px] h-[20px] group-hover:hidden block" alt="">
+                  <img src="/assets/img/icons/caret-right-active.svg" draggable="false" class="w-[20px] h-[20px] group-hover:block hidden" alt="">
+                </span>
+          </nuxt-link>
         </nuxt-link>
 
-        <nuxt-link to="/material-3" class="border border-solid border-[#ECEDEE] md:w-[316px] w-full h-[305px] flex flex-col justify-between shadow">
+        <nuxt-link to="/solution-3" class="border border-solid border-[#ECEDEE] md:w-[316px] w-full h-[305px] flex flex-col justify-between shadow">
           <div class="px-[9xp] py-[19px]">
             <img src="/assets/img/social.png" alt="" class="w-full max-w-[168px] h-[168px] mx-auto">
           </div>
 
-          <h1 class="text-[#464B57] text-[20px] lato-b leading-[87px] text-center">
-            Соціальні будівлі
-          </h1>
+          <nuxt-link to="/solution-3" class="h-[42px] my-[20px] mb-[34px] mx-[14px] shrink-0 bg-[#FAFAFA] hover:bg-[#F4F9F4] group border-[#ECEDEE] lg:mt-[24px] border border-solid text-[#464B57] hover:text-[#419B44] flex items-center justify-center cursor-pointer">
+                <span class="flex lato-b gap-[10px] text-[20px] items-center">
+                  Соціальні будівлі
+
+                  <img src="/assets/img/icons/button-arrow.png" draggable="false" class="w-[20px] h-[20px] group-hover:hidden block" alt="">
+                  <img src="/assets/img/icons/caret-right-active.svg" draggable="false" class="w-[20px] h-[20px] group-hover:block hidden" alt="">
+                </span>
+          </nuxt-link>
         </nuxt-link>
       </div>
     </div>
+
 
   </div>
 </template>

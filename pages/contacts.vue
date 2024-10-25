@@ -1,5 +1,5 @@
 <template>
-  <breadcrumbs/>
+  <breadcrumbs page="Звʼязатися"/>
 
   <div class="lg:px-[48px] px-0 lg:mt-[42px] mt-[28px]">
     <div class="flex lg:flex-row flex-col lg:gap-[127px] gap-[28px] lg:items-end items-center mb-[48px]">
