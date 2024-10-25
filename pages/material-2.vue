@@ -988,7 +988,7 @@
               </div>
               <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[58px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
                 <div class="text-[18px] lato-b">
-                  II
+                  III
                 </div>
                 <div class="lato-s text-[16px]">
                   12 шт
@@ -996,7 +996,7 @@
               </div>
               <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[58px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
                 <div class="text-[18px] lato-b">
-                  II
+                  III
                 </div>
                 <div class="lato-s text-[16px]">
                   10 шт
@@ -1008,8 +1008,8 @@
                 </div>
               </div>
               <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[58px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
-                <div>
-                  -
+                <div class="text-[18px] lato-b">
+                  III
                 </div>
                 <div class="lato-s text-[16px]">
                   8 шт
@@ -1044,7 +1044,7 @@
               </div>
               <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[58px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
                 <div class="text-[18px] lato-b">
-                  II
+                  III
                 </div>
                 <div class="lato-s text-[16px]">
                   10 шт
@@ -1057,7 +1057,7 @@
               </div>
               <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[58px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
                 <div class="text-[18px] lato-b">
-                  II
+                  III
                 </div>
                 <div class="lato-s text-[16px]">
                   8 шт
