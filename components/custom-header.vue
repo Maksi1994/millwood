@@ -12,19 +12,19 @@
 
 
     <div class="lg:flex hidden">
-      <nuxt-link to="/about" exactActiveClass="!text-[#419B44] bg-[#F4F9F4]" class="text-[#464B57] mr-[10px] px-[10px] text-[16px] lato-s lato leading-[42px] duration-100	">
+      <nuxt-link to="/about" exactActiveClass="!text-[#419B44] bg-[#F4F9F4]" class="text-[#464B57] mr-[10px] px-[10px] text-[16px] lato-s lato leading-[42px] duration-100 hover:!text-[#419B44] hover:bg-[#F4F9F4]">
         Про Мілвуд
       </nuxt-link>
-      <div @click.stop="toggleMenu" :class="{'!text-[#419B44] bg-[#F4F9F4]': isShownMenu}" class="px-[14px] mr-[12px] duration-100 text-[#464B57]	select-none leading-[42px] pr-[10px] lato lato-s flex items-center cursor-pointer">
+      <div @click.stop="toggleMenu" :class="{'!text-[#419B44] bg-[#F4F9F4]': isShownMenu}" class="px-[14px] mr-[12px] duration-100 text-[#464B57]	select-none leading-[42px] pr-[10px] lato lato-s flex items-center cursor-pointer hover:!text-[#419B44] hover:bg-[#F4F9F4]">
         Продукти і рішення
 
         <img class="w-[24px] h-[24px] ml-[10px]" :hidden="isShownMenu" draggable="false" src="/assets/img/icons/caret-down.svg"/>
         <img class="w-[24px] h-[24px] ml-[10px]" :hidden="!isShownMenu" draggable="false" src="/assets/img/icons/green-caret-up.svg"/>
       </div>
-      <nuxt-link to="/strong" exactActiveClass="!text-[#419B44] bg-[#F4F9F4]" class="text-[#464B57] px-[10px] text-[16px] lato-s lato leading-[42px] duration-100	">
+      <nuxt-link to="/strong" exactActiveClass="!text-[#419B44] bg-[#F4F9F4]" class="text-[#464B57] px-[10px] text-[16px] lato-s lato leading-[42px] duration-100	hover:!text-[#419B44] hover:bg-[#F4F9F4]">
         Стійкість
       </nuxt-link>
-      <nuxt-link to="/news" exactActiveClass="!text-[#419B44] bg-[#F4F9F4]" class="text-[#464B57] px-[10px] text-[16px] lato-s lato leading-[42px] duration-100	">
+      <nuxt-link to="/news" exactActiveClass="!text-[#419B44] bg-[#F4F9F4]" class="text-[#464B57] ml-[5px] px-[10px] text-[16px] lato-s lato leading-[42px] duration-100	hover:!text-[#419B44] hover:bg-[#F4F9F4]">
         Новини
       </nuxt-link>
     </div>

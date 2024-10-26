@@ -5,7 +5,7 @@
 
         <ul>
           <li class="mb-[2px] lg:py-0 py-[10px] lg:border-0 border-b border-[#ECEDEE] border-solid">
-            <nuxt-link to="/solution-1" exactActiveClass="!text-[#419B44] underline" class="text-[#464B57] lg:text-[14px] text-[16px] lato-m underline-offset-[3px]">
+            <nuxt-link to="/solution-1" exactActiveClass="!text-[#419B44] underline" class="text-[#464B57] lg:text-[14px] text-[16px] lato-m hover:text-[#419B44] underline-offset-[3px] hover:underline underline-offset-[3px]">
               Індустріальні будівлі
             </nuxt-link>
           </li>

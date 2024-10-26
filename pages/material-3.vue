@@ -38,7 +38,7 @@
 
     <div class="mb-[24px]">
       <h1 class="lg:text-[24px] text-[18px] text-[#464B57] lato-b mb-[24px]">
-        Асортимент та характеристики
+        Асортимент клеєної багатошарової (ламінованої) деревини
       </h1>
 
       <div class="flex lg:text-[18px] text-[14px]">
@@ -52,6 +52,7 @@
           <div class="bg-[#419B44] h-[54px] lg:w-[125px] w-[70px] text-white flex items-center justify-center">140</div>
           <div class="bg-[#419B44] h-[54px] lg:w-[125px] w-[70px] text-white flex items-center justify-center">160</div>
           <div class="bg-[#419B44] h-[54px] lg:w-[125px] w-[70px] text-white flex items-center justify-center">180</div>
+          <div class="bg-[#419B44] h-[54px] lg:w-[125px] w-[70px] text-white flex items-center justify-center">200</div>
           <div class="bg-[#419B44] h-[54px] lg:w-[125px] w-[70px] text-white flex items-center justify-center">220</div>
           <div class="bg-[#419B44] h-[54px] lg:w-[125px] w-[70px] text-white flex items-center justify-center">240</div>
         </div>
@@ -108,39 +109,39 @@
                 </div>
               </div>
               
-              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[54px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[54px] text-center text-[#464B57] flex flex-col bg-[#fff] items-center justify-center">
                 <div>
                   100x240
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[54px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[54px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
                 <div>
                   100x260
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[54px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[54px] text-center text-[#464B57] flex flex-col bg-[#fff] items-center justify-center">
                 <div>
                   100x280
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[54px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[54px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
                 <div>
                   100x300
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[54px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[54px] text-center text-[#464B57] flex flex-col bg-[#fff] items-center justify-center">
                 <div>
                   100x320
                 </div>
               </div>
 
-              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[54px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[54px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
                 <div>
                   100x360
                 </div>
               </div>
 
-              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[54px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[54px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
                 <div>
                   100x400
                 </div>
@@ -177,39 +178,39 @@
                   100x200
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[54px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[54px] text-center text-[#464B57] flex flex-col bg-[#fff] items-center justify-center">
                 <div>
                   100x240
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[54px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[54px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
                 <div>
                   100x260
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[54px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[54px] text-center text-[#464B57] flex flex-col bg-[#fff] items-center justify-center">
                 <div>
                   100x280
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[54px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[54px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
                 <div>
                   100x300
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[54px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[54px] text-center text-[#464B57] flex flex-col bg-[#fff] items-center justify-center">
                 <div>
                   100x320
                 </div>
               </div>
 
-              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[54px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[54px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
                 <div>
                   100x360
                 </div>
               </div>
 
-              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[54px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[54px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
                 <div>
                   100x400
                 </div>
@@ -246,39 +247,39 @@
                   100x200
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[54px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[54px] text-center text-[#464B57] flex flex-col bg-[#fff] items-center justify-center">
                 <div>
                   100x240
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[54px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[54px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
                 <div>
                   100x260
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[54px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[54px] text-center text-[#464B57] flex flex-col bg-[#fff] items-center justify-center">
                 <div>
                   100x280
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[54px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[54px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
                 <div>
                   100x300
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[54px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[54px] text-center text-[#464B57] flex flex-col bg-[#fff] items-center justify-center">
                 <div>
                   100x320
                 </div>
               </div>
 
-              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[54px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[54px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
                 <div>
                   100x360
                 </div>
               </div>
 
-              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[54px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[54px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
                 <div>
                   100x400
                 </div>
@@ -315,39 +316,39 @@
                   100x200
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[54px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[54px] text-center text-[#464B57] flex flex-col bg-[#fff] items-center justify-center">
                 <div>
                   100x240
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[54px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[54px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
                 <div>
                   100x260
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[54px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[54px] text-center text-[#464B57] flex flex-col bg-[#fff] items-center justify-center">
                 <div>
                   100x280
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[54px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[54px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
                 <div>
                   100x300
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[54px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[54px] text-center text-[#464B57] flex flex-col bg-[#fff] items-center justify-center">
                 <div>
                   100x320
                 </div>
               </div>
 
-              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[54px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[54px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
                 <div>
                   100x360
                 </div>
               </div>
 
-              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[54px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[54px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
                 <div>
                   100x400
                 </div>
@@ -384,39 +385,39 @@
                   100x200
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[54px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[54px] text-center text-[#464B57] flex flex-col bg-[#fff] items-center justify-center">
                 <div>
                   100x240
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[54px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[54px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
                 <div>
                   100x260
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[54px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[54px] text-center text-[#464B57] flex flex-col bg-[#fff] items-center justify-center">
                 <div>
                   100x280
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[54px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[54px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
                 <div>
                   100x300
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[54px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[54px] text-center text-[#464B57] flex flex-col bg-[#fff] items-center justify-center">
                 <div>
                   100x320
                 </div>
               </div>
 
-              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[54px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[54px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
                 <div>
                   100x360
                 </div>
               </div>
 
-              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[54px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[54px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
                 <div>
                   100x400
                 </div>
@@ -453,39 +454,39 @@
                   100x200
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[54px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[54px] text-center text-[#464B57] flex flex-col bg-[#fff] items-center justify-center">
                 <div>
                   100x240
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[54px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[54px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
                 <div>
                   100x260
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[54px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[54px] text-center text-[#464B57] flex flex-col bg-[#fff] items-center justify-center">
                 <div>
                   100x280
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[54px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[54px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
                 <div>
                   100x300
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[54px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[54px] text-center text-[#464B57] flex flex-col bg-[#fff] items-center justify-center">
                 <div>
                   100x320
                 </div>
               </div>
 
-              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[54px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[54px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
                 <div>
                   100x360
                 </div>
               </div>
 
-              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[54px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[54px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
                 <div>
                   100x400
                 </div>
@@ -522,44 +523,114 @@
                   -
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[54px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[54px] text-center text-[#464B57] flex flex-col bg-[#fff] items-center justify-center">
                 <div>
                   100x240
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[54px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[54px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
                 <div>
                   100x260
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[54px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[54px] text-center text-[#464B57] flex flex-col bg-[#fff] items-center justify-center">
                 <div>
                   100x280
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[54px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[54px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
                 <div>
                   100x300
                 </div>
               </div>
-              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[54px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[54px] text-center text-[#464B57] flex flex-col bg-[#fff] items-center justify-center">
                 <div>
                   100x320
                 </div>
               </div>
 
-              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[54px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[54px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
                 <div>
                   100x360
                 </div>
               </div>
 
-              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[54px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[54px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
                 <div>
                   100x400
                 </div>
               </div>
             </div>
+            <div class="flex w-full gap-[2px] text-[14px] lato-s">
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[54px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
+                <div>
+                  -
+                </div>
+              </div>
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[54px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
+                <div>
+                  -
+                </div>
+              </div>
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[54px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
+                <div>
+                  -
+                </div>
+              </div>
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[54px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
+                <div>
+                  -
+                </div>
+              </div>
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[54px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
+                <div>
+                  -
+                </div>
+              </div>
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[54px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
+                <div>
+                  -
+                </div>
+              </div>
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[54px] text-center text-[#464B57] flex flex-col bg-[#fff] items-center justify-center">
+                <div>
+                  100x240
+                </div>
+              </div>
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[54px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
+                <div>
+                  100x260
+                </div>
+              </div>
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[54px] text-center text-[#464B57] flex flex-col bg-[#fff] items-center justify-center">
+                <div>
+                  100x280
+                </div>
+              </div>
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[54px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
+                <div>
+                  100x300
+                </div>
+              </div>
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[54px] text-center text-[#464B57] flex flex-col bg-[#fff] items-center justify-center">
+                <div>
+                  100x320
+                </div>
+              </div>
+
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[54px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
+                <div>
+                  100x360
+                </div>
+              </div>
+
+              <div class="w-[33.3%] shrink-0 lg:w-auto grow lg:basis-0 h-[54px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
+                <div>
+                  100x400
+                </div>
+              </div>
+            </div>
+
           </div>
         </div>
 
