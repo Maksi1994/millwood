@@ -2,7 +2,7 @@
   <breadcrumbs  page="Клеєна деревина з шиповими з’єднаннями (KVH C24)"/>
 
   <div class="mt-[20px] w-full">
-    <div class="h-[250px] w-full top-content-gradient relative lg:mb-[27px] mb-[14px] bg-cover">
+    <div class="h-[250px] w-full top-content-gradient relative lg:mb-[42px] mb-[14px] bg-cover">
       <div class="absolute lato-e text-[32px] text-[#464B57] uppercase leading-[48px] lg:table hidden left-[42px] top-[32px] bottom-[32px] m-auto table p-[24px] lg:pl-0 p-[24px] w-[540px]">
         Клеєна деревина з <br>
         шиповими з’єднаннями <br>
@@ -1120,12 +1120,12 @@
       </h1>
 
       <div class="flex gap-[24px] md:flex-nowrap flex-wrap">
-        <nuxt-link to="/solution-1" class="border border-solid border-[#ECEDEE] md:w-[316px] w-full h-[305px] flex flex-col justify-between shadow">
-          <div class="px-[9xp] py-[19px] pt0">
-            <img src="/assets/img/industrial.png" alt="" class="w-full mx-auto max-w-[300px]">
+        <nuxt-link to="/solution-1" class="border p-[14px] border-solid border-[#ECEDEE] md:w-[316px] w-full h-[305px] flex flex-col justify-between shadow">
+          <div>
+            <img src="/assets/img/industrial.png" alt="" class="w-full">
           </div>
 
-          <div to="/solution-1" class="h-[42px] my-[20px] mb-[34px] mx-[14px] shrink-0 bg-[#FAFAFA] hover:bg-[#F4F9F4] group border-[#ECEDEE] lg:mt-[24px] border border-solid text-[#464B57] hover:text-[#419B44] flex items-center justify-center cursor-pointer">
+          <div to="/solution-1" class="h-[42px] mt-[44px] mb-[20px] shrink-0 bg-[#FAFAFA] hover:bg-[#F4F9F4] group border-[#ECEDEE] lg:mt-[24px] border border-solid text-[#464B57] hover:text-[#419B44] flex items-center justify-center cursor-pointer">
                 <span class="flex lato-b gap-[10px] text-[20px] items-center">
                    Індустріальні будівлі
 
@@ -1135,12 +1135,12 @@
           </div>
         </nuxt-link>
 
-        <nuxt-link to="/solution-2" class="border border-solid border-[#ECEDEE] md:w-[316px] w-full h-[305px] flex flex-col justify-between shadow">
-          <div class="px-[9xp]">
-            <img src="/assets/img/living.png" alt="" class="w-full mx-auto max-w-[300px] h-[180px]">
+        <nuxt-link to="/solution-2" class="border p-[14px] border-solid border-[#ECEDEE] md:w-[316px] w-full h-[305px] flex flex-col justify-between shadow">
+          <div>
+            <img src="/assets/img/living.png" alt="" class="w-full">
           </div>
 
-          <div class="h-[42px] my-[20px] mb-[34px] mx-[14px] shrink-0 bg-[#FAFAFA] hover:bg-[#F4F9F4] group border-[#ECEDEE] lg:mt-[24px] border border-solid text-[#464B57] hover:text-[#419B44] flex items-center justify-center cursor-pointer">
+          <div class="h-[42px] mt-[44px] mb-[20px] shrink-0 bg-[#FAFAFA] hover:bg-[#F4F9F4] group border-[#ECEDEE] lg:mt-[24px] border border-solid text-[#464B57] hover:text-[#419B44] flex items-center justify-center cursor-pointer">
                 <span class="flex lato-b gap-[10px] text-[20px] items-center">
                    Житлові будівлі
 
@@ -1150,12 +1150,12 @@
           </div>
         </nuxt-link>
 
-        <nuxt-link to="/solution-3" class="border border-solid border-[#ECEDEE] md:w-[316px] w-full h-[305px] flex flex-col justify-between shadow">
-          <div class="px-[9xp] py-[19px]">
-            <img src="/assets/img/social.png" alt="" class="w-full max-w-[168px] h-[168px] mx-auto">
+        <nuxt-link to="/solution-3" class="border p-[14px] border-solid border-[#ECEDEE] md:w-[316px] w-full h-[305px] flex flex-col justify-between shadow">
+          <div>
+            <img src="/assets/img/social.png" alt="" class="w-full">
           </div>
 
-          <div to="/solution-3" class="h-[42px] my-[20px] mb-[34px] mx-[14px] shrink-0 bg-[#FAFAFA] hover:bg-[#F4F9F4] group border-[#ECEDEE] lg:mt-[24px] border border-solid text-[#464B57] hover:text-[#419B44] flex items-center justify-center cursor-pointer">
+          <div to="/solution-3" class="h-[42px] mt-[44px] mb-[20px] shrink-0 bg-[#FAFAFA] hover:bg-[#F4F9F4] group border-[#ECEDEE] lg:mt-[24px] border border-solid text-[#464B57] hover:text-[#419B44] flex items-center justify-center cursor-pointer">
                 <span class="flex lato-b gap-[10px] text-[20px] items-center">
                   Соціальні будівлі
 

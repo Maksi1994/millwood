@@ -1,6 +1,6 @@
 <template>
     <div class="mt-[15px] w-full">
-      <div class="lg:h-[400px] h-[320px] w-full bg-[url(/assets/img/bg.png)] bg-no-repeat bg-center relative lg:mb-[110px] mb-[14px] bg-cover">
+      <div class="lg:h-[400px] h-[320px] w-full bg-[url(/assets/img/bg.png)] bg-no-repeat bg-center relative lg:mb-[42px] mb-[14px] bg-cover">
           <div class="absolute lg:table hidden left-0 top-0 bottom-0 m-auto table p-[24px] bg-white w-[540px]">
             <h1 class="text-[#419B44] uppercase text-[30px] lato-e mb-[14px]">
               Зелене будівництво — вибір <br> для відновлення України
@@ -22,7 +22,7 @@
         </p>
       </div>
 
-      <div class="mb-[50px]">
+      <div class="mb-[62px]">
         <h1 class="lg:text-[30px] text-[22px] text-[#464B57] lato-e mb-[24px]">
           Будівельні матеріали
         </h1>
@@ -55,7 +55,7 @@
             </div>
 
             <h1 class="text-[#464B57] text-[20px] lato-m leading-normal">
-              <span class="break-keep">Клеєна деревина з шиповими</span>  <br> з’єднаннями (KVH C24)
+              <span class="break-keep">Клеєна деревина з шиповим</span>  <br> з’єднанням (KVH C24)
             </h1>
 
             <nuxt-link to="/material-2" class="h-[42px] shrink-0 w-full bg-[#FAFAFA] hover:bg-[#F4F9F4] group border-[#ECEDEE] lg:mt-[24px] border border-solid text-[#464B57] hover:text-[#419B44] flex items-center justify-center cursor-pointer">
@@ -91,18 +91,18 @@
 
       </div>
 
-      <div class="mb-[110px]">
+      <div class="mb-[42px]">
           <h1 class="lg:text-[30px] text-[22px] text-[#464B57] lato-e mb-[24px]">
             Будівельні концепції
           </h1>
 
           <div class="flex gap-[24px] md:flex-nowrap flex-wrap">
-            <nuxt-link to="/solution-1" class="border border-solid border-[#ECEDEE] md:w-[316px] w-full h-[305px] flex flex-col justify-between shadow">
-              <div class="px-[9xp] py-[19px] pt0">
-                <img src="/assets/img/industrial.png" alt="" class="w-full mx-auto max-w-[300px]">
+            <nuxt-link to="/solution-1" class="border p-[14px] border-solid border-[#ECEDEE] md:w-[316px] w-full h-[305px] flex flex-col justify-between shadow">
+              <div>
+                <img src="/assets/img/industrial.png" alt="" class="w-full">
               </div>
 
-              <div to="/solution-1" class="h-[42px] my-[20px] mb-[34px] mx-[14px] shrink-0 bg-[#FAFAFA] hover:bg-[#F4F9F4] group border-[#ECEDEE] lg:mt-[24px] border border-solid text-[#464B57] hover:text-[#419B44] flex items-center justify-center cursor-pointer">
+              <div to="/solution-1" class="h-[42px] mt-[44px] mb-[20px] shrink-0 bg-[#FAFAFA] hover:bg-[#F4F9F4] group border-[#ECEDEE] lg:mt-[24px] border border-solid text-[#464B57] hover:text-[#419B44] flex items-center justify-center cursor-pointer">
                 <span class="flex lato-b gap-[10px] text-[20px] items-center">
                    Індустріальні будівлі
 
@@ -112,12 +112,12 @@
               </div>
             </nuxt-link>
 
-            <nuxt-link to="/solution-2" class="border border-solid border-[#ECEDEE] md:w-[316px] w-full h-[305px] flex flex-col justify-between shadow">
-              <div class="px-[9xp]">
-                <img src="/assets/img/living.png" alt="" class="w-full mx-auto max-w-[300px] h-[180px]">
+            <nuxt-link to="/solution-2" class="border p-[14px] border-solid border-[#ECEDEE] md:w-[316px] w-full h-[305px] flex flex-col justify-between shadow">
+              <div>
+                <img src="/assets/img/living.png" alt="" class="w-full">
               </div>
 
-              <div class="h-[42px] my-[20px] mb-[34px] mx-[14px] shrink-0 bg-[#FAFAFA] hover:bg-[#F4F9F4] group border-[#ECEDEE] lg:mt-[24px] border border-solid text-[#464B57] hover:text-[#419B44] flex items-center justify-center cursor-pointer">
+              <div class="h-[42px] mt-[44px] mb-[20px] shrink-0 bg-[#FAFAFA] hover:bg-[#F4F9F4] group border-[#ECEDEE] lg:mt-[24px] border border-solid text-[#464B57] hover:text-[#419B44] flex items-center justify-center cursor-pointer">
                 <span class="flex lato-b gap-[10px] text-[20px] items-center">
                    Житлові будівлі
 
@@ -127,12 +127,12 @@
               </div>
             </nuxt-link>
 
-            <nuxt-link to="/solution-3" class="border border-solid border-[#ECEDEE] md:w-[316px] w-full h-[305px] flex flex-col justify-between shadow">
-              <div class="px-[9xp] py-[19px]">
-                <img src="/assets/img/social.png" alt="" class="w-full max-w-[168px] h-[168px] mx-auto">
+            <nuxt-link to="/solution-3" class="border p-[14px] border-solid border-[#ECEDEE] md:w-[316px] w-full h-[305px] flex flex-col justify-between shadow">
+              <div>
+                <img src="/assets/img/social.png" alt="" class="w-full">
               </div>
 
-              <div to="/solution-3" class="h-[42px] my-[20px] mb-[34px] mx-[14px] shrink-0 bg-[#FAFAFA] hover:bg-[#F4F9F4] group border-[#ECEDEE] lg:mt-[24px] border border-solid text-[#464B57] hover:text-[#419B44] flex items-center justify-center cursor-pointer">
+              <div to="/solution-3" class="h-[42px] mt-[44px] mb-[20px] shrink-0 bg-[#FAFAFA] hover:bg-[#F4F9F4] group border-[#ECEDEE] lg:mt-[24px] border border-solid text-[#464B57] hover:text-[#419B44] flex items-center justify-center cursor-pointer">
                 <span class="flex lato-b gap-[10px] text-[20px] items-center">
                   Соціальні будівлі
 
@@ -145,7 +145,7 @@
 
         </div>
 
-        <div class="lg:w-[100vw] lg:mb-[38px] mb-[48px] lg:-ml-[calc((100vw-996px)/2)] bg-[#F4F9F4] py-[42px] lg:mr-0 -mx-[16px] lg:px-0 px-[16px]">
+        <div class="lg:w-[100vw] lg:mb-[42px] mb-[48px] lg:-ml-[calc((100vw-996px)/2)] bg-[#F4F9F4] py-[42px] lg:mr-0 -mx-[16px] lg:px-0 px-[16px]">
           <h1 class="text-[#419B44] text-center lg:text-[32px] text-[20px] lato-e leading-[35px] mb-[25px]">
             Наша продукція підтверджена сертифікатами
             <br class="lg:block hidden">

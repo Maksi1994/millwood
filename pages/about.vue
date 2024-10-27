@@ -2,7 +2,7 @@
   <breadcrumbs page="Про Мілвуд"/>
 
   <div class="mt-[20px] w-full lato">
-    <div class="lg:h-[395px] h-[320px] w-full bg-[url(/assets/img/about.png)] bg-[40%_top] bg-no-repeat bg-center relative lg:mb-[62px] mb-[14px] bg-cover">
+    <div class="lg:h-[395px] h-[320px] w-full bg-[url(/assets/img/about.png)] bg-[40%_top] bg-no-repeat bg-center relative lg:mb-[42px] mb-[14px] bg-cover">
       <div class="absolute lg:table hidden left-0 top-0 bottom-0 m-auto table p-[24px] bg-white w-[490px]">
         <h1 class="text-[#419B44] uppercase text-[30px] lato-e mb-[14px]">
           Ми - спеціалісти у галузі <br> дерев'яних конструкцій

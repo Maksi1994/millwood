@@ -34,7 +34,7 @@
           </a>
         </div>
       </div>
-      
+
       <div class="lg:w-auto w-[270px]">
         <h1 class="text-[#464B57] text-[16px] lato-e mb-[12px] leading-[19px]">Будівельні матеріали</h1>
 

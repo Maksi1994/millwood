@@ -157,7 +157,7 @@
           </div>
 
           <h1 class="text-[#464B57] text-[20px] lato-m leading-normal">
-            <span class="break-keep">Клеєна деревина з шиповими</span>  <br> з’єднаннями (KVH C24)
+            <span class="break-keep">Клеєна деревина з шиповим</span>  <br> з’єднанням (KVH C24)
           </h1>
 
           <nuxt-link to="/material-2" class="h-[42px] shrink-0 w-full bg-[#FAFAFA] hover:bg-[#F4F9F4] group border-[#ECEDEE] lg:mt-[24px] border border-solid text-[#464B57] hover:text-[#419B44] flex items-center justify-center cursor-pointer">
