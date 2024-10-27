@@ -22,7 +22,76 @@
         </p>
       </div>
 
-        <div class="mb-[50px]">
+      <div class="mb-[50px]">
+        <h1 class="lg:text-[30px] text-[22px] text-[#464B57] lato-e mb-[24px]">
+          Будівельні матеріали
+        </h1>
+
+        <div class="flex gap-[24px] md:flex-nowrap flex-wrap">
+          <div class="border h-[346px] border-solid border-[#ECEDEE] lg:w-[316px] w-full h-[346px] p-[14px] flex flex-col gap-[10px] shadow">
+            <div>
+              <img src="/assets/img/material-1.png" alt="" class="w-full lg:h-[166px] mx-auto max-w-[300px]">
+            </div>
+
+            <h1 class="text-[#464B57] text-[20px] lato-m leading-normal">
+              Конструкційна
+              <br>
+              деревина C24
+            </h1>
+
+            <nuxt-link to="/material-1" class="h-[42px] shrink-0 w-full bg-[#FAFAFA] hover:bg-[#F4F9F4] group border-[#ECEDEE] lg:mt-[24px] border border-solid text-[#464B57] hover:text-[#419B44] flex items-center justify-center cursor-pointer">
+                <span class="flex lato-b gap-[10px] text-[16px] items-center">
+                  Детальніше
+
+                  <img src="/assets/img/icons/button-arrow.png" draggable="false" class="w-[20px] h-[20px] group-hover:hidden block" alt="">
+                  <img src="/assets/img/icons/caret-right-active.svg" draggable="false" class="w-[20px] h-[20px] group-hover:block hidden" alt="">
+                </span>
+            </nuxt-link>
+          </div>
+
+          <div class="border h-[346px] border-solid border-[#ECEDEE] lg:w-[316px] w-full h-[346px] flex flex-col shadow p-[14px] gap-[10px]">
+            <div>
+              <img src="/assets/img/material-2.png" alt="" class="w-full lg:h-[166px] mx-auto max-w-[300px]">
+            </div>
+
+            <h1 class="text-[#464B57] text-[20px] lato-m leading-normal">
+              <span class="break-keep">Клеєна деревина з шиповими</span>  <br> з’єднаннями (KVH C24)
+            </h1>
+
+            <nuxt-link to="/material-2" class="h-[42px] shrink-0 w-full bg-[#FAFAFA] hover:bg-[#F4F9F4] group border-[#ECEDEE] lg:mt-[24px] border border-solid text-[#464B57] hover:text-[#419B44] flex items-center justify-center cursor-pointer">
+                <span class="flex lato-b gap-[10px] text-[16px] items-center">
+                  Детальніше
+
+                  <img src="/assets/img/icons/button-arrow.png" draggable="false" class="w-[20px] h-[20px] group-hover:hidden block" alt="">
+                  <img src="/assets/img/icons/caret-right-active.svg" draggable="false" class="w-[20px] h-[20px] group-hover:block hidden" alt="">
+                </span>
+            </nuxt-link>
+          </div>
+
+          <div class="border h-[346px] border-solid border-[#ECEDEE] lg:w-[316px] w-full h-[346px] flex flex-col shadow p-[14px] gap-[10px]">
+            <div>
+              <img src="/assets/img/material-3.png" alt="" class="w-full lg:h-[166px] mx-auto max-w-[300px]">
+            </div>
+
+            <h1 class="text-[#464B57] text-[20px] lato-m leading-normal">
+              Клеєна багатошарова <br> деревина (GLT/Glulam)
+            </h1>
+
+            <nuxt-link to="/material-3" class="h-[42px] shrink-0 w-full bg-[#FAFAFA] hover:bg-[#F4F9F4] group border-[#ECEDEE] lg:mt-[24px] border border-solid text-[#464B57] hover:text-[#419B44] flex items-center justify-center cursor-pointer">
+                <span class="flex lato-b gap-[10px] text-[16px] items-center">
+                  Детальніше
+
+                  <img src="/assets/img/icons/button-arrow.png" draggable="false" class="w-[20px] h-[20px] group-hover:hidden block" alt="">
+                  <img src="/assets/img/icons/caret-right-active.svg" draggable="false" class="w-[20px] h-[20px] group-hover:block hidden" alt="">
+                </span>
+            </nuxt-link>
+          </div>
+        </div>
+
+
+      </div>
+
+      <div class="mb-[110px]">
           <h1 class="lg:text-[30px] text-[22px] text-[#464B57] lato-e mb-[24px]">
             Будівельні концепції
           </h1>
@@ -73,75 +142,6 @@
               </div>
             </nuxt-link>
           </div>
-
-        </div>
-
-        <div class="mb-[110px]">
-          <h1 class="lg:text-[30px] text-[22px] text-[#464B57] lato-e mb-[24px]">
-            Будівельні матеріали
-          </h1>
-
-          <div class="flex gap-[24px] md:flex-nowrap flex-wrap">
-            <div class="border h-[346px] border-solid border-[#ECEDEE] lg:w-[316px] w-full h-[346px] p-[14px] flex flex-col gap-[10px] shadow">
-              <div>
-                <img src="/assets/img/material-1.png" alt="" class="w-full lg:h-[166px] mx-auto max-w-[300px] object-[20px]">
-              </div>
-
-              <h1 class="text-[#464B57] text-[20px] lato-m leading-normal">
-                Конструкційна
-                <br>
-                деревина C24
-              </h1>
-
-              <nuxt-link to="/material-1" class="h-[42px] shrink-0 w-full bg-[#FAFAFA] hover:bg-[#F4F9F4] group border-[#ECEDEE] lg:mt-[24px] border border-solid text-[#464B57] hover:text-[#419B44] flex items-center justify-center cursor-pointer">
-                <span class="flex lato-b gap-[10px] text-[16px] items-center">
-                  Детальніше
-
-                  <img src="/assets/img/icons/button-arrow.png" draggable="false" class="w-[20px] h-[20px] group-hover:hidden block" alt="">
-                  <img src="/assets/img/icons/caret-right-active.svg" draggable="false" class="w-[20px] h-[20px] group-hover:block hidden" alt="">
-                </span>
-              </nuxt-link>
-            </div>
-
-            <div class="border h-[346px] border-solid border-[#ECEDEE] lg:w-[316px] w-full h-[346px] flex flex-col shadow p-[14px] gap-[10px]">
-              <div>
-                <img src="/assets/img/material-2.png" alt="" class="w-full lg:h-[166px] mx-auto max-w-[300px] object-[20px_-25px]">
-              </div>
-
-              <h1 class="text-[#464B57] text-[20px] lato-m leading-normal">
-                <span class="break-keep">Клеєна деревина з шиповими</span>  <br> з’єднаннями (KVH C24)
-              </h1>
-
-              <nuxt-link to="/material-2" class="h-[42px] shrink-0 w-full bg-[#FAFAFA] hover:bg-[#F4F9F4] group border-[#ECEDEE] lg:mt-[24px] border border-solid text-[#464B57] hover:text-[#419B44] flex items-center justify-center cursor-pointer">
-                <span class="flex lato-b gap-[10px] text-[16px] items-center">
-                  Детальніше
-
-                  <img src="/assets/img/icons/button-arrow.png" draggable="false" class="w-[20px] h-[20px] group-hover:hidden block" alt="">
-                  <img src="/assets/img/icons/caret-right-active.svg" draggable="false" class="w-[20px] h-[20px] group-hover:block hidden" alt="">
-                </span>
-              </nuxt-link>
-            </div>
-
-            <div class="border h-[346px] border-solid border-[#ECEDEE] lg:w-[316px] w-full h-[346px] flex flex-col shadow p-[14px] gap-[10px]">
-              <div>
-                <img src="/assets/img/material-3.png" alt="" class="w-full lg:h-[166px] mx-auto max-w-[300px] object-[40px_-10px]">
-              </div>
-
-              <h1 class="text-[#464B57] text-[20px] lato-m leading-normal">
-                Клеєна багатошарова <br> деревина (GLT/Glulam)
-              </h1>
-
-              <nuxt-link to="/material-3" class="h-[42px] shrink-0 w-full bg-[#FAFAFA] hover:bg-[#F4F9F4] group border-[#ECEDEE] lg:mt-[24px] border border-solid text-[#464B57] hover:text-[#419B44] flex items-center justify-center cursor-pointer">
-                <span class="flex lato-b gap-[10px] text-[16px] items-center">
-                  Детальніше
-
-                  <img src="/assets/img/icons/button-arrow.png" draggable="false" class="w-[20px] h-[20px] group-hover:hidden block" alt="">
-                  <img src="/assets/img/icons/caret-right-active.svg" draggable="false" class="w-[20px] h-[20px] group-hover:block hidden" alt="">
-                </span>
-              </nuxt-link>
-            </div>
-          </div>
-
 
         </div>
 

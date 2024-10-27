@@ -1,7 +1,7 @@
 <template>
   <breadcrumbs  page="Соціальні будівлі"/>
 
-  <div class="mt-[24px] w-full">
+  <div class="mt-[20px] w-full">
     <div class="lg:h-[340px] h-[240px] w-full flex items-center bg-[#F4F9F4] bg-no-repeat bg-center relative lg:mb-[42px] bg-cover">
       <div class="lg:flex items-center hidden bg-[#419B44] p-[24px] text-white w-[421px] p-[24px]">
         <h1 class="text-white uppercase text-[36px] lato-e">
@@ -107,7 +107,7 @@
       <div class="flex gap-[24px] md:flex-nowrap flex-wrap">
         <div class="border h-[346px] border-solid border-[#ECEDEE] lg:w-[316px] w-full h-[346px] p-[14px] flex flex-col gap-[10px] shadow">
           <div>
-            <img src="/assets/img/material-1.png" alt="" class="w-full lg:h-[166px] mx-auto max-w-[300px] object-[20px]">
+            <img src="/assets/img/material-1.png" alt="" class="w-full lg:h-[166px] mx-auto max-w-[300px]">
           </div>
 
           <h1 class="text-[#464B57] text-[20px] lato-m leading-normal">
@@ -128,11 +128,11 @@
 
         <div class="border h-[346px] border-solid border-[#ECEDEE] lg:w-[316px] w-full h-[346px] flex flex-col shadow p-[14px] gap-[10px]">
           <div>
-            <img src="/assets/img/material-2.png" alt="" class="w-full lg:h-[166px] mx-auto max-w-[300px] object-[20px_-25px]">
+            <img src="/assets/img/material-2.png" alt="" class="w-full lg:h-[166px] mx-auto max-w-[300px]">
           </div>
 
           <h1 class="text-[#464B57] text-[20px] lato-m leading-normal">
-            <span class="break-keep">Клеєна деревина з шиповими</span>  <br> з’єднаннями (kvh с24)
+            <span class="break-keep">Клеєна деревина з шиповими</span>  <br> з’єднаннями (KVH C24)
           </h1>
 
           <nuxt-link to="/material-2" class="h-[42px] shrink-0 w-full bg-[#FAFAFA] hover:bg-[#F4F9F4] group border-[#ECEDEE] lg:mt-[24px] border border-solid text-[#464B57] hover:text-[#419B44] flex items-center justify-center cursor-pointer">
@@ -147,7 +147,7 @@
 
         <div class="border h-[346px] border-solid border-[#ECEDEE] lg:w-[316px] w-full h-[346px] flex flex-col shadow p-[14px] gap-[10px]">
           <div>
-            <img src="/assets/img/material-3.png" alt="" class="w-full lg:h-[166px] mx-auto max-w-[300px] object-[40px_-10px]">
+            <img src="/assets/img/material-3.png" alt="" class="w-full lg:h-[166px] mx-auto max-w-[300px]">
           </div>
 
           <h1 class="text-[#464B57] text-[20px] lato-m leading-normal">

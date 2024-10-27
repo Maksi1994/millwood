@@ -1,5 +1,5 @@
 <template>
-  <div class="w-full bg-[#FAFAFA] lato lg:px-0 px-[16px]">
+  <div class="w-full bg-[#FAFAFA] lato lg:px-0 px-[16px] border-t border-solid border-[#ECEDEE]">
     <div class="py-[24px] lg:w-[996px] mx-auto flex lg:flex-row flex-col lg:gap-[42px] gap-[32px] justify-between">
       <div class="lg:w-auto lg:w-[270px]">
         <div class="flex w-full">
@@ -34,7 +34,28 @@
           </a>
         </div>
       </div>
+      
+      <div class="lg:w-auto w-[270px]">
+        <h1 class="text-[#464B57] text-[16px] lato-e mb-[12px] leading-[19px]">Будівельні матеріали</h1>
 
+        <ul>
+          <li class="mb-[4px]">
+            <nuxt-link to="/material-1" exactActiveClass="!text-[#419B44] underline" class="text-[#464B57] leading-[22px] text-[14px] lato-m hover:text-[#419B44] hover:underline underline-offset-[3px]">
+              Конструкційна деревина C24
+            </nuxt-link>
+          </li>
+          <li class="mb-[4px]">
+            <nuxt-link to="/material-2" exactActiveClass="!text-[#419B44] underline" class="text-[#464B57] leading-[22px] text-[14px] lato-m hover:text-[#419B44] hover:underline underline-offset-[3px]">
+              Клеєна деревина KVH C24
+            </nuxt-link>
+          </li>
+          <li>
+            <nuxt-link to="/material-3" exactActiveClass="!text-[#419B44] underline" class="text-[#464B57] leading-[22px] text-[14px] lato-m hover:text-[#419B44] hover:underline underline-offset-[3px]">
+              Клеєна деревина Glulam GL24h
+            </nuxt-link>
+          </li>
+        </ul>
+      </div>
 
       <div class="lg:w-auto w-[270px]">
         <h1 class="text-[#464B57] text-[16px] lato-e mb-[12px] leading-[19px]">Будівельні концепції</h1>
@@ -53,28 +74,6 @@
           <li>
             <nuxt-link to="/solution-3" exactActiveClass="!text-[#419B44] underline" class="text-[#464B57] leading-[22px] text-[14px] lato-m hover:text-[#419B44] hover:underline underline-offset-[3px]">
               Соціальні будівлі
-            </nuxt-link>
-          </li>
-        </ul>
-      </div>
-
-      <div class="lg:w-auto w-[270px]">
-        <h1 class="text-[#464B57] text-[16px] lato-e mb-[12px] leading-[19px]">Будівельні матеріали</h1>
-
-        <ul>
-          <li class="mb-[4px]">
-            <nuxt-link to="/material-1" exactActiveClass="!text-[#419B44] underline" class="text-[#464B57] leading-[22px] text-[14px] lato-m hover:text-[#419B44] hover:underline underline-offset-[3px]">
-              Конструкційна деревина C24
-            </nuxt-link>
-          </li>
-          <li class="mb-[4px]">
-            <nuxt-link to="/material-2" exactActiveClass="!text-[#419B44] underline" class="text-[#464B57] leading-[22px] text-[14px] lato-m hover:text-[#419B44] hover:underline underline-offset-[3px]">
-              Клеєна деревина KVH C24
-            </nuxt-link>
-          </li>
-          <li>
-            <nuxt-link to="/material-3" exactActiveClass="!text-[#419B44] underline" class="text-[#464B57] leading-[22px] text-[14px] lato-m hover:text-[#419B44] hover:underline underline-offset-[3px]">
-              Клеєна деревина Glulam GL24h
             </nuxt-link>
           </li>
         </ul>

@@ -1,7 +1,7 @@
 <template>
   <breadcrumbs page="Конструкційна деревина C24"/>
 
-  <div class="mt-[24px] w-full">
+  <div class="mt-[20px] w-full">
     <div class="h-[250px] w-full top-content-gradient relative lg:mb-[30px] mb-[14px] bg-cover">
       <div class="absolute lato-e text-[32px] text-[#464B57] uppercase leading-[48px] lg:table hidden left-[32px] top-[32px] bottom-[32px] m-auto table p-[24px] pl-[10px] w-[540px]">
         Конструкційна

@@ -17,10 +17,16 @@
 
 
       <div class="lg:ml-[26px] lg:mt-0 mt-[18px] flex gap-[14px] lg:w-auto w-full">
-        <a href="/"><img class="w-[24px] h-[24px]" src="/assets/img/icons/in.svg" alt=""></a>
+        <a href="/" class="group">
+          <img class="w-[24px] h-[24px] group-hover:hidden" src="assets/img/icons/in.svg">
+          <img class="w-[24px] h-[24px] hidden group-hover:block" src="assets/img/icons/in-active.svg">
+        </a>
 
-        <a href="/">
-          <img class="w-[24px] h-[24px]" src="/assets/img/icons/fb.svg" alt="">
+
+
+        <a href="/" class="group">
+          <img class="w-[24px] h-[24px] group-hover:hidden" src="assets/img/icons/youtube.svg">
+          <img class="w-[24px] h-[24px] hidden group-hover:block" src="assets/img/icons/youtube-active.svg">
         </a>
       </div>
     </div>

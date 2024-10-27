@@ -1,7 +1,7 @@
 <template>
   <breadcrumbs  page="Клеєна деревина з шиповими з’єднаннями (KVH C24)"/>
 
-  <div class="mt-[24px] w-full">
+  <div class="mt-[20px] w-full">
     <div class="h-[250px] w-full top-content-gradient relative lg:mb-[27px] mb-[14px] bg-cover">
       <div class="absolute lato-e text-[32px] text-[#464B57] uppercase leading-[48px] lg:table hidden left-[42px] top-[32px] bottom-[32px] m-auto table p-[24px] lg:pl-0 p-[24px] w-[540px]">
         Клеєна деревина з <br>
@@ -33,10 +33,10 @@
         Основні переваги
       </h1>
       <ul class="lg:text-[18px] text-[16px] lg:leading-normal leading-[22px] flex flex-col gap-[12px] text-[#61656F] lato-s list-disc lg:pl-[25px] pl-[20px] lg:mb-[24px] mb-[18px]">
-        <li>В порівнянні із звичайними пиломатеріалами, клеєна деревина із шиповими з’єднаннями (kvh) <br class="lg:block hidden"> відповідає значно суворішим технічним вимогам.</li>
-        <li>Забезпечує точну геометричну стабільність по всій довжині до 13 метрів.</li>
-        <li>Ширина, висота та довжина можуть бути адаптовані під конкретні вимоги проектів</li>
-        <li>Виробляється з деревини з екологічно чистого карпатського регіону, з урахуванням принципів <br class="lg:block hidden">  сталого розвитку.</li>
+        <li>Клас міцності: С24 | Якість: NSi | Термін поставки: 4 тижні</li>
+        <li>Довжина до 13 000мм, інші розміри на замовлення</li>
+        <li>Сертифікат відповідності ДСТУ EN 15497 1393-CPR-1116</li>
+        <li>В таблиці зазначена кількість штук в повному пакеті</li>
       </ul>
     </div>
 
@@ -78,40 +78,40 @@
             </div>
             <div class="flex w-full gap-[2px]">
               <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[58px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
-                <div class="lato-b text-[18px]">
-                  X
+                <div class="lato-b text-[16px]">
+                  x
                 </div>
                 <div class="lato-s text-[16px]">
                   180 шт
                 </div>
               </div>
               <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[58px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
-                <div class="lato-b text-[18px]">
-                  X
+                <div class="lato-b text-[16px]">
+                  x
                 </div>
                 <div class="lato-s text-[16px]">
                   130 шт
                 </div>
               </div>
               <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[58px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
-                <div class="lato-b text-[18px]">
-                  X
+                <div class="lato-b text-[16px]">
+                  x
                 </div>
                 <div class="lato-s text-[16px]">
                   110 шт
                 </div>
               </div>
               <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[58px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
-                <div class="lato-b text-[18px]">
-                  X
+                <div class="lato-b text-[16px]">
+                  x
                 </div>
                 <div class="lato-s text-[16px]">
                   90 шт
                 </div>
               </div>
               <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[58px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
-                <div class="lato-b text-[18px]">
-                  X
+                <div class="lato-b text-[16px]">
+                  x
                 </div>
                 <div class="lato-s text-[16px]">
                   80 шт
@@ -128,8 +128,8 @@
                 </div>
               </div>
               <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[58px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
-                <div class="lato-b text-[18px]">
-                  X
+                <div class="lato-b text-[16px]">
+                  x
                 </div>
                 <div class="lato-s text-[16px]">
                   50 шт
@@ -141,8 +141,8 @@
                 </div>
               </div>
               <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[58px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
-                <div class="lato-b text-[18px]">
-                  X
+                <div class="lato-b text-[16px]">
+                  x
                 </div>
                 <div class="lato-s text-[16px]">
                   40 шт
@@ -152,64 +152,61 @@
             </div>
             <div class="flex w-full gap-[2px]">
               <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[58px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
-                <div class="lato-b text-[18px]">
-                  X
-                </div>
-                <div class="lato-s text-[16px]">
-                  180 шт
+                <div>
+                  -
                 </div>
               </div>
               <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[58px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
-                <div class="lato-b text-[18px]">
-                  X
+                <div class="lato-b text-[16px]">
+                  x
                 </div>
                 <div class="lato-s text-[16px]">
                   104 шт
                 </div>
               </div>
               <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[58px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
-                <div class="lato-b text-[18px]">
-                  X
+                <div class="lato-b text-[16px]">
+                  x
                 </div>
                 <div class="lato-s text-[16px]">
                   88 шт
                 </div>
               </div>
               <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[58px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
-                <div class="lato-b text-[18px]">
-                  X
+                <div class="lato-b text-[16px]">
+                  x
                 </div>
                 <div class="lato-s text-[16px]">
                   72 шт
                 </div>
               </div>
               <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[58px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
-                <div class="lato-b text-[18px]">
-                  X
+                <div class="lato-b text-[16px]">
+                  x
                 </div>
                 <div class="lato-s text-[16px]">
                   64 шт
                 </div>
               </div>
               <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[58px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
-                <div class="lato-b text-[18px]">
-                  X
+                <div class="lato-b text-[16px]">
+                  x
                 </div>
                 <div class="lato-s text-[16px]">
                   56 шт
                 </div>
               </div>
               <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[58px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
-                <div class="lato-b text-[18px]">
-                  X
+                <div class="lato-b text-[16px]">
+                  x
                 </div>
                 <div class="lato-s text-[16px]">
                   48 шт
                 </div>
               </div>
               <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[58px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
-                <div class="lato-b text-[18px]">
-                  X
+                <div class="lato-b text-[16px]">
+                  x
                 </div>
                 <div class="lato-s text-[16px]">
                   40 шт
@@ -221,8 +218,8 @@
                 </div>
               </div>
               <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[58px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
-                <div class="lato-b text-[18px]">
-                  X
+                <div class="lato-b text-[16px]">
+                  x
                 </div>
                 <div class="lato-s text-[16px]">
                   32 шт
@@ -232,80 +229,80 @@
             </div>
             <div class="flex w-full gap-[2px]">
               <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[58px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
-                <div class="lato-b text-[18px]">
-                  X
+                <div class="lato-b text-[16px]">
+                  x
                 </div>
                 <div class="lato-s text-[16px]">
                   126 шт
                 </div>
               </div>
               <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[58px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
-                <div class="lato-b text-[18px]">
-                  X
+                <div class="lato-b text-[16px]">
+                  x
                 </div>
                 <div class="lato-s text-[16px]">
                   91 шт
                 </div>
               </div>
               <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[58px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
-                <div class="lato-b text-[18px]">
-                  X
+                <div class="lato-b text-[16px]">
+                  x
                 </div>
                 <div class="lato-s text-[16px]">
                   77 шт
                 </div>
               </div>
               <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[58px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
-                <div class="lato-b text-[18px]">
-                  X
+                <div class="lato-b text-[16px]">
+                  x
                 </div>
                 <div class="lato-s text-[16px]">
                   63 шт
                 </div>
               </div>
               <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[58px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
-                <div class="lato-b text-[18px]">
-                  X
+                <div class="lato-b text-[16px]">
+                  x
                 </div>
                 <div class="lato-s text-[16px]">
                   56 шт
                 </div>
               </div>
               <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[58px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
-                <div class="lato-b text-[18px]">
-                  X
+                <div class="lato-b text-[16px]">
+                  x
                 </div>
                 <div class="lato-s text-[16px]">
                   49 шт
                 </div>
               </div>
               <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[58px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
-                <div class="lato-b text-[18px]">
-                  X
+                <div class="lato-b text-[16px]">
+                  x
                 </div>
                 <div class="lato-s text-[16px]">
                   42 шт
                 </div>
               </div>
               <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[58px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
-                <div class="lato-b text-[18px]">
-                  X
+                <div class="lato-b text-[16px]">
+                  x
                 </div>
                 <div class="lato-s text-[16px]">
                   35 шт
                 </div>
               </div>
               <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[58px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
-                <div class="lato-b text-[18px]">
-                  X
+                <div class="lato-b text-[16px]">
+                  x
                 </div>
                 <div class="lato-s text-[16px]">
                   35 шт
                 </div>
               </div>
               <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[58px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
-                <div class="lato-b text-[18px]">
-                  X
+                <div class="lato-b text-[16px]">
+                  x
                 </div>
                 <div class="lato-s text-[16px]">
                   28 шт
@@ -316,79 +313,76 @@
             <div class="flex w-full gap-[2px]">
               <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[58px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
                 <div>
-                  X
-                </div>
-                <div class="lato-s text-[16px]">
-                  180 шт
+                  -
                 </div>
               </div>
               <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[58px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
-                <div class="lato-b text-[18px]">
-                  X
+                <div class="lato-b text-[16px]">
+                  x
                 </div>
                 <div class="lato-s text-[16px]">
                   65 шт
                 </div>
               </div>
               <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[58px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
-                <div class="lato-b text-[18px]">
-                  X
+                <div class="lato-b text-[16px]">
+                  x
                 </div>
                 <div class="lato-s text-[16px]">
                   55 шт
                 </div>
               </div>
               <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[58px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
-                <div class="lato-b text-[18px]">
-                  X
+                <div class="lato-b text-[16px]">
+                  x
                 </div>
                 <div class="lato-s text-[16px]">
                   45 шт
                 </div>
               </div>
               <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[58px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
-                <div class="lato-b text-[18px]">
-                  X
+                <div class="lato-b text-[16px]">
+                  x
                 </div>
                 <div class="lato-s text-[16px]">
                   40 шт
                 </div>
               </div>
               <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[58px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
-                <div class="lato-b text-[18px]">
-                  X
+                <div class="lato-b text-[16px]">
+                  x
                 </div>
                 <div class="lato-s text-[16px]">
                   35 шт
                 </div>
               </div>
               <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[58px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
-                <div class="lato-b text-[18px]">
-                  X
+                <div class="lato-b text-[16px]">
+                  x
                 </div>
                 <div class="lato-s text-[16px]">
                   30 шт
                 </div>
               </div>
               <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[58px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
-                <div class="lato-b text-[18px]">
-                  X
+                <div class="lato-b text-[16px]">
+                  x
                 </div>
                 <div class="lato-s text-[16px]">
                   25 шт
                 </div>
               </div>
               <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[58px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
-                <div class="lato-b text-[18px]">
-                  X
+                <div class="lato-b text-[16px]">
+                  x
                 </div>
                 <div class="lato-s text-[16px]">
                   25 шт
                 </div>
               </div>
               <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[58px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
-                <div class="lato-b text-[18px]">
-                  X
+                <div class="lato-b text-[16px]">
+                  x
                 </div>
                 <div class="lato-s text-[16px]">
                   20 шт
@@ -408,64 +402,64 @@
                 </div>
               </div>
               <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[58px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
-                <div class="lato-b text-[18px]">
-                  X
+                <div class="lato-b text-[16px]">
+                  x
                 </div>
                 <div class="lato-s text-[16px]">
                   44 шт
                 </div>
               </div>
               <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[58px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
-                <div class="lato-b text-[18px]">
-                  X
+                <div class="lato-b text-[16px]">
+                  x
                 </div>
                 <div class="lato-s text-[16px]">
                   36 шт
                 </div>
               </div>
               <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[58px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
-                <div class="lato-b text-[18px]">
-                  X
+                <div class="lato-b text-[16px]">
+                  x
                 </div>
                 <div class="lato-s text-[16px]">
                   32 шт
                 </div>
               </div>
               <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[58px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
-                <div class="lato-b text-[18px]">
-                  X
+                <div class="lato-b text-[16px]">
+                  x
                 </div>
                 <div class="lato-s text-[16px]">
                   28 шт
                 </div>
               </div>
               <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[58px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
-                <div class="lato-b text-[18px]">
-                  X
+                <div class="lato-b text-[16px]">
+                  x
                 </div>
                 <div class="lato-s text-[16px]">
                   24 шт
                 </div>
               </div>
               <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[58px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
-                <div class="lato-b text-[18px]">
-                  X
+                <div class="lato-b text-[16px]">
+                  x
                 </div>
                 <div class="lato-s text-[16px]">
                   20 шт
                 </div>
               </div>
               <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[58px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
-                <div class="lato-b text-[18px]">
-                  X
+                <div class="lato-b text-[16px]">
+                  x
                 </div>
                 <div class="lato-s text-[16px]">
                   20 шт
                 </div>
               </div>
               <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[58px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
-                <div class="lato-b text-[18px]">
-                  X
+                <div class="lato-b text-[16px]">
+                  x
                 </div>
                 <div class="lato-s text-[16px]">
                   16 шт
@@ -490,40 +484,40 @@
                 </div>
               </div>
               <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[58px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
-                <div class="lato-b text-[18px]">
-                  X
+                <div class="lato-b text-[16px]">
+                  x
                 </div>
                 <div class="lato-s text-[16px]">
                   27 шт
                 </div>
               </div>
               <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[58px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
-                <div class="lato-b text-[18px]">
-                  X
+                <div class="lato-b text-[16px]">
+                  x
                 </div>
                 <div class="lato-s text-[16px]">
                   24 шт
                 </div>
               </div>
               <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[58px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
-                <div class="lato-b text-[18px]">
-                  X
+                <div class="lato-b text-[16px]">
+                  x
                 </div>
                 <div class="lato-s text-[16px]">
                   21 шт
                 </div>
               </div>
               <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[58px] text-center text-[#464B57] flex flex-col bg-[#FFF] items-center justify-center">
-                <div class="lato-b text-[18px]">
-                  X
+                <div class="lato-b text-[16px]">
+                  x
                 </div>
                 <div class="lato-s text-[16px]">
                   18 шт
                 </div>
               </div>
               <div class="w-[33.3%] shrink-0 lg:w-[85px] h-[58px] text-center text-[#464B57] flex flex-col bg-[#E4F1E5] items-center justify-center">
-                <div class="lato-b text-[18px]">
-                  X
+                <div class="lato-b text-[16px]">
+                  x
                 </div>
                 <div class="lato-s text-[16px]">
                   15 шт
@@ -553,10 +547,9 @@
       </div>
 
       <div class="flex grow flex-col lato-b text-[16px] text-[#61656F] leading-[18.5px] justify-center text-center">
-        <span>Клас міцності: С24 | Якість: NSi | Термін поставки: 4 тижні</span>
-        <span>Довжина до 13 000мм, інші розміри на замовлення</span>
-        <span>Сертифікат відповідності ДСТУ EN 15497 1393-CPR-1116</span>
-        <span>В таблиці зазначена кількість штук в повному пакеті</span>
+        <span>II - 2 ламелі, III - 3 ламелі</span>
+        <span>Клас міцності: С24, Термін поставки: 6 тижнів</span>
+        <span>Сертифікат відповідності ДСТУ EN 14080 1393-CPR-1425 <br class="lg:block hidden"/>(GLULAM TIMBER)</span>
       </div>
     </div>
 

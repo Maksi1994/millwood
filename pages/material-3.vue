@@ -1,17 +1,17 @@
 <template>
-  <breadcrumbs  page="Клеєна багатошарова деревина (GLT/Glulam GL24h)"/>
+  <breadcrumbs  page="Клеєна багатошарова деревина (GLT/GLULAM GL24h)"/>
 
-  <div class="mt-[24px] w-full">
+  <div class="mt-[20px] w-full">
     <div class="h-[250px] w-full top-content-gradient relative lg:mb-[42px] mb-[14px] bg-cover">
-      <div class="absolute lato-e text-[32px] text-[#464B57] uppercase leading-[48px] lg:table hidden left-[42px] top-[32px] bottom-[32px] m-auto table p-[24px] lg:pl-0 w-[540px]">
-        Клеєна багатошарова <br> деревина (GLT/Glulam GL24h)
+      <div class="absolute lato-e text-[32px] text-[#464B57] leading-[48px] lg:table hidden left-[42px] top-[32px] bottom-[32px] m-auto table p-[24px] lg:pl-0 w-[540px]">
+        КЛЕЄНА БАГАТОШАРОВА <br> ДЕРЕВИНА (GLT/GLULAM GL24h)
       </div>
 
       <img class="w-[354px] ml-auto object-center object-cover" src="/assets/img/material-page-3.png" alt="">
     </div>
 
-    <div class="lato-e lg:text-[20px] lg:hidden block w-full text-[#464B57] uppercase leading-[20px] mb-[40px]">
-      Клеєна багатошарова <br> деревина (GLT/Glulam GL24h)
+    <div class="lato-e lg:text-[20px] lg:hidden block w-full text-[#464B57] leading-[20px] mb-[40px]">
+      КЛЕЄНА БАГАТОШАРОВА <br> ДЕРЕВИНА (GLT/GLULAM GL24h)
     </div>
 
     <div class="mb-[40px]">
@@ -630,10 +630,8 @@
                 </div>
               </div>
             </div>
-
           </div>
         </div>
-
       </div>
     </div>
 
@@ -643,10 +641,10 @@
       </div>
 
       <div class="flex grow flex-col lato-b text-[16px] text-[#61656F] leading-[18.5px] justify-center text-center">
-        <span>Клас міцності: С24 | Якість: NSi | Термін поставки: 4 тижні</span>
-        <span>Довжина до 13 000мм, інші розміри на замовлення</span>
-        <span>Сертифікат відповідності ДСТУ EN 15497 1393-CPR-1116</span>
-        <span>В таблиці зазначена кількість штук в повному пакеті</span>
+        <span>Класи міцності: GL24h, GL28h | Якість: Si/NSi | Термін поставки: 6-8 тижнів</span>
+        <span>Максимально можлива висота балки 1200 мм (спец. замовлення), довжина до 13000 мм</span>
+        <span>* Висота 100, 140, 180, 260, 300 калькулюємо як 120, 160, 200, 280, 320 відповідно</span>
+        <span>Сертифікат відповідності ДСТУ EN 14080 1393-CPR-1425 (GLULAM TIMBER)</span>
       </div>
     </div>
 
