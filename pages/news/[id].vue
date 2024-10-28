@@ -84,7 +84,7 @@
     </h1>
 
     <div class="flex gap-[12px] mb-[48px] md:flex-nowrap flex-wrap">
-      <div class="p-[14px] border-[#ECEDEE] h-[452px] lg:mb-[12px] border border-solid shadow flex flex-col gap-[18px] lg:w-[324px] w-full">
+      <div class="p-[14px] border-[#ECEDEE] lg:min-h-[452px] lg:mb-[12px] border border-solid shadow flex flex-col gap-[18px] lg:w-[324px] w-full">
         <img class="object-center w-full max-h-[200px] object-contain lg:max-h-auto lg:object-cover" src="/assets/img/news-1.png" alt="">
 
         <div>
@@ -103,7 +103,7 @@
           </div>
         </div>
 
-        <div class="-my-[10px]">
+        <div class="lg:-my-[10px]">
           <p class="text-[#61656F] text-[18px] lato-s leading-[24px]">
             V době, kdy se nacházíme na křižovatce mezi ekologickým chováním a ekonomickou efektivitou
           </p>
@@ -120,7 +120,7 @@
 
       </div>
 
-      <div class="p-[14px] border-[#ECEDEE] h-[452px] lg:mb-[12px] border border-solid shadow flex flex-col gap-[18px] lg:w-[324px] w-full">
+      <div class="p-[14px] border-[#ECEDEE] lg:min-h-[452px] lg:mb-[12px] border border-solid shadow flex flex-col gap-[18px] lg:w-[324px] w-full">
         <img class="object-center w-full max-h-[200px] object-contain lg:max-h-auto lg:object-cover" src="/assets/img/news-1.png" alt="">
 
         <div>
@@ -139,7 +139,7 @@
           </div>
         </div>
 
-        <div class="-my-[10px]">
+        <div class="lg:-my-[10px]">
           <p class="text-[#61656F] text-[18px] lato-s leading-[24px]">
             V době, kdy se nacházíme na křižovatce mezi ekologickým chováním a ekonomickou efektivitou
           </p>
@@ -156,7 +156,7 @@
 
       </div>
 
-      <div class="p-[14px] border-[#ECEDEE] h-[452px] lg:mb-[12px] border border-solid shadow flex flex-col gap-[18px] lg:w-[324px] w-full">
+      <div class="p-[14px] border-[#ECEDEE] lg:min-h-[452px] lg:mb-[12px] border border-solid shadow flex flex-col gap-[18px] lg:w-[324px] w-full">
         <img class="object-center w-full max-h-[200px] object-contain lg:max-h-auto lg:object-cover" src="/assets/img/news-1.png" alt="">
 
         <div>
@@ -175,7 +175,7 @@
           </div>
         </div>
 
-        <div class="-my-[10px]">
+        <div class="lg:-my-[10px]">
           <p class="text-[#61656F] text-[18px] lato-s leading-[24px]">
             V době, kdy se nacházíme na křižovatce mezi ekologickým chováním a ekonomickou efektivitou
           </p>
@@ -191,7 +191,6 @@
         </div>
 
       </div>
-
     </div>
 
     <nuxt-link to="/news" class="table mx-auto text-[#1F1C25] text-[16px] lato-m leading-[26px] underline underline-offset-[4px] hover:text-[#419B44] hover:underline">

@@ -1,6 +1,6 @@
 <template>
     <div class="mt-[15px] w-full">
-      <div class="lg:h-[400px] h-[320px] w-full bg-[url(/assets/img/bg.png)] bg-no-repeat bg-center relative lg:mb-[42px] mb-[14px] bg-cover">
+      <div class="lg:h-[400px] h-[320px] w-full lg:bg-[url(/assets/img/bg.png)] bg-[url(/assets/img/bg-mobile.png)] bg-no-repeat bg-center relative lg:mb-[42px] mb-[14px] bg-cover">
           <div class="absolute lg:table hidden left-0 top-0 bottom-0 m-auto table p-[24px] bg-white w-[540px]">
             <h1 class="text-[#419B44] uppercase text-[30px] lato-e mb-[14px]">
               Зелене будівництво — вибір <br> для відновлення України
@@ -29,7 +29,7 @@
 
         <div class="flex gap-[24px] md:flex-nowrap flex-wrap">
           <div class="border h-[346px] border-solid border-[#ECEDEE] lg:w-[316px] w-full h-[346px] p-[14px] flex flex-col gap-[10px] shadow">
-            <div>
+            <div class="bg-[#FAFAFA]">
               <img src="/assets/img/material-1.png" alt="" class="w-full lg:h-[166px] mx-auto max-w-[300px]">
             </div>
 
@@ -50,7 +50,7 @@
           </div>
 
           <div class="border h-[346px] border-solid border-[#ECEDEE] lg:w-[316px] w-full h-[346px] flex flex-col shadow p-[14px] gap-[10px]">
-            <div>
+            <div class="bg-[#FAFAFA]">
               <img src="/assets/img/material-2.png" alt="" class="w-full lg:h-[166px] mx-auto max-w-[300px]">
             </div>
 
@@ -69,7 +69,7 @@
           </div>
 
           <div class="border h-[346px] border-solid border-[#ECEDEE] lg:w-[316px] w-full h-[346px] flex flex-col shadow p-[14px] gap-[10px]">
-            <div>
+            <div class="bg-[#FAFAFA]">
               <img src="/assets/img/material-3.png" alt="" class="w-full lg:h-[166px] mx-auto max-w-[300px]">
             </div>
 
@@ -99,7 +99,7 @@
           <div class="flex gap-[24px] md:flex-nowrap flex-wrap">
             <nuxt-link to="/solution-1" class="border p-[14px] border-solid border-[#ECEDEE] md:w-[316px] w-full h-[305px] flex flex-col justify-between shadow">
               <div>
-                <img src="/assets/img/industrial.png" alt="" class="w-full">
+                <img src="/assets/img/industrial.png" alt="" class="w-full max-w-[300px] mx-auto">
               </div>
 
               <div to="/solution-1" class="h-[42px] mt-[44px] mb-[20px] shrink-0 bg-[#FAFAFA] hover:bg-[#F4F9F4] group border-[#ECEDEE] lg:mt-[24px] border border-solid text-[#464B57] hover:text-[#419B44] flex items-center justify-center cursor-pointer">
@@ -114,7 +114,7 @@
 
             <nuxt-link to="/solution-2" class="border p-[14px] border-solid border-[#ECEDEE] md:w-[316px] w-full h-[305px] flex flex-col justify-between shadow">
               <div>
-                <img src="/assets/img/living.png" alt="" class="w-full">
+                <img src="/assets/img/living.png" alt="" class="w-full max-w-[300px] mx-auto">
               </div>
 
               <div class="h-[42px] mt-[44px] mb-[20px] shrink-0 bg-[#FAFAFA] hover:bg-[#F4F9F4] group border-[#ECEDEE] lg:mt-[24px] border border-solid text-[#464B57] hover:text-[#419B44] flex items-center justify-center cursor-pointer">
@@ -129,7 +129,7 @@
 
             <nuxt-link to="/solution-3" class="border p-[14px] border-solid border-[#ECEDEE] md:w-[316px] w-full h-[305px] flex flex-col justify-between shadow">
               <div>
-                <img src="/assets/img/social.png" alt="" class="w-full">
+                <img src="/assets/img/social.png" alt="" class="w-full max-w-[300px] mx-auto">
               </div>
 
               <div to="/solution-3" class="h-[42px] mt-[44px] mb-[20px] shrink-0 bg-[#FAFAFA] hover:bg-[#F4F9F4] group border-[#ECEDEE] lg:mt-[24px] border border-solid text-[#464B57] hover:text-[#419B44] flex items-center justify-center cursor-pointer">
@@ -186,7 +186,7 @@
         </h1>
 
         <div class="flex gap-[12px] mb-[48px] md:flex-nowrap flex-wrap">
-          <div class="p-[14px] border-[#ECEDEE] h-[452px] lg:mb-[12px] border border-solid shadow flex flex-col gap-[18px] lg:w-[324px] w-full">
+          <div class="p-[14px] border-[#ECEDEE] lg:min-h-[452px] lg:mb-[12px] border border-solid shadow flex flex-col gap-[18px] lg:w-[324px] w-full">
             <img class="object-center w-full max-h-[200px] object-contain lg:max-h-auto lg:object-cover" src="/assets/img/news-1.png" alt="">
 
             <div>
@@ -205,7 +205,7 @@
               </div>
             </div>
 
-            <div class="-my-[10px]">
+            <div class="lg:-my-[10px]">
               <p class="text-[#61656F] text-[18px] lato-s leading-[24px]">
                 V době, kdy se nacházíme na křižovatce mezi ekologickým chováním a ekonomickou efektivitou
               </p>
@@ -222,7 +222,7 @@
 
           </div>
 
-          <div class="p-[14px] border-[#ECEDEE] h-[452px] lg:mb-[12px] border border-solid shadow flex flex-col gap-[18px] lg:w-[324px] w-full">
+          <div class="p-[14px] border-[#ECEDEE] lg:min-h-[452px] lg:mb-[12px] border border-solid shadow flex flex-col gap-[18px] lg:w-[324px] w-full">
             <img class="object-center w-full max-h-[200px] object-contain lg:max-h-auto lg:object-cover" src="/assets/img/news-1.png" alt="">
 
             <div>
@@ -241,7 +241,7 @@
               </div>
             </div>
 
-            <div class="-my-[10px]">
+            <div class="lg:-my-[10px]">
               <p class="text-[#61656F] text-[18px] lato-s leading-[24px]">
                 V době, kdy se nacházíme na křižovatce mezi ekologickým chováním a ekonomickou efektivitou
               </p>
@@ -258,7 +258,7 @@
 
           </div>
 
-          <div class="p-[14px] border-[#ECEDEE] h-[452px] lg:mb-[12px] border border-solid shadow flex flex-col gap-[18px] lg:w-[324px] w-full">
+          <div class="p-[14px] border-[#ECEDEE] lg:min-h-[452px] lg:mb-[12px] border border-solid shadow flex flex-col gap-[18px] lg:w-[324px] w-full">
             <img class="object-center w-full max-h-[200px] object-contain lg:max-h-auto lg:object-cover" src="/assets/img/news-1.png" alt="">
 
             <div>
@@ -277,7 +277,7 @@
               </div>
             </div>
 
-            <div class="-my-[10px]">
+            <div class="lg:-my-[10px]">
               <p class="text-[#61656F] text-[18px] lato-s leading-[24px]">
                 V době, kdy se nacházíme na křižovatce mezi ekologickým chováním a ekonomickou efektivitou
               </p>

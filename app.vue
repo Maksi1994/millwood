@@ -2,7 +2,7 @@
   <NuxtLayout>
     <custom-header class="fixed flex justify-center top-0 left-0 w-full z-[3] transition-100" :class="{scrolled: isScrolled}"/>
 
-    <div class="relative pt-[82px]">
+    <div class="relative lg:pt-[82px] pt-[57px]">
       <NuxtPage />
     </div>
   </NuxtLayout>

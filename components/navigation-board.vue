@@ -1,7 +1,7 @@
 <template>
-  <div ref="wrap" class="lg:py-[22px] py-[42px] lg:px-[32px] px-[16px] bg-[#F4F9F4] flex justify-center flex-wrap gap-[62px] lg:mx-0 -mx-[16px]">
+  <div ref="wrap" class="lg:py-[22px] py-[42px] min-h-[calc(100vh-55px)] px-[16px] lg:px-[32px] px-[16px] bg-[#F4F9F4] flex lg:flex-row flex-col lg:justify-center flex-wrap gap-[62px] lg:mx-0">
     <div class="w-full lg:w-[205px]">
-      <h1 class="text-[#464B57] lg:text-[16px] text-[18px] lato-e mb-[12px] leading-[19px] font-bold">Будівельні матеріали</h1>
+      <h1 class="text-[#464B57] lg:text-[16px] text-[18px] lato-e lg:mb-[12px] mb-[25px] leading-[19px] font-bold">Будівельні матеріали</h1>
 
       <ul>
         <li class="mb-[2px] lg:py-0 py-[10px] lg:border-0 border-b border-[#ECEDEE] border-solid">
@@ -23,7 +23,7 @@
     </div>
 
     <div class="w-full lg:w-auto">
-        <h1 class="text-[#464B57] lg:text-[16px] text-[18px] lato-e mb-[12px] leading-[19px] font-bold">Будівельні концепції</h1>
+        <h1 class="text-[#464B57] lg:text-[16px] text-[18px] lato-e lg:mb-[12px] mb-[25px] leading-[19px] font-bold">Будівельні концепції</h1>
 
         <ul>
           <li class="mb-[2px] lg:py-0 py-[10px] lg:border-0 border-b border-[#ECEDEE] border-solid">
@@ -43,6 +43,22 @@
           </li>
         </ul>
       </div>
+
+     <div class="lg:hidden flex mt-auto justify-between items-center">
+        <h3 class="text-[#464B57] lato-s">
+          Мова:
+        </h3>
+
+       <div class="ml-auto flex">
+         <div class="p-[7px]">
+           <img class="w-[45px]" src="/assets/img/icons/ua-flag.svg" alt="">
+         </div>
+
+         <div class="p-[7px]">
+           <img class="w-[45px] cursor-pointer" src="/assets/img/icons/uk-flag.svg" alt="">
+         </div>
+       </div>
+     </div>
   </div>
 </template>
 

@@ -1,13 +1,13 @@
 <template>
-  <div class="flex lg:py-[20px] bg-white py-[14px] items-center">
-    <!--
-    <img class="w-[16px] h-[16px] cursor-pointer mr-[16px]" draggable="false" src="/assets/img/icons/menu-line.svg" alt="">
-    <img class="w-[16px] h-[16px] cursor-pointer mr-[16px] hidden" draggable="false" src="/assets/img/icons/x.svg" alt="">
-    -->
+  <div class="flex lg:py-[20px] px-[16px] bg-white py-[12px] items-center lg:border-b-0 border-b border-solid border-[#ECEDEE]">
+    <div class="lg:hidden mr-[14px]" @click.stop="toggleMenu">
+      <img class="w-[24px] h-[24px] cursor-pointer" v-if="!isShownMenu" draggable="false" src="/assets/img/icons/menu-line.svg" alt="">
+      <img class="w-[24px] h-[24px] cursor-pointer" v-else draggable="false" src="/assets/img/icons/x.svg" alt="">
+    </div>
 
     <nuxt-link to="/">
       <img src="/assets/img/icons/logo.svg" draggable="false" class="w-[200px] mr-[40px] lg:block hidden">
-      <img src="/assets/img/logo-mobile.svg" draggable="false" class="w-[172px] mr-[28px] lg:hidden">
+      <img src="/assets/img/logo-mobile.svg" draggable="false" class="w-[133px] mr-[28px] lg:hidden">
     </nuxt-link>
 
 
@@ -30,11 +30,11 @@
     </div>
 
     <div class="lg:ml-[30px] ml-auto items-center flex">
-      <nuxt-link to="/contacts" class="lg:w-[125px] w-[96px] lg:leading-[42px] leading-[36px] lg:text-[16px] text-[14px] text-center cursor-pointer bg-[#419B44] text-white">
+      <nuxt-link to="/contacts" class="lg:w-[125px] w-[96px] lg:leading-[42px] leading-[32px] lg:text-[16px] text-[14px] text-center cursor-pointer bg-[#419B44] text-white">
         Звʼязатися
       </nuxt-link>
 
-      <div @click.stop="toggleLang" ref="langWrap" :class="{'!border-b-[transparent] z-[5]': isOpenLand}" class="ml-[12px] h-[42px] items-center w-[88px] relative select-none flex py-[6px] pl-[7px] pr-[10px] border border-[#ECEDEE] border-solid cursor-pointer h-[42px]">
+      <div @click.stop="toggleLang" ref="langWrap" :class="{'!border-b-[transparent] z-[5]': isOpenLand}" class="ml-[12px] h-[42px] items-center w-[88px] relative select-none lg:flex hidden py-[6px] pl-[7px] pr-[10px] border border-[#ECEDEE] border-solid cursor-pointer h-[42px]">
         <img class="w-[38px]" src="/assets/img/icons/ua-flag.svg" alt="">
 
         <img class="w-[24px] h-[24px] ml-[8px]" :class="{'is-open-arrow': isOpenLand}" draggable="false" src="/assets/img/icons/caret-down.svg"/>
@@ -45,7 +45,7 @@
       </div>
     </div>
 
-    <div class="absolute top-[100%] left-0 w-full z-[2]" v-if="isShownMenu">
+    <div class="absolute top-[calc(100%+1px)] left-0 bottom-0 m-auto w-full z-[2]" v-if="isShownMenu">
       <navigation-board />
     </div>
   </div>

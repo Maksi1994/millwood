@@ -155,7 +155,7 @@
       <div class="flex gap-[24px] md:flex-nowrap flex-wrap">
         <nuxt-link to="/solution-1" class="border p-[14px] border-solid border-[#ECEDEE] md:w-[316px] w-full h-[305px] flex flex-col justify-between shadow">
           <div>
-            <img src="/assets/img/industrial.png" alt="" class="w-full">
+            <img src="/assets/img/industrial.png" alt="" class="w-full max-w-[300px] mx-auto">
           </div>
 
           <div to="/solution-1" class="h-[42px] mt-[44px] mb-[20px] shrink-0 bg-[#FAFAFA] hover:bg-[#F4F9F4] group border-[#ECEDEE] lg:mt-[24px] border border-solid text-[#464B57] hover:text-[#419B44] flex items-center justify-center cursor-pointer">
@@ -170,7 +170,7 @@
 
         <nuxt-link to="/solution-2" class="border p-[14px] border-solid border-[#ECEDEE] md:w-[316px] w-full h-[305px] flex flex-col justify-between shadow">
           <div>
-            <img src="/assets/img/living.png" alt="" class="w-full">
+            <img src="/assets/img/living.png" alt="" class="w-full max-w-[300px] mx-auto">
           </div>
 
           <div class="h-[42px] mt-[44px] mb-[20px] shrink-0 bg-[#FAFAFA] hover:bg-[#F4F9F4] group border-[#ECEDEE] lg:mt-[24px] border border-solid text-[#464B57] hover:text-[#419B44] flex items-center justify-center cursor-pointer">
@@ -185,7 +185,7 @@
 
         <nuxt-link to="/solution-3" class="border p-[14px] border-solid border-[#ECEDEE] md:w-[316px] w-full h-[305px] flex flex-col justify-between shadow">
           <div>
-            <img src="/assets/img/social.png" alt="" class="w-full">
+            <img src="/assets/img/social.png" alt="" class="w-full max-w-[300px] mx-auto">
           </div>
 
           <div to="/solution-3" class="h-[42px] mt-[44px] mb-[20px] shrink-0 bg-[#FAFAFA] hover:bg-[#F4F9F4] group border-[#ECEDEE] lg:mt-[24px] border border-solid text-[#464B57] hover:text-[#419B44] flex items-center justify-center cursor-pointer">
@@ -199,8 +199,6 @@
         </nuxt-link>
       </div>
     </div>
-
-
   </div>
 </template>
 

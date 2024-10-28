@@ -129,9 +129,10 @@
         Будівельні матеріали
       </h1>
 
+
       <div class="flex gap-[24px] md:flex-nowrap flex-wrap">
         <div class="border h-[346px] border-solid border-[#ECEDEE] lg:w-[316px] w-full h-[346px] p-[14px] flex flex-col gap-[10px] shadow">
-          <div>
+          <div class="bg-[#FAFAFA]">
             <img src="/assets/img/material-1.png" alt="" class="w-full lg:h-[166px] mx-auto max-w-[300px]">
           </div>
 
@@ -152,7 +153,7 @@
         </div>
 
         <div class="border h-[346px] border-solid border-[#ECEDEE] lg:w-[316px] w-full h-[346px] flex flex-col shadow p-[14px] gap-[10px]">
-          <div>
+          <div class="bg-[#FAFAFA]">
             <img src="/assets/img/material-2.png" alt="" class="w-full lg:h-[166px] mx-auto max-w-[300px]">
           </div>
 
@@ -171,7 +172,7 @@
         </div>
 
         <div class="border h-[346px] border-solid border-[#ECEDEE] lg:w-[316px] w-full h-[346px] flex flex-col shadow p-[14px] gap-[10px]">
-          <div>
+          <div class="bg-[#FAFAFA]">
             <img src="/assets/img/material-3.png" alt="" class="w-full lg:h-[166px] mx-auto max-w-[300px]">
           </div>
 
