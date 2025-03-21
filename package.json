@@ -8,7 +8,7 @@
     "generate": "nuxt generate",
     "preview": "nuxt preview",
     "postinstall": "nuxt prepare",
-    "start": "node .output/server/index.mjs"
+    "start": "NITRO_PORT=4000 node .output/server/index.mjs "
   },
   "dependencies": {
     "nuxt": "^3.13.0",
